@@ -23,5 +23,5 @@ Power BI(Learning)
 
 📫 Contact
 Email: naomimohlala2@gmail.com
-Cellphone number: 062 412 9607
+Cellphone number: 0624129607
 

@@ -1,0 +1,5001 @@
+order_id,customer_id,order_date,sales_channel,order_status
+1,662,2025-07-19,Store,Completed
+2,270,2025-02-10,Store,Returned
+3,246,2025-09-22,Mobile App,Returned
+4,702,2025-05-20,Store,Returned
+5,761,2025-09-30,Store,Completed
+6,193,2025-02-05,Online,Completed
+7,297,2025-02-26,Mobile App,Completed
+8,633,2025-08-20,Store,Returned
+9,638,2025-09-09,Online,Completed
+10,20,2025-03-19,Online,Cancelled
+11,23,2025-04-06,Online,Completed
+12,276,2025-03-06,Mobile App,Completed
+13,745,2025-01-05,Online,Completed
+14,155,2025-01-08,Store,Completed
+15,351,2025-08-04,Store,Completed
+16,381,2025-08-26,Mobile App,Completed
+17,339,2025-02-11,Online,Completed
+18,273,2025-07-20,Online,Cancelled
+19,482,2025-04-03,Online,Completed
+20,837,2025-07-15,Online,Completed
+21,998,2025-05-08,Store,Completed
+22,254,2025-01-18,Online,Completed
+23,753,2025-02-18,Mobile App,Returned
+24,214,2025-08-31,Store,Returned
+25,985,2025-06-09,Store,Completed
+26,645,2025-01-22,Mobile App,Cancelled
+27,534,2025-03-04,Store,Completed
+28,654,2025-06-02,Online,Completed
+29,909,2025-01-27,Mobile App,Completed
+30,997,2025-02-27,Online,Returned
+31,445,2025-06-16,Online,Completed
+32,814,2025-05-22,Mobile App,Completed
+33,406,2025-05-05,Online,Completed
+34,596,2025-12-20,Store,Returned
+35,611,2025-03-21,Store,Completed
+36,255,2025-03-22,Store,Completed
+37,703,2025-11-13,Store,Returned
+38,62,2025-01-31,Store,Returned
+39,158,2025-12-26,Mobile App,Completed
+40,129,2025-09-07,Online,Completed
+41,572,2025-11-27,Store,Completed
+42,751,2025-04-09,Online,Returned
+43,387,2025-07-03,Mobile App,Completed
+44,257,2025-01-21,Store,Returned
+45,449,2025-10-14,Store,Cancelled
+46,714,2025-09-08,Online,Cancelled
+47,192,2025-10-06,Store,Completed
+48,750,2025-08-28,Store,Cancelled
+49,937,2025-10-11,Online,Completed
+50,544,2025-03-21,Store,Completed
+51,840,2025-05-15,Mobile App,Completed
+52,465,2025-01-01,Mobile App,Cancelled
+53,389,2025-04-05,Online,Cancelled
+54,878,2025-07-06,Mobile App,Completed
+55,329,2025-02-02,Mobile App,Cancelled
+56,839,2025-07-18,Online,Cancelled
+57,700,2025-09-12,Mobile App,Completed
+58,628,2025-05-25,Store,Completed
+59,657,2025-06-14,Online,Completed
+60,536,2025-12-04,Online,Completed
+61,856,2025-03-08,Online,Completed
+62,207,2025-02-24,Store,Completed
+63,102,2025-01-17,Mobile App,Returned
+64,857,2025-07-18,Mobile App,Completed
+65,539,2025-11-16,Mobile App,Cancelled
+66,263,2025-01-26,Store,Completed
+67,621,2025-02-06,Online,Completed
+68,672,2025-09-09,Online,Completed
+69,821,2025-11-24,Online,Completed
+70,572,2025-08-01,Store,Returned
+71,60,2025-11-12,Store,Cancelled
+72,42,2025-02-06,Store,Completed
+73,968,2025-04-21,Mobile App,Completed
+74,104,2025-04-29,Mobile App,Completed
+75,195,2025-04-09,Mobile App,Returned
+76,255,2025-10-19,Mobile App,Completed
+77,572,2025-10-13,Store,Returned
+78,109,2025-11-23,Mobile App,Completed
+79,691,2025-08-23,Mobile App,Returned
+80,438,2025-02-23,Online,Completed
+81,564,2025-07-25,Mobile App,Completed
+82,674,2025-03-22,Mobile App,Cancelled
+83,454,2025-06-30,Store,Cancelled
+84,333,2025-07-10,Store,Returned
+85,441,2025-06-15,Mobile App,Completed
+86,577,2025-10-07,Online,Completed
+87,785,2025-10-09,Mobile App,Completed
+88,369,2025-08-20,Store,Completed
+89,1,2025-01-18,Store,Cancelled
+90,17,2025-09-23,Online,Completed
+91,7,2025-06-03,Online,Completed
+92,877,2025-06-11,Online,Returned
+93,843,2025-05-22,Mobile App,Cancelled
+94,570,2025-10-20,Mobile App,Completed
+95,97,2025-01-20,Store,Completed
+96,160,2025-03-12,Store,Completed
+97,911,2025-10-26,Online,Completed
+98,263,2025-06-03,Online,Cancelled
+99,410,2025-10-19,Online,Returned
+100,80,2025-06-16,Store,Completed
+101,500,2025-12-20,Mobile App,Cancelled
+102,840,2025-02-18,Mobile App,Returned
+103,308,2025-01-20,Mobile App,Cancelled
+104,391,2025-02-10,Online,Completed
+105,357,2025-08-11,Store,Completed
+106,891,2025-04-27,Mobile App,Returned
+107,870,2025-11-05,Online,Returned
+108,797,2025-11-20,Store,Completed
+109,313,2025-09-26,Online,Completed
+110,553,2025-10-17,Online,Completed
+111,515,2025-12-24,Online,Completed
+112,52,2025-12-11,Mobile App,Completed
+113,995,2025-08-17,Mobile App,Cancelled
+114,517,2025-02-16,Online,Completed
+115,297,2025-07-21,Online,Completed
+116,345,2025-02-12,Store,Cancelled
+117,764,2025-01-26,Mobile App,Completed
+118,269,2025-02-13,Store,Cancelled
+119,445,2025-12-24,Online,Completed
+120,493,2025-10-14,Online,Completed
+121,405,2025-11-30,Mobile App,Completed
+122,575,2025-11-12,Mobile App,Cancelled
+123,253,2025-05-05,Online,Completed
+124,796,2025-08-09,Store,Returned
+125,947,2025-10-22,Online,Completed
+126,688,2025-07-31,Store,Completed
+127,357,2025-04-08,Store,Completed
+128,609,2025-12-02,Online,Completed
+129,174,2025-06-29,Mobile App,Completed
+130,639,2025-03-16,Store,Completed
+131,947,2025-04-30,Online,Returned
+132,383,2025-03-21,Mobile App,Completed
+133,116,2025-01-28,Online,Cancelled
+134,949,2025-03-17,Store,Completed
+135,352,2025-12-22,Online,Completed
+136,461,2025-08-30,Online,Completed
+137,215,2025-10-03,Online,Completed
+138,560,2025-09-25,Store,Cancelled
+139,495,2025-11-15,Mobile App,Completed
+140,712,2025-12-24,Mobile App,Completed
+141,386,2025-10-26,Mobile App,Cancelled
+142,45,2025-05-11,Online,Completed
+143,291,2025-04-13,Mobile App,Cancelled
+144,278,2025-01-28,Store,Returned
+145,968,2025-01-05,Online,Completed
+146,677,2025-05-19,Mobile App,Returned
+147,369,2025-02-25,Online,Completed
+148,889,2025-11-29,Store,Completed
+149,390,2025-09-18,Mobile App,Completed
+150,926,2025-06-11,Store,Cancelled
+151,545,2025-02-15,Online,Completed
+152,513,2025-08-23,Mobile App,Returned
+153,23,2025-01-21,Online,Cancelled
+154,313,2025-06-20,Store,Completed
+155,763,2025-03-22,Online,Completed
+156,701,2025-06-30,Store,Returned
+157,310,2025-05-01,Mobile App,Completed
+158,832,2025-02-01,Mobile App,Completed
+159,900,2025-07-18,Online,Cancelled
+160,972,2025-05-24,Online,Completed
+161,350,2025-07-21,Mobile App,Completed
+162,90,2025-07-15,Mobile App,Returned
+163,628,2025-11-17,Mobile App,Completed
+164,428,2025-05-04,Mobile App,Completed
+165,437,2025-06-09,Mobile App,Completed
+166,460,2025-10-05,Online,Completed
+167,669,2025-03-12,Mobile App,Cancelled
+168,701,2025-04-14,Online,Completed
+169,706,2025-12-28,Mobile App,Completed
+170,441,2025-03-16,Mobile App,Cancelled
+171,940,2025-03-22,Store,Completed
+172,571,2025-09-30,Mobile App,Completed
+173,189,2025-06-12,Online,Returned
+174,31,2025-06-13,Store,Completed
+175,311,2025-08-15,Mobile App,Returned
+176,956,2025-05-21,Online,Completed
+177,110,2025-03-09,Online,Completed
+178,781,2025-11-10,Mobile App,Completed
+179,621,2025-10-18,Mobile App,Completed
+180,611,2025-04-29,Online,Returned
+181,27,2025-07-03,Online,Returned
+182,799,2025-09-02,Online,Cancelled
+183,867,2025-11-06,Store,Returned
+184,666,2025-07-11,Online,Completed
+185,504,2025-08-31,Online,Completed
+186,198,2025-04-26,Online,Completed
+187,783,2025-01-08,Store,Completed
+188,228,2025-12-10,Online,Completed
+189,68,2025-04-01,Store,Cancelled
+190,502,2025-12-19,Store,Completed
+191,909,2025-05-07,Store,Completed
+192,795,2025-01-22,Mobile App,Returned
+193,845,2025-07-14,Mobile App,Completed
+194,404,2025-11-10,Mobile App,Cancelled
+195,609,2025-10-02,Mobile App,Returned
+196,897,2025-12-27,Online,Cancelled
+197,112,2025-08-20,Store,Completed
+198,899,2025-05-06,Mobile App,Cancelled
+199,406,2025-01-21,Mobile App,Completed
+200,529,2025-11-19,Online,Completed
+201,299,2025-08-14,Store,Completed
+202,793,2025-05-27,Store,Completed
+203,433,2025-05-31,Mobile App,Completed
+204,707,2025-09-22,Online,Completed
+205,850,2025-11-27,Store,Completed
+206,740,2025-09-14,Online,Completed
+207,798,2025-10-27,Mobile App,Cancelled
+208,139,2025-07-21,Store,Completed
+209,462,2025-01-13,Online,Completed
+210,605,2025-12-31,Online,Completed
+211,93,2025-05-09,Store,Returned
+212,665,2025-12-31,Online,Returned
+213,751,2025-03-05,Online,Completed
+214,724,2025-08-19,Mobile App,Completed
+215,88,2025-09-26,Mobile App,Completed
+216,745,2025-09-19,Mobile App,Completed
+217,388,2025-10-09,Store,Completed
+218,787,2025-03-29,Store,Cancelled
+219,893,2025-12-04,Online,Completed
+220,890,2025-03-16,Online,Returned
+221,53,2025-08-03,Store,Completed
+222,748,2025-08-17,Store,Returned
+223,186,2025-03-02,Online,Completed
+224,4,2025-11-15,Store,Completed
+225,470,2025-09-12,Store,Cancelled
+226,827,2025-01-03,Mobile App,Completed
+227,244,2025-04-22,Mobile App,Returned
+228,488,2025-08-21,Store,Completed
+229,82,2025-11-04,Mobile App,Completed
+230,251,2025-10-08,Store,Cancelled
+231,644,2025-10-13,Online,Completed
+232,190,2025-03-17,Online,Returned
+233,358,2025-01-19,Online,Completed
+234,684,2025-10-23,Mobile App,Completed
+235,340,2025-02-14,Online,Completed
+236,427,2025-04-02,Online,Returned
+237,292,2025-11-09,Mobile App,Returned
+238,717,2025-11-01,Mobile App,Cancelled
+239,182,2025-08-22,Mobile App,Cancelled
+240,369,2025-01-19,Online,Completed
+241,331,2025-07-08,Store,Completed
+242,777,2025-08-07,Mobile App,Completed
+243,300,2025-08-30,Online,Completed
+244,712,2025-05-21,Store,Cancelled
+245,424,2025-09-26,Online,Returned
+246,215,2025-11-10,Online,Completed
+247,586,2025-11-19,Mobile App,Completed
+248,496,2025-12-19,Mobile App,Returned
+249,295,2025-08-07,Mobile App,Completed
+250,266,2025-09-27,Mobile App,Cancelled
+251,363,2025-03-08,Mobile App,Cancelled
+252,509,2025-09-24,Mobile App,Returned
+253,510,2025-09-10,Online,Cancelled
+254,239,2025-12-29,Store,Completed
+255,2,2025-03-02,Online,Completed
+256,641,2025-03-02,Mobile App,Completed
+257,819,2025-11-12,Store,Completed
+258,47,2025-06-20,Store,Cancelled
+259,826,2025-11-23,Online,Completed
+260,656,2025-04-14,Mobile App,Completed
+261,261,2025-02-04,Store,Completed
+262,519,2025-10-09,Store,Completed
+263,117,2025-12-18,Store,Completed
+264,406,2025-10-19,Mobile App,Completed
+265,853,2025-03-31,Online,Completed
+266,854,2025-06-23,Mobile App,Completed
+267,939,2025-08-31,Online,Returned
+268,140,2025-09-04,Online,Returned
+269,472,2025-10-02,Store,Completed
+270,803,2025-07-31,Mobile App,Completed
+271,856,2025-09-24,Store,Cancelled
+272,743,2025-12-14,Store,Cancelled
+273,549,2025-01-10,Online,Cancelled
+274,702,2025-06-19,Store,Completed
+275,993,2025-03-18,Store,Completed
+276,348,2025-07-12,Mobile App,Cancelled
+277,863,2025-03-26,Mobile App,Cancelled
+278,399,2025-04-06,Mobile App,Completed
+279,886,2025-06-07,Mobile App,Completed
+280,727,2025-01-17,Store,Completed
+281,89,2025-09-12,Online,Completed
+282,463,2025-06-04,Online,Cancelled
+283,310,2025-03-31,Online,Completed
+284,804,2025-01-20,Online,Completed
+285,455,2025-09-17,Online,Completed
+286,927,2025-09-14,Online,Completed
+287,349,2025-09-05,Mobile App,Cancelled
+288,318,2025-06-17,Online,Completed
+289,842,2025-09-22,Mobile App,Completed
+290,211,2025-01-19,Store,Completed
+291,731,2025-09-25,Online,Completed
+292,319,2025-01-23,Mobile App,Cancelled
+293,893,2025-02-14,Store,Completed
+294,911,2025-01-24,Online,Cancelled
+295,785,2025-12-04,Mobile App,Completed
+296,24,2025-10-23,Store,Returned
+297,914,2025-04-18,Store,Completed
+298,198,2025-05-27,Store,Cancelled
+299,327,2025-08-14,Mobile App,Completed
+300,280,2025-03-18,Online,Completed
+301,118,2025-01-08,Mobile App,Cancelled
+302,527,2025-02-22,Online,Cancelled
+303,359,2025-10-09,Store,Completed
+304,145,2025-12-27,Store,Cancelled
+305,251,2025-03-29,Online,Completed
+306,628,2025-06-23,Mobile App,Completed
+307,52,2025-03-08,Online,Completed
+308,925,2025-12-12,Online,Completed
+309,393,2025-01-28,Online,Completed
+310,402,2025-04-02,Mobile App,Cancelled
+311,913,2025-10-31,Mobile App,Returned
+312,717,2025-08-17,Mobile App,Completed
+313,320,2025-06-20,Online,Returned
+314,777,2025-12-10,Mobile App,Completed
+315,998,2025-08-27,Mobile App,Completed
+316,96,2025-12-24,Store,Completed
+317,467,2025-06-08,Mobile App,Returned
+318,728,2025-08-27,Store,Completed
+319,971,2025-04-25,Online,Cancelled
+320,265,2025-07-06,Store,Completed
+321,717,2025-12-07,Store,Completed
+322,465,2025-09-07,Online,Completed
+323,487,2025-02-27,Store,Completed
+324,473,2025-03-29,Store,Completed
+325,619,2025-10-22,Online,Cancelled
+326,106,2025-07-27,Mobile App,Completed
+327,334,2025-10-12,Mobile App,Completed
+328,812,2025-06-04,Mobile App,Completed
+329,411,2025-10-30,Store,Completed
+330,636,2025-05-05,Mobile App,Completed
+331,998,2025-09-04,Store,Completed
+332,349,2025-04-17,Mobile App,Cancelled
+333,442,2025-08-11,Mobile App,Completed
+334,558,2025-12-22,Online,Completed
+335,679,2025-12-09,Online,Returned
+336,954,2025-12-31,Mobile App,Completed
+337,118,2025-10-31,Mobile App,Completed
+338,334,2025-10-12,Online,Completed
+339,181,2025-06-07,Store,Completed
+340,613,2025-02-25,Mobile App,Cancelled
+341,790,2025-07-14,Store,Completed
+342,661,2025-12-05,Online,Completed
+343,223,2025-03-13,Mobile App,Returned
+344,830,2025-01-01,Online,Returned
+345,153,2025-08-20,Mobile App,Completed
+346,400,2025-11-12,Mobile App,Completed
+347,201,2025-04-16,Mobile App,Completed
+348,307,2025-10-19,Mobile App,Completed
+349,941,2025-08-11,Mobile App,Completed
+350,92,2025-10-26,Online,Cancelled
+351,523,2025-07-26,Online,Completed
+352,64,2025-07-09,Mobile App,Completed
+353,1,2025-12-27,Mobile App,Completed
+354,113,2025-05-25,Online,Completed
+355,443,2025-12-26,Mobile App,Completed
+356,641,2025-06-12,Mobile App,Completed
+357,416,2025-07-15,Store,Cancelled
+358,217,2025-12-06,Online,Completed
+359,143,2025-04-07,Mobile App,Completed
+360,864,2025-07-04,Store,Completed
+361,296,2025-12-10,Online,Completed
+362,12,2025-02-06,Mobile App,Completed
+363,148,2025-09-07,Mobile App,Completed
+364,999,2025-03-11,Online,Completed
+365,658,2025-08-01,Store,Returned
+366,619,2025-08-06,Mobile App,Completed
+367,466,2025-09-18,Store,Cancelled
+368,840,2025-08-19,Store,Completed
+369,232,2025-04-06,Store,Cancelled
+370,8,2025-10-23,Store,Returned
+371,243,2025-12-31,Mobile App,Completed
+372,421,2025-10-07,Mobile App,Completed
+373,35,2025-01-20,Mobile App,Completed
+374,722,2025-07-08,Online,Cancelled
+375,494,2025-12-20,Online,Completed
+376,748,2025-09-27,Store,Completed
+377,530,2025-02-10,Mobile App,Cancelled
+378,91,2025-05-06,Store,Returned
+379,760,2025-12-06,Mobile App,Completed
+380,701,2025-11-21,Mobile App,Cancelled
+381,320,2025-11-10,Online,Completed
+382,548,2025-01-06,Store,Completed
+383,525,2025-08-29,Mobile App,Returned
+384,340,2025-08-04,Store,Completed
+385,297,2025-03-27,Online,Returned
+386,946,2025-11-02,Mobile App,Completed
+387,745,2025-10-16,Store,Completed
+388,645,2025-08-31,Mobile App,Completed
+389,587,2025-01-27,Mobile App,Completed
+390,829,2025-11-16,Online,Completed
+391,497,2025-02-12,Online,Cancelled
+392,79,2025-05-23,Store,Completed
+393,631,2025-05-24,Store,Completed
+394,15,2025-02-27,Mobile App,Completed
+395,932,2025-10-30,Mobile App,Completed
+396,675,2025-08-17,Store,Completed
+397,268,2025-12-25,Online,Completed
+398,186,2025-09-28,Online,Completed
+399,87,2025-03-16,Mobile App,Completed
+400,858,2025-09-11,Store,Completed
+401,244,2025-12-05,Store,Returned
+402,653,2025-03-27,Online,Cancelled
+403,752,2025-06-26,Online,Returned
+404,271,2025-03-01,Online,Completed
+405,476,2025-07-24,Store,Completed
+406,488,2025-09-30,Online,Completed
+407,700,2025-12-28,Store,Completed
+408,269,2025-03-16,Mobile App,Completed
+409,13,2025-05-28,Store,Completed
+410,695,2025-06-11,Mobile App,Returned
+411,979,2025-01-22,Online,Cancelled
+412,653,2025-07-01,Store,Cancelled
+413,941,2025-11-30,Store,Completed
+414,277,2025-05-17,Online,Completed
+415,671,2025-10-27,Store,Completed
+416,792,2025-12-12,Mobile App,Completed
+417,752,2025-12-11,Mobile App,Completed
+418,533,2025-06-22,Mobile App,Returned
+419,185,2025-06-10,Mobile App,Completed
+420,689,2025-01-05,Online,Completed
+421,422,2025-02-20,Mobile App,Completed
+422,702,2025-08-17,Store,Completed
+423,743,2025-05-26,Store,Completed
+424,35,2025-01-13,Mobile App,Completed
+425,59,2025-11-01,Mobile App,Completed
+426,974,2025-11-03,Mobile App,Completed
+427,726,2025-03-03,Online,Cancelled
+428,134,2025-07-12,Mobile App,Returned
+429,580,2025-04-05,Online,Returned
+430,189,2025-05-10,Store,Completed
+431,677,2025-02-08,Mobile App,Completed
+432,945,2025-05-22,Store,Returned
+433,926,2025-12-08,Store,Completed
+434,166,2025-02-07,Store,Completed
+435,392,2025-07-18,Store,Completed
+436,265,2025-05-16,Online,Completed
+437,72,2025-09-09,Online,Cancelled
+438,403,2025-04-02,Mobile App,Completed
+439,112,2025-03-15,Mobile App,Completed
+440,224,2025-11-11,Mobile App,Completed
+441,935,2025-08-15,Mobile App,Completed
+442,106,2025-01-18,Online,Completed
+443,586,2025-05-09,Store,Completed
+444,919,2025-09-12,Online,Returned
+445,656,2025-01-01,Online,Returned
+446,400,2025-05-17,Online,Returned
+447,338,2025-07-20,Mobile App,Completed
+448,528,2025-12-29,Store,Completed
+449,447,2025-07-26,Mobile App,Completed
+450,554,2025-04-26,Online,Completed
+451,978,2025-12-19,Store,Completed
+452,581,2025-10-02,Store,Completed
+453,699,2025-06-05,Store,Completed
+454,648,2025-11-28,Online,Completed
+455,548,2025-06-24,Online,Completed
+456,779,2025-05-29,Mobile App,Completed
+457,181,2025-10-11,Online,Completed
+458,677,2025-04-08,Store,Returned
+459,400,2025-02-24,Mobile App,Returned
+460,368,2025-09-07,Online,Returned
+461,449,2025-04-08,Online,Completed
+462,198,2025-01-13,Mobile App,Cancelled
+463,245,2025-09-08,Store,Completed
+464,812,2025-10-04,Mobile App,Completed
+465,512,2025-10-01,Store,Completed
+466,38,2025-06-23,Online,Completed
+467,807,2025-01-22,Store,Completed
+468,217,2025-12-01,Mobile App,Cancelled
+469,470,2025-12-14,Mobile App,Completed
+470,759,2025-10-24,Online,Completed
+471,38,2025-03-14,Store,Returned
+472,20,2025-08-30,Mobile App,Completed
+473,249,2025-12-26,Mobile App,Completed
+474,15,2025-03-30,Mobile App,Completed
+475,927,2025-06-07,Online,Completed
+476,626,2025-03-29,Mobile App,Completed
+477,838,2025-02-24,Online,Completed
+478,610,2025-11-12,Online,Completed
+479,824,2025-04-14,Store,Completed
+480,831,2025-12-14,Store,Completed
+481,124,2025-12-17,Mobile App,Cancelled
+482,141,2025-06-14,Online,Completed
+483,608,2025-03-30,Store,Completed
+484,124,2025-05-21,Online,Completed
+485,173,2025-12-23,Store,Cancelled
+486,169,2025-08-13,Online,Cancelled
+487,42,2025-03-10,Online,Returned
+488,628,2025-07-12,Online,Completed
+489,901,2025-09-07,Online,Completed
+490,8,2025-04-02,Online,Returned
+491,668,2025-10-31,Store,Completed
+492,711,2025-09-01,Mobile App,Completed
+493,212,2025-03-15,Mobile App,Completed
+494,536,2025-08-19,Store,Completed
+495,961,2025-03-31,Mobile App,Returned
+496,39,2025-11-02,Online,Returned
+497,512,2025-11-10,Online,Returned
+498,847,2025-06-04,Store,Completed
+499,5,2025-10-13,Online,Completed
+500,121,2025-09-29,Online,Cancelled
+501,371,2025-10-04,Mobile App,Completed
+502,476,2025-11-17,Mobile App,Completed
+503,284,2025-01-28,Online,Completed
+504,816,2025-03-18,Mobile App,Completed
+505,510,2025-04-01,Online,Returned
+506,945,2025-01-23,Online,Returned
+507,373,2025-05-26,Online,Completed
+508,258,2025-06-21,Mobile App,Completed
+509,45,2025-02-23,Mobile App,Completed
+510,948,2025-10-03,Online,Completed
+511,805,2025-01-15,Store,Cancelled
+512,119,2025-02-06,Online,Returned
+513,456,2025-10-31,Mobile App,Completed
+514,430,2025-04-12,Mobile App,Returned
+515,920,2025-06-16,Online,Completed
+516,334,2025-04-27,Online,Completed
+517,756,2025-07-31,Online,Completed
+518,913,2025-04-23,Online,Completed
+519,600,2025-09-06,Online,Completed
+520,149,2025-04-21,Mobile App,Completed
+521,183,2025-07-18,Store,Completed
+522,469,2025-04-10,Mobile App,Completed
+523,999,2025-05-19,Online,Completed
+524,131,2025-01-17,Mobile App,Cancelled
+525,62,2025-05-24,Online,Completed
+526,873,2025-08-27,Store,Completed
+527,176,2025-06-25,Online,Completed
+528,619,2025-03-22,Mobile App,Cancelled
+529,928,2025-03-29,Mobile App,Cancelled
+530,876,2025-04-28,Online,Completed
+531,878,2025-09-25,Store,Completed
+532,606,2025-08-31,Store,Completed
+533,15,2025-08-08,Mobile App,Completed
+534,254,2025-06-17,Store,Cancelled
+535,228,2025-10-30,Online,Cancelled
+536,920,2025-01-03,Store,Completed
+537,42,2025-08-29,Mobile App,Cancelled
+538,35,2025-08-06,Mobile App,Completed
+539,491,2025-12-23,Online,Completed
+540,508,2025-05-04,Online,Cancelled
+541,772,2025-01-07,Mobile App,Returned
+542,417,2025-04-22,Online,Completed
+543,303,2025-05-03,Mobile App,Completed
+544,17,2025-09-03,Mobile App,Completed
+545,166,2025-12-27,Store,Cancelled
+546,766,2025-10-26,Online,Completed
+547,475,2025-03-12,Mobile App,Completed
+548,190,2025-07-09,Mobile App,Completed
+549,721,2025-11-21,Online,Returned
+550,73,2025-07-17,Mobile App,Completed
+551,544,2025-01-17,Store,Completed
+552,771,2025-05-19,Mobile App,Cancelled
+553,556,2025-10-22,Online,Returned
+554,83,2025-11-14,Store,Returned
+555,955,2025-01-29,Mobile App,Returned
+556,373,2025-01-27,Online,Completed
+557,375,2025-08-27,Mobile App,Completed
+558,375,2025-07-07,Online,Returned
+559,573,2025-12-27,Online,Cancelled
+560,727,2025-04-15,Online,Completed
+561,245,2025-10-04,Online,Returned
+562,490,2025-10-25,Mobile App,Completed
+563,772,2025-04-26,Store,Completed
+564,920,2025-05-17,Mobile App,Returned
+565,434,2025-05-22,Online,Completed
+566,382,2025-06-26,Store,Completed
+567,514,2025-09-27,Online,Completed
+568,727,2025-09-30,Mobile App,Cancelled
+569,922,2025-05-30,Store,Cancelled
+570,377,2025-12-11,Mobile App,Completed
+571,193,2025-08-23,Online,Completed
+572,401,2025-04-02,Store,Completed
+573,112,2025-03-26,Store,Completed
+574,714,2025-03-17,Store,Completed
+575,896,2025-04-15,Mobile App,Returned
+576,24,2025-05-31,Store,Returned
+577,555,2025-03-09,Store,Completed
+578,431,2025-08-16,Mobile App,Returned
+579,22,2025-05-30,Online,Completed
+580,23,2025-04-29,Mobile App,Returned
+581,344,2025-07-30,Mobile App,Completed
+582,672,2025-11-27,Store,Completed
+583,608,2025-12-07,Mobile App,Cancelled
+584,863,2025-10-08,Store,Completed
+585,312,2025-10-18,Online,Completed
+586,176,2025-05-14,Online,Completed
+587,381,2025-05-28,Online,Completed
+588,362,2025-05-26,Store,Completed
+589,634,2025-03-24,Mobile App,Cancelled
+590,293,2025-04-04,Online,Returned
+591,710,2025-12-08,Online,Completed
+592,244,2025-03-01,Online,Completed
+593,589,2025-03-06,Store,Completed
+594,379,2025-04-05,Online,Cancelled
+595,725,2025-01-18,Mobile App,Completed
+596,353,2025-03-17,Store,Completed
+597,553,2025-03-25,Mobile App,Completed
+598,125,2025-01-13,Store,Completed
+599,787,2025-03-16,Store,Completed
+600,160,2025-01-03,Mobile App,Cancelled
+601,1000,2025-09-17,Store,Returned
+602,723,2025-06-01,Store,Completed
+603,993,2025-10-21,Mobile App,Completed
+604,819,2025-10-17,Mobile App,Completed
+605,347,2025-12-19,Online,Returned
+606,491,2025-01-21,Online,Returned
+607,565,2025-03-01,Store,Completed
+608,412,2025-11-13,Online,Completed
+609,366,2025-02-17,Store,Completed
+610,623,2025-11-25,Online,Cancelled
+611,540,2025-04-24,Store,Completed
+612,24,2025-02-12,Mobile App,Completed
+613,694,2025-12-10,Online,Cancelled
+614,404,2025-04-10,Store,Completed
+615,618,2025-11-06,Mobile App,Completed
+616,931,2025-12-08,Store,Completed
+617,152,2025-08-07,Store,Completed
+618,382,2025-01-07,Store,Completed
+619,360,2025-06-07,Store,Cancelled
+620,90,2025-04-21,Mobile App,Completed
+621,760,2025-08-01,Store,Completed
+622,168,2025-08-06,Mobile App,Completed
+623,143,2025-10-28,Mobile App,Completed
+624,148,2025-04-17,Store,Completed
+625,889,2025-09-26,Store,Completed
+626,956,2025-10-30,Store,Completed
+627,7,2025-07-29,Mobile App,Completed
+628,425,2025-03-31,Mobile App,Completed
+629,728,2025-10-18,Online,Completed
+630,191,2025-07-15,Store,Cancelled
+631,503,2025-01-22,Store,Cancelled
+632,312,2025-09-10,Mobile App,Returned
+633,475,2025-04-25,Online,Completed
+634,158,2025-05-15,Store,Returned
+635,855,2025-11-22,Store,Completed
+636,670,2025-12-07,Store,Completed
+637,184,2025-09-09,Mobile App,Returned
+638,251,2025-01-15,Online,Completed
+639,505,2025-02-04,Mobile App,Returned
+640,371,2025-10-25,Store,Cancelled
+641,447,2025-05-13,Mobile App,Returned
+642,488,2025-12-22,Online,Completed
+643,525,2025-10-22,Online,Completed
+644,167,2025-10-25,Online,Completed
+645,328,2025-08-25,Mobile App,Completed
+646,366,2025-03-25,Online,Completed
+647,370,2025-08-03,Mobile App,Completed
+648,50,2025-05-29,Store,Cancelled
+649,655,2025-02-09,Mobile App,Completed
+650,785,2025-11-18,Online,Completed
+651,614,2025-03-27,Mobile App,Completed
+652,894,2025-06-11,Mobile App,Completed
+653,278,2025-12-17,Mobile App,Returned
+654,372,2025-02-19,Mobile App,Cancelled
+655,361,2025-03-15,Online,Completed
+656,531,2025-05-25,Store,Completed
+657,422,2025-06-24,Online,Completed
+658,224,2025-03-21,Mobile App,Completed
+659,852,2025-04-07,Mobile App,Cancelled
+660,707,2025-09-27,Mobile App,Returned
+661,565,2025-12-26,Online,Completed
+662,472,2025-02-09,Online,Completed
+663,946,2025-01-09,Store,Completed
+664,320,2025-12-20,Store,Completed
+665,837,2025-08-15,Mobile App,Cancelled
+666,782,2025-06-25,Online,Returned
+667,312,2025-01-15,Mobile App,Completed
+668,228,2025-03-07,Mobile App,Completed
+669,705,2025-04-27,Store,Completed
+670,215,2025-03-08,Online,Completed
+671,708,2025-02-27,Online,Completed
+672,794,2025-09-05,Store,Completed
+673,202,2025-02-25,Online,Returned
+674,526,2025-10-31,Online,Completed
+675,122,2025-05-10,Online,Completed
+676,309,2025-12-08,Online,Completed
+677,802,2025-03-05,Mobile App,Completed
+678,602,2025-04-13,Online,Returned
+679,360,2025-01-15,Online,Completed
+680,867,2025-05-23,Mobile App,Completed
+681,361,2025-03-24,Mobile App,Returned
+682,628,2025-05-04,Mobile App,Cancelled
+683,70,2025-02-20,Mobile App,Completed
+684,542,2025-04-22,Mobile App,Completed
+685,988,2025-05-25,Online,Cancelled
+686,5,2025-02-20,Online,Cancelled
+687,872,2025-12-29,Store,Completed
+688,715,2025-10-29,Online,Completed
+689,690,2025-02-24,Online,Completed
+690,389,2025-08-06,Online,Cancelled
+691,234,2025-07-28,Online,Completed
+692,127,2025-08-27,Online,Cancelled
+693,140,2025-09-11,Store,Returned
+694,296,2025-10-13,Mobile App,Completed
+695,85,2025-06-17,Store,Completed
+696,395,2025-05-26,Store,Cancelled
+697,754,2025-06-09,Mobile App,Completed
+698,232,2025-10-11,Store,Completed
+699,876,2025-08-08,Online,Completed
+700,917,2025-09-01,Mobile App,Completed
+701,184,2025-01-07,Mobile App,Completed
+702,689,2025-02-23,Store,Completed
+703,536,2025-12-04,Mobile App,Completed
+704,123,2025-03-15,Store,Completed
+705,712,2025-10-30,Online,Returned
+706,948,2025-03-28,Online,Completed
+707,999,2025-04-12,Store,Completed
+708,610,2025-07-26,Online,Completed
+709,859,2025-08-06,Mobile App,Completed
+710,286,2025-10-25,Mobile App,Completed
+711,775,2025-11-26,Store,Completed
+712,488,2025-12-08,Mobile App,Completed
+713,497,2025-09-19,Store,Completed
+714,787,2025-08-21,Online,Completed
+715,257,2025-09-08,Store,Completed
+716,644,2025-03-10,Online,Completed
+717,756,2025-01-28,Online,Completed
+718,695,2025-01-14,Online,Completed
+719,620,2025-12-14,Store,Completed
+720,311,2025-11-15,Mobile App,Completed
+721,779,2025-02-09,Mobile App,Cancelled
+722,786,2025-09-10,Store,Completed
+723,301,2025-12-05,Store,Completed
+724,517,2025-05-14,Mobile App,Completed
+725,829,2025-10-04,Mobile App,Completed
+726,976,2025-01-17,Store,Completed
+727,393,2025-08-19,Store,Completed
+728,454,2025-08-24,Online,Completed
+729,182,2025-10-13,Mobile App,Completed
+730,906,2025-12-28,Online,Completed
+731,442,2025-03-10,Store,Returned
+732,399,2025-09-07,Online,Cancelled
+733,692,2025-09-09,Mobile App,Cancelled
+734,702,2025-10-04,Mobile App,Completed
+735,488,2025-10-15,Online,Cancelled
+736,58,2025-07-20,Store,Completed
+737,606,2025-07-13,Mobile App,Returned
+738,362,2025-05-26,Store,Completed
+739,29,2025-10-30,Online,Completed
+740,858,2025-07-07,Store,Returned
+741,598,2025-01-14,Mobile App,Completed
+742,390,2025-02-19,Store,Completed
+743,366,2025-07-30,Store,Completed
+744,678,2025-05-06,Online,Completed
+745,664,2025-06-09,Mobile App,Completed
+746,933,2025-12-19,Online,Completed
+747,118,2025-06-22,Online,Completed
+748,552,2025-06-16,Online,Completed
+749,674,2025-08-05,Mobile App,Cancelled
+750,924,2025-08-04,Store,Completed
+751,713,2025-08-29,Mobile App,Completed
+752,325,2025-07-13,Mobile App,Completed
+753,331,2025-10-21,Online,Completed
+754,103,2025-12-20,Mobile App,Completed
+755,345,2025-09-12,Mobile App,Returned
+756,348,2025-03-27,Mobile App,Completed
+757,373,2025-08-12,Online,Completed
+758,651,2025-02-08,Mobile App,Completed
+759,295,2025-05-16,Online,Completed
+760,588,2025-07-25,Online,Cancelled
+761,761,2025-02-17,Mobile App,Cancelled
+762,98,2025-10-31,Store,Completed
+763,69,2025-10-18,Mobile App,Completed
+764,438,2025-04-18,Store,Completed
+765,668,2025-06-04,Mobile App,Completed
+766,444,2025-12-06,Mobile App,Completed
+767,205,2025-08-01,Store,Completed
+768,640,2025-09-21,Store,Returned
+769,782,2025-10-08,Online,Completed
+770,643,2025-12-27,Mobile App,Completed
+771,591,2025-09-13,Online,Returned
+772,986,2025-08-28,Store,Returned
+773,546,2025-11-11,Store,Cancelled
+774,745,2025-11-17,Online,Cancelled
+775,206,2025-07-06,Store,Completed
+776,247,2025-03-19,Mobile App,Returned
+777,784,2025-06-03,Store,Completed
+778,327,2025-02-02,Mobile App,Completed
+779,867,2025-07-31,Store,Completed
+780,662,2025-03-24,Store,Returned
+781,616,2025-05-01,Store,Completed
+782,117,2025-03-18,Online,Completed
+783,252,2025-06-08,Store,Completed
+784,574,2025-08-12,Store,Returned
+785,928,2025-01-19,Online,Completed
+786,280,2025-03-11,Online,Completed
+787,809,2025-05-23,Mobile App,Cancelled
+788,181,2025-11-26,Online,Returned
+789,498,2025-01-11,Online,Completed
+790,322,2025-11-05,Store,Completed
+791,923,2025-07-28,Store,Returned
+792,674,2025-02-16,Store,Returned
+793,863,2025-03-13,Online,Completed
+794,585,2025-09-14,Online,Cancelled
+795,681,2025-10-25,Mobile App,Completed
+796,509,2025-02-16,Online,Cancelled
+797,126,2025-06-10,Store,Cancelled
+798,755,2025-07-19,Mobile App,Returned
+799,242,2025-08-05,Online,Completed
+800,110,2025-03-31,Online,Completed
+801,451,2025-07-29,Store,Cancelled
+802,58,2025-09-09,Mobile App,Completed
+803,717,2025-02-27,Store,Cancelled
+804,434,2025-09-01,Mobile App,Completed
+805,987,2025-05-23,Online,Completed
+806,487,2025-07-08,Store,Completed
+807,661,2025-11-07,Online,Returned
+808,679,2025-01-28,Mobile App,Returned
+809,246,2025-05-10,Mobile App,Completed
+810,317,2025-11-24,Mobile App,Completed
+811,925,2025-12-17,Online,Cancelled
+812,888,2025-05-02,Store,Completed
+813,9,2025-07-21,Store,Completed
+814,93,2025-05-01,Store,Completed
+815,881,2025-03-24,Store,Returned
+816,325,2025-11-26,Store,Completed
+817,281,2025-02-11,Store,Completed
+818,755,2025-07-31,Store,Returned
+819,433,2025-02-21,Online,Returned
+820,268,2025-09-17,Online,Completed
+821,431,2025-11-05,Mobile App,Cancelled
+822,756,2025-06-17,Store,Returned
+823,29,2025-01-27,Mobile App,Returned
+824,189,2025-11-19,Store,Returned
+825,140,2025-01-02,Store,Completed
+826,644,2025-06-06,Store,Cancelled
+827,85,2025-02-26,Online,Completed
+828,529,2025-11-29,Online,Cancelled
+829,703,2025-07-30,Store,Completed
+830,490,2025-03-10,Store,Completed
+831,704,2025-10-31,Store,Completed
+832,204,2025-02-13,Store,Completed
+833,187,2025-07-21,Store,Cancelled
+834,230,2025-01-11,Online,Cancelled
+835,663,2025-11-10,Mobile App,Completed
+836,929,2025-02-15,Store,Completed
+837,269,2025-12-26,Online,Completed
+838,411,2025-11-13,Store,Cancelled
+839,267,2025-03-18,Online,Completed
+840,175,2025-10-18,Online,Completed
+841,736,2025-09-27,Store,Completed
+842,848,2025-12-11,Store,Completed
+843,230,2025-04-15,Online,Completed
+844,295,2025-09-11,Store,Completed
+845,442,2025-04-16,Mobile App,Completed
+846,844,2025-05-25,Mobile App,Returned
+847,194,2025-08-03,Online,Completed
+848,812,2025-03-16,Online,Completed
+849,1000,2025-05-15,Online,Cancelled
+850,462,2025-05-08,Store,Cancelled
+851,701,2025-11-28,Store,Completed
+852,11,2025-08-29,Online,Completed
+853,998,2025-12-21,Store,Returned
+854,218,2025-07-16,Mobile App,Completed
+855,754,2025-11-02,Store,Completed
+856,98,2025-10-13,Online,Completed
+857,341,2025-05-01,Store,Completed
+858,621,2025-12-10,Mobile App,Returned
+859,767,2025-01-24,Online,Completed
+860,517,2025-11-14,Store,Completed
+861,405,2025-12-10,Store,Completed
+862,992,2025-10-14,Online,Cancelled
+863,184,2025-05-14,Online,Cancelled
+864,505,2025-06-23,Store,Completed
+865,92,2025-06-12,Mobile App,Cancelled
+866,444,2025-03-14,Store,Completed
+867,321,2025-01-23,Online,Completed
+868,893,2025-05-24,Mobile App,Completed
+869,949,2025-08-09,Store,Completed
+870,628,2025-05-16,Mobile App,Completed
+871,447,2025-03-26,Store,Returned
+872,504,2025-03-19,Mobile App,Returned
+873,652,2025-08-14,Online,Completed
+874,153,2025-01-28,Online,Completed
+875,37,2025-08-29,Store,Completed
+876,723,2025-08-28,Store,Completed
+877,917,2025-09-11,Online,Completed
+878,366,2025-12-30,Mobile App,Completed
+879,469,2025-09-10,Online,Returned
+880,888,2025-03-17,Online,Completed
+881,96,2025-04-15,Store,Completed
+882,855,2025-03-28,Mobile App,Cancelled
+883,843,2025-05-20,Mobile App,Returned
+884,600,2025-04-19,Mobile App,Completed
+885,539,2025-10-20,Online,Completed
+886,943,2025-02-09,Online,Completed
+887,694,2025-02-18,Store,Completed
+888,292,2025-12-15,Mobile App,Completed
+889,404,2025-07-11,Mobile App,Completed
+890,858,2025-06-15,Online,Completed
+891,84,2025-08-24,Mobile App,Returned
+892,492,2025-08-21,Mobile App,Completed
+893,609,2025-12-03,Online,Completed
+894,994,2025-01-23,Mobile App,Cancelled
+895,974,2025-08-20,Store,Returned
+896,752,2025-10-19,Online,Completed
+897,884,2025-01-25,Mobile App,Completed
+898,331,2025-01-29,Mobile App,Completed
+899,561,2025-11-05,Store,Completed
+900,409,2025-05-11,Online,Completed
+901,989,2025-07-24,Online,Completed
+902,873,2025-04-17,Online,Completed
+903,799,2025-07-26,Store,Returned
+904,771,2025-12-01,Online,Completed
+905,306,2025-09-09,Store,Returned
+906,826,2025-06-08,Mobile App,Cancelled
+907,135,2025-07-03,Mobile App,Completed
+908,853,2025-07-08,Mobile App,Completed
+909,502,2025-08-17,Store,Completed
+910,275,2025-10-16,Mobile App,Completed
+911,93,2025-08-05,Store,Cancelled
+912,191,2025-08-11,Mobile App,Completed
+913,96,2025-01-21,Mobile App,Completed
+914,997,2025-08-26,Mobile App,Completed
+915,664,2025-12-18,Mobile App,Completed
+916,954,2025-09-11,Mobile App,Returned
+917,663,2025-09-26,Online,Completed
+918,480,2025-08-12,Online,Completed
+919,308,2025-03-18,Online,Returned
+920,925,2025-06-03,Online,Cancelled
+921,438,2025-06-01,Mobile App,Completed
+922,565,2025-02-09,Online,Cancelled
+923,111,2025-09-19,Store,Completed
+924,97,2025-08-26,Mobile App,Returned
+925,583,2025-05-10,Store,Completed
+926,600,2025-02-11,Mobile App,Completed
+927,117,2025-12-05,Store,Completed
+928,806,2025-04-04,Store,Completed
+929,86,2025-08-02,Mobile App,Completed
+930,322,2025-10-28,Mobile App,Completed
+931,776,2025-12-10,Store,Cancelled
+932,828,2025-05-16,Store,Completed
+933,217,2025-04-05,Online,Returned
+934,619,2025-05-13,Mobile App,Completed
+935,445,2025-10-01,Online,Completed
+936,405,2025-03-01,Online,Completed
+937,672,2025-09-02,Store,Returned
+938,415,2025-12-03,Mobile App,Cancelled
+939,744,2025-09-07,Store,Cancelled
+940,833,2025-11-12,Store,Returned
+941,690,2025-12-20,Mobile App,Completed
+942,824,2025-06-04,Online,Completed
+943,139,2025-01-08,Online,Completed
+944,836,2025-01-09,Mobile App,Completed
+945,880,2025-01-14,Online,Completed
+946,665,2025-03-16,Mobile App,Completed
+947,447,2025-11-17,Mobile App,Completed
+948,89,2025-06-04,Store,Completed
+949,486,2025-08-05,Online,Completed
+950,171,2025-03-20,Mobile App,Returned
+951,456,2025-09-06,Store,Completed
+952,881,2025-08-19,Mobile App,Completed
+953,207,2025-05-31,Mobile App,Completed
+954,53,2025-06-20,Online,Completed
+955,646,2025-08-10,Store,Completed
+956,755,2025-10-24,Mobile App,Returned
+957,568,2025-05-29,Online,Completed
+958,410,2025-09-06,Mobile App,Cancelled
+959,743,2025-11-10,Mobile App,Completed
+960,238,2025-02-01,Mobile App,Completed
+961,433,2025-10-23,Store,Cancelled
+962,66,2025-05-18,Mobile App,Completed
+963,911,2025-08-31,Online,Completed
+964,638,2025-11-27,Store,Completed
+965,715,2025-08-12,Online,Completed
+966,295,2025-04-09,Store,Completed
+967,449,2025-04-29,Mobile App,Completed
+968,602,2025-12-17,Store,Cancelled
+969,874,2025-12-03,Store,Completed
+970,905,2025-05-31,Mobile App,Returned
+971,400,2025-08-02,Mobile App,Returned
+972,753,2025-07-04,Store,Completed
+973,637,2025-04-17,Store,Returned
+974,768,2025-02-14,Mobile App,Completed
+975,133,2025-03-30,Online,Completed
+976,621,2025-09-09,Online,Completed
+977,966,2025-09-10,Store,Completed
+978,215,2025-10-13,Online,Completed
+979,368,2025-05-14,Store,Returned
+980,163,2025-03-31,Mobile App,Completed
+981,827,2025-02-02,Store,Completed
+982,117,2025-11-13,Online,Completed
+983,576,2025-04-25,Store,Completed
+984,349,2025-07-01,Online,Cancelled
+985,274,2025-03-19,Mobile App,Cancelled
+986,619,2025-12-09,Online,Returned
+987,52,2025-08-13,Store,Completed
+988,999,2025-02-24,Mobile App,Cancelled
+989,801,2025-02-22,Mobile App,Completed
+990,520,2025-02-23,Online,Returned
+991,121,2025-04-16,Store,Completed
+992,746,2025-05-30,Mobile App,Completed
+993,781,2025-09-17,Store,Returned
+994,892,2025-02-20,Online,Returned
+995,373,2025-06-21,Online,Completed
+996,869,2025-04-14,Store,Completed
+997,788,2025-01-04,Online,Completed
+998,350,2025-05-27,Mobile App,Completed
+999,88,2025-05-17,Store,Returned
+1000,773,2025-08-01,Store,Returned
+1001,681,2025-05-06,Online,Cancelled
+1002,432,2025-04-27,Online,Completed
+1003,424,2025-07-29,Store,Cancelled
+1004,814,2025-12-16,Store,Completed
+1005,454,2025-03-16,Online,Returned
+1006,826,2025-09-22,Online,Completed
+1007,347,2025-06-11,Store,Completed
+1008,445,2025-02-01,Store,Completed
+1009,677,2025-11-25,Online,Cancelled
+1010,60,2025-11-20,Mobile App,Returned
+1011,897,2025-09-24,Store,Completed
+1012,412,2025-12-15,Mobile App,Cancelled
+1013,895,2025-06-05,Mobile App,Returned
+1014,322,2025-06-26,Online,Completed
+1015,922,2025-09-28,Mobile App,Completed
+1016,718,2025-07-26,Store,Returned
+1017,211,2025-10-06,Mobile App,Cancelled
+1018,668,2025-08-15,Mobile App,Completed
+1019,909,2025-11-29,Store,Completed
+1020,903,2025-06-04,Online,Completed
+1021,551,2025-06-21,Store,Returned
+1022,737,2025-03-06,Mobile App,Cancelled
+1023,291,2025-04-20,Online,Cancelled
+1024,566,2025-06-09,Mobile App,Completed
+1025,776,2025-11-22,Online,Completed
+1026,29,2025-10-04,Mobile App,Completed
+1027,248,2025-06-05,Mobile App,Completed
+1028,518,2025-02-26,Mobile App,Completed
+1029,862,2025-07-10,Store,Returned
+1030,520,2025-07-01,Online,Completed
+1031,775,2025-11-30,Online,Completed
+1032,306,2025-10-21,Mobile App,Completed
+1033,465,2025-06-23,Online,Returned
+1034,596,2025-10-17,Mobile App,Returned
+1035,682,2025-10-01,Mobile App,Completed
+1036,359,2025-06-03,Store,Returned
+1037,804,2025-10-21,Mobile App,Completed
+1038,732,2025-07-13,Mobile App,Returned
+1039,254,2025-02-23,Store,Cancelled
+1040,597,2025-04-09,Store,Completed
+1041,101,2025-03-17,Mobile App,Completed
+1042,849,2025-07-30,Online,Completed
+1043,64,2025-08-06,Online,Completed
+1044,220,2025-08-17,Online,Completed
+1045,694,2025-09-27,Store,Cancelled
+1046,573,2025-09-23,Store,Completed
+1047,599,2025-09-13,Mobile App,Completed
+1048,451,2025-12-19,Store,Returned
+1049,997,2025-08-02,Online,Completed
+1050,518,2025-03-07,Store,Returned
+1051,469,2025-03-08,Mobile App,Cancelled
+1052,884,2025-09-28,Online,Returned
+1053,218,2025-08-22,Store,Completed
+1054,765,2025-03-22,Mobile App,Completed
+1055,944,2025-03-02,Mobile App,Completed
+1056,113,2025-03-03,Store,Cancelled
+1057,297,2025-01-21,Mobile App,Completed
+1058,121,2025-07-10,Store,Completed
+1059,311,2025-05-31,Store,Completed
+1060,811,2025-03-15,Online,Cancelled
+1061,432,2025-01-25,Store,Completed
+1062,221,2025-04-04,Mobile App,Completed
+1063,3,2025-03-04,Mobile App,Completed
+1064,70,2025-01-23,Store,Completed
+1065,587,2025-06-08,Mobile App,Completed
+1066,922,2025-06-22,Store,Completed
+1067,855,2025-11-07,Online,Completed
+1068,517,2025-11-22,Store,Completed
+1069,684,2025-08-18,Online,Returned
+1070,334,2025-02-15,Mobile App,Returned
+1071,639,2025-07-29,Store,Completed
+1072,922,2025-07-22,Store,Cancelled
+1073,47,2025-12-10,Store,Returned
+1074,285,2025-11-27,Online,Completed
+1075,725,2025-01-13,Mobile App,Returned
+1076,816,2025-12-29,Store,Cancelled
+1077,661,2025-03-05,Mobile App,Cancelled
+1078,88,2025-04-09,Mobile App,Cancelled
+1079,591,2025-01-28,Mobile App,Cancelled
+1080,194,2025-09-01,Mobile App,Completed
+1081,124,2025-12-04,Mobile App,Completed
+1082,986,2025-01-10,Store,Completed
+1083,252,2025-12-28,Mobile App,Completed
+1084,87,2025-10-01,Mobile App,Completed
+1085,412,2025-10-29,Online,Completed
+1086,883,2025-01-12,Store,Completed
+1087,185,2025-08-01,Online,Cancelled
+1088,325,2025-07-15,Store,Completed
+1089,118,2025-02-20,Mobile App,Completed
+1090,293,2025-03-15,Online,Completed
+1091,787,2025-02-15,Online,Completed
+1092,976,2025-07-28,Mobile App,Completed
+1093,61,2025-11-11,Store,Completed
+1094,28,2025-01-30,Store,Completed
+1095,102,2025-06-13,Online,Completed
+1096,915,2025-06-15,Store,Completed
+1097,965,2025-03-03,Online,Completed
+1098,246,2025-11-02,Mobile App,Completed
+1099,505,2025-09-18,Mobile App,Completed
+1100,973,2025-02-28,Store,Completed
+1101,326,2025-08-26,Mobile App,Completed
+1102,68,2025-09-05,Online,Completed
+1103,649,2025-04-30,Online,Completed
+1104,568,2025-10-28,Mobile App,Completed
+1105,253,2025-10-12,Mobile App,Completed
+1106,312,2025-10-18,Store,Completed
+1107,86,2025-11-22,Mobile App,Completed
+1108,802,2025-03-14,Store,Cancelled
+1109,173,2025-05-06,Mobile App,Completed
+1110,985,2025-10-12,Store,Completed
+1111,2,2025-08-26,Mobile App,Completed
+1112,669,2025-03-27,Online,Completed
+1113,956,2025-09-04,Store,Cancelled
+1114,257,2025-12-15,Store,Completed
+1115,863,2025-11-20,Online,Cancelled
+1116,861,2025-09-19,Store,Completed
+1117,166,2025-10-01,Mobile App,Completed
+1118,308,2025-02-15,Store,Returned
+1119,126,2025-03-13,Mobile App,Cancelled
+1120,287,2025-08-10,Online,Cancelled
+1121,517,2025-06-12,Mobile App,Completed
+1122,651,2025-05-14,Mobile App,Completed
+1123,280,2025-05-06,Mobile App,Completed
+1124,350,2025-04-18,Store,Cancelled
+1125,337,2025-01-09,Mobile App,Completed
+1126,662,2025-01-02,Mobile App,Completed
+1127,5,2025-01-05,Mobile App,Completed
+1128,424,2025-10-12,Mobile App,Returned
+1129,501,2025-07-21,Mobile App,Completed
+1130,807,2025-11-29,Mobile App,Completed
+1131,552,2025-01-16,Mobile App,Completed
+1132,689,2025-03-05,Store,Completed
+1133,848,2025-11-04,Store,Completed
+1134,182,2025-12-23,Online,Completed
+1135,474,2025-07-09,Online,Completed
+1136,10,2025-04-24,Mobile App,Completed
+1137,777,2025-05-24,Mobile App,Returned
+1138,367,2025-04-09,Online,Cancelled
+1139,641,2025-06-05,Mobile App,Completed
+1140,240,2025-09-10,Store,Completed
+1141,288,2025-09-10,Mobile App,Returned
+1142,621,2025-04-18,Online,Completed
+1143,841,2025-11-23,Store,Completed
+1144,891,2025-05-23,Mobile App,Cancelled
+1145,506,2025-03-29,Mobile App,Completed
+1146,676,2025-10-17,Mobile App,Returned
+1147,618,2025-10-17,Online,Completed
+1148,603,2025-03-07,Mobile App,Completed
+1149,131,2025-05-13,Mobile App,Completed
+1150,903,2025-09-25,Mobile App,Completed
+1151,197,2025-12-14,Online,Returned
+1152,695,2025-09-30,Mobile App,Completed
+1153,698,2025-10-14,Store,Completed
+1154,961,2025-08-07,Mobile App,Returned
+1155,966,2025-11-29,Online,Completed
+1156,443,2025-07-28,Store,Completed
+1157,697,2025-09-23,Store,Completed
+1158,371,2025-09-22,Online,Returned
+1159,230,2025-01-25,Store,Completed
+1160,546,2025-08-18,Store,Completed
+1161,402,2025-04-10,Store,Completed
+1162,902,2025-10-20,Online,Returned
+1163,232,2025-12-20,Store,Completed
+1164,940,2025-05-08,Online,Completed
+1165,338,2025-06-09,Online,Returned
+1166,641,2025-02-19,Online,Completed
+1167,443,2025-01-13,Mobile App,Returned
+1168,958,2025-06-21,Store,Completed
+1169,111,2025-08-31,Online,Completed
+1170,853,2025-01-28,Store,Cancelled
+1171,814,2025-05-02,Online,Cancelled
+1172,635,2025-08-13,Online,Returned
+1173,458,2025-10-24,Online,Completed
+1174,998,2025-02-01,Online,Completed
+1175,321,2025-12-22,Online,Completed
+1176,64,2025-08-15,Online,Completed
+1177,626,2025-11-17,Store,Completed
+1178,105,2025-12-13,Online,Cancelled
+1179,54,2025-05-31,Store,Completed
+1180,99,2025-11-13,Store,Completed
+1181,886,2025-11-03,Mobile App,Cancelled
+1182,11,2025-08-21,Store,Completed
+1183,815,2025-08-08,Mobile App,Cancelled
+1184,104,2025-06-23,Mobile App,Returned
+1185,802,2025-01-14,Store,Cancelled
+1186,337,2025-10-28,Online,Completed
+1187,106,2025-01-07,Mobile App,Returned
+1188,70,2025-10-31,Online,Cancelled
+1189,130,2025-11-23,Mobile App,Completed
+1190,364,2025-08-04,Store,Returned
+1191,636,2025-08-16,Online,Completed
+1192,141,2025-01-23,Online,Completed
+1193,320,2025-10-27,Store,Cancelled
+1194,983,2025-11-30,Store,Completed
+1195,598,2025-10-05,Online,Completed
+1196,481,2025-06-08,Mobile App,Completed
+1197,299,2025-07-08,Online,Cancelled
+1198,601,2025-12-03,Mobile App,Completed
+1199,59,2025-05-02,Mobile App,Cancelled
+1200,880,2025-01-28,Store,Completed
+1201,201,2025-04-13,Mobile App,Completed
+1202,805,2025-02-05,Store,Completed
+1203,684,2025-09-01,Mobile App,Returned
+1204,479,2025-11-04,Mobile App,Completed
+1205,873,2025-10-24,Mobile App,Completed
+1206,631,2025-06-03,Store,Completed
+1207,167,2025-02-23,Store,Completed
+1208,508,2025-04-23,Online,Returned
+1209,229,2025-12-21,Online,Completed
+1210,639,2025-04-20,Online,Completed
+1211,753,2025-06-19,Mobile App,Completed
+1212,211,2025-07-24,Online,Completed
+1213,372,2025-01-06,Online,Completed
+1214,31,2025-10-12,Online,Completed
+1215,298,2025-08-14,Online,Returned
+1216,600,2025-07-04,Online,Completed
+1217,204,2025-04-12,Store,Completed
+1218,225,2025-05-15,Mobile App,Completed
+1219,348,2025-10-11,Online,Completed
+1220,201,2025-01-12,Online,Completed
+1221,933,2025-02-21,Online,Returned
+1222,141,2025-07-14,Mobile App,Completed
+1223,347,2025-04-18,Store,Completed
+1224,246,2025-07-09,Store,Returned
+1225,176,2025-09-27,Mobile App,Completed
+1226,900,2025-12-31,Online,Completed
+1227,148,2025-03-08,Online,Completed
+1228,546,2025-07-13,Mobile App,Completed
+1229,326,2025-11-03,Store,Returned
+1230,251,2025-01-24,Mobile App,Cancelled
+1231,194,2025-10-02,Store,Completed
+1232,336,2025-05-07,Online,Returned
+1233,815,2025-05-24,Online,Cancelled
+1234,992,2025-10-27,Store,Completed
+1235,745,2025-02-11,Store,Returned
+1236,630,2025-02-03,Online,Cancelled
+1237,398,2025-11-27,Mobile App,Completed
+1238,511,2025-09-23,Store,Completed
+1239,330,2025-12-31,Store,Cancelled
+1240,712,2025-09-05,Mobile App,Completed
+1241,486,2025-05-18,Mobile App,Completed
+1242,654,2025-10-26,Mobile App,Completed
+1243,213,2025-04-23,Online,Completed
+1244,884,2025-05-01,Store,Completed
+1245,314,2025-08-06,Store,Cancelled
+1246,161,2025-07-11,Store,Cancelled
+1247,87,2025-03-10,Online,Completed
+1248,456,2025-09-23,Store,Completed
+1249,598,2025-01-22,Store,Cancelled
+1250,637,2025-06-22,Store,Completed
+1251,479,2025-08-10,Store,Completed
+1252,824,2025-09-12,Store,Completed
+1253,392,2025-01-13,Online,Completed
+1254,240,2025-05-16,Mobile App,Completed
+1255,368,2025-02-12,Store,Cancelled
+1256,526,2025-10-07,Mobile App,Completed
+1257,805,2025-05-22,Online,Completed
+1258,122,2025-02-06,Store,Completed
+1259,560,2025-04-13,Store,Completed
+1260,692,2025-06-18,Store,Completed
+1261,764,2025-12-16,Store,Completed
+1262,723,2025-11-06,Online,Returned
+1263,758,2025-10-06,Store,Completed
+1264,789,2025-06-03,Store,Completed
+1265,802,2025-07-26,Store,Cancelled
+1266,776,2025-12-02,Online,Completed
+1267,670,2025-09-20,Online,Completed
+1268,234,2025-04-27,Mobile App,Returned
+1269,215,2025-08-31,Online,Cancelled
+1270,602,2025-10-10,Store,Returned
+1271,834,2025-08-25,Store,Completed
+1272,321,2025-04-07,Store,Returned
+1273,428,2025-04-18,Store,Completed
+1274,874,2025-10-13,Online,Completed
+1275,143,2025-10-23,Online,Completed
+1276,966,2025-01-05,Store,Returned
+1277,855,2025-07-01,Store,Completed
+1278,430,2025-08-06,Mobile App,Completed
+1279,782,2025-12-20,Mobile App,Completed
+1280,334,2025-10-28,Online,Cancelled
+1281,805,2025-01-17,Online,Completed
+1282,976,2025-06-19,Mobile App,Returned
+1283,819,2025-11-05,Mobile App,Cancelled
+1284,888,2025-07-20,Store,Completed
+1285,972,2025-07-20,Online,Cancelled
+1286,396,2025-04-07,Store,Completed
+1287,337,2025-10-19,Store,Returned
+1288,917,2025-06-05,Online,Completed
+1289,107,2025-12-12,Mobile App,Completed
+1290,33,2025-12-19,Mobile App,Completed
+1291,28,2025-04-06,Online,Completed
+1292,934,2025-07-17,Store,Completed
+1293,239,2025-05-30,Mobile App,Cancelled
+1294,72,2025-08-21,Online,Completed
+1295,531,2025-01-06,Online,Completed
+1296,881,2025-07-30,Store,Completed
+1297,114,2025-03-08,Mobile App,Completed
+1298,490,2025-02-05,Store,Completed
+1299,134,2025-04-16,Store,Completed
+1300,838,2025-12-30,Mobile App,Completed
+1301,163,2025-11-06,Mobile App,Completed
+1302,602,2025-04-14,Mobile App,Returned
+1303,702,2025-08-23,Store,Completed
+1304,8,2025-03-15,Store,Completed
+1305,845,2025-07-24,Mobile App,Completed
+1306,539,2025-06-18,Mobile App,Completed
+1307,472,2025-08-25,Mobile App,Completed
+1308,755,2025-02-16,Store,Returned
+1309,903,2025-08-22,Store,Returned
+1310,863,2025-12-31,Store,Completed
+1311,628,2025-03-31,Store,Completed
+1312,184,2025-11-13,Mobile App,Completed
+1313,469,2025-07-16,Mobile App,Completed
+1314,716,2025-10-19,Online,Completed
+1315,716,2025-01-23,Online,Completed
+1316,281,2025-11-18,Mobile App,Completed
+1317,683,2025-02-04,Mobile App,Returned
+1318,740,2025-04-22,Store,Completed
+1319,781,2025-10-11,Online,Completed
+1320,79,2025-02-23,Mobile App,Completed
+1321,420,2025-08-19,Online,Completed
+1322,213,2025-09-17,Online,Completed
+1323,28,2025-02-07,Mobile App,Returned
+1324,692,2025-08-25,Store,Completed
+1325,764,2025-07-24,Online,Completed
+1326,39,2025-01-06,Store,Completed
+1327,727,2025-03-11,Store,Returned
+1328,767,2025-08-26,Store,Completed
+1329,70,2025-02-12,Mobile App,Returned
+1330,249,2025-08-13,Online,Completed
+1331,841,2025-05-23,Online,Completed
+1332,859,2025-01-10,Mobile App,Completed
+1333,182,2025-05-31,Online,Cancelled
+1334,760,2025-07-20,Online,Completed
+1335,688,2025-01-06,Mobile App,Completed
+1336,158,2025-08-14,Store,Completed
+1337,222,2025-01-18,Mobile App,Cancelled
+1338,222,2025-08-15,Mobile App,Completed
+1339,857,2025-11-22,Mobile App,Returned
+1340,679,2025-12-04,Online,Completed
+1341,707,2025-06-07,Store,Completed
+1342,613,2025-01-03,Online,Completed
+1343,786,2025-04-14,Online,Completed
+1344,931,2025-05-03,Online,Completed
+1345,17,2025-08-04,Online,Completed
+1346,346,2025-04-09,Mobile App,Returned
+1347,65,2025-04-23,Online,Returned
+1348,172,2025-03-27,Online,Completed
+1349,525,2025-02-25,Store,Completed
+1350,576,2025-11-17,Online,Cancelled
+1351,213,2025-10-05,Store,Completed
+1352,124,2025-04-29,Online,Completed
+1353,366,2025-06-15,Online,Completed
+1354,412,2025-12-01,Store,Completed
+1355,399,2025-04-19,Store,Completed
+1356,68,2025-12-03,Store,Returned
+1357,639,2025-07-08,Online,Completed
+1358,907,2025-04-22,Store,Completed
+1359,786,2025-11-03,Store,Completed
+1360,730,2025-10-02,Mobile App,Completed
+1361,258,2025-02-18,Mobile App,Completed
+1362,647,2025-12-23,Store,Returned
+1363,947,2025-12-22,Online,Completed
+1364,180,2025-11-22,Mobile App,Completed
+1365,872,2025-12-08,Store,Completed
+1366,344,2025-01-10,Mobile App,Cancelled
+1367,460,2025-07-15,Mobile App,Returned
+1368,760,2025-04-30,Mobile App,Cancelled
+1369,722,2025-01-07,Online,Completed
+1370,632,2025-03-05,Store,Completed
+1371,756,2025-08-08,Online,Cancelled
+1372,82,2025-01-31,Online,Completed
+1373,511,2025-06-01,Online,Completed
+1374,385,2025-04-15,Mobile App,Completed
+1375,244,2025-11-03,Store,Returned
+1376,899,2025-06-18,Online,Completed
+1377,326,2025-11-26,Online,Cancelled
+1378,811,2025-08-01,Mobile App,Completed
+1379,769,2025-01-13,Online,Returned
+1380,340,2025-06-25,Online,Completed
+1381,553,2025-01-28,Mobile App,Completed
+1382,821,2025-12-18,Mobile App,Returned
+1383,228,2025-11-08,Store,Cancelled
+1384,330,2025-04-04,Store,Returned
+1385,7,2025-02-03,Store,Completed
+1386,977,2025-04-09,Online,Returned
+1387,145,2025-04-15,Online,Completed
+1388,178,2025-10-31,Mobile App,Completed
+1389,242,2025-09-17,Online,Completed
+1390,743,2025-08-28,Store,Completed
+1391,739,2025-04-12,Online,Completed
+1392,181,2025-11-07,Online,Completed
+1393,293,2025-10-23,Store,Returned
+1394,207,2025-05-20,Store,Completed
+1395,974,2025-07-04,Store,Completed
+1396,172,2025-08-30,Store,Completed
+1397,518,2025-11-09,Mobile App,Completed
+1398,779,2025-03-21,Store,Completed
+1399,781,2025-07-15,Store,Completed
+1400,778,2025-06-03,Mobile App,Cancelled
+1401,157,2025-10-11,Mobile App,Completed
+1402,264,2025-07-14,Store,Completed
+1403,465,2025-05-26,Store,Cancelled
+1404,621,2025-09-04,Online,Completed
+1405,140,2025-08-29,Online,Completed
+1406,939,2025-04-08,Online,Completed
+1407,883,2025-09-14,Mobile App,Returned
+1408,384,2025-09-09,Store,Completed
+1409,963,2025-07-22,Mobile App,Completed
+1410,394,2025-09-08,Store,Returned
+1411,603,2025-02-06,Store,Completed
+1412,944,2025-03-05,Store,Cancelled
+1413,167,2025-04-10,Store,Completed
+1414,790,2025-06-28,Mobile App,Returned
+1415,501,2025-11-22,Mobile App,Completed
+1416,714,2025-01-30,Mobile App,Completed
+1417,949,2025-08-06,Mobile App,Completed
+1418,249,2025-09-02,Online,Completed
+1419,647,2025-12-28,Mobile App,Completed
+1420,715,2025-12-07,Mobile App,Completed
+1421,268,2025-11-06,Store,Returned
+1422,151,2025-05-11,Online,Cancelled
+1423,593,2025-12-06,Online,Completed
+1424,120,2025-02-17,Mobile App,Returned
+1425,939,2025-07-16,Store,Returned
+1426,601,2025-02-11,Mobile App,Completed
+1427,898,2025-08-05,Online,Completed
+1428,259,2025-12-21,Store,Cancelled
+1429,991,2025-09-30,Mobile App,Completed
+1430,601,2025-06-07,Mobile App,Completed
+1431,771,2025-02-15,Online,Returned
+1432,587,2025-06-26,Online,Completed
+1433,767,2025-04-18,Mobile App,Completed
+1434,716,2025-06-07,Online,Completed
+1435,836,2025-09-09,Online,Completed
+1436,72,2025-12-23,Store,Cancelled
+1437,427,2025-12-02,Store,Returned
+1438,442,2025-03-29,Online,Completed
+1439,191,2025-12-27,Online,Completed
+1440,499,2025-04-04,Mobile App,Completed
+1441,462,2025-10-18,Online,Completed
+1442,206,2025-01-31,Mobile App,Completed
+1443,829,2025-04-09,Store,Completed
+1444,452,2025-11-17,Mobile App,Completed
+1445,890,2025-11-22,Online,Completed
+1446,301,2025-02-13,Store,Completed
+1447,284,2025-02-02,Store,Completed
+1448,600,2025-05-01,Store,Completed
+1449,689,2025-02-21,Online,Completed
+1450,273,2025-01-04,Mobile App,Cancelled
+1451,809,2025-01-22,Online,Completed
+1452,535,2025-01-04,Store,Cancelled
+1453,533,2025-05-17,Store,Completed
+1454,776,2025-06-22,Mobile App,Completed
+1455,345,2025-07-09,Mobile App,Completed
+1456,323,2025-05-03,Store,Returned
+1457,409,2025-07-13,Mobile App,Completed
+1458,999,2025-07-02,Store,Completed
+1459,4,2025-08-22,Mobile App,Completed
+1460,743,2025-03-13,Online,Cancelled
+1461,126,2025-09-29,Store,Returned
+1462,770,2025-05-08,Store,Completed
+1463,634,2025-12-18,Mobile App,Completed
+1464,528,2025-07-31,Mobile App,Completed
+1465,4,2025-11-23,Store,Completed
+1466,649,2025-07-04,Online,Returned
+1467,334,2025-12-14,Store,Completed
+1468,622,2025-09-06,Store,Returned
+1469,628,2025-02-11,Store,Completed
+1470,962,2025-09-01,Mobile App,Returned
+1471,927,2025-02-21,Mobile App,Completed
+1472,301,2025-11-07,Online,Returned
+1473,147,2025-09-24,Mobile App,Returned
+1474,517,2025-01-17,Online,Completed
+1475,816,2025-02-14,Store,Returned
+1476,562,2025-08-28,Online,Completed
+1477,978,2025-03-01,Store,Returned
+1478,554,2025-05-04,Online,Completed
+1479,175,2025-12-04,Mobile App,Completed
+1480,109,2025-08-11,Mobile App,Completed
+1481,165,2025-06-17,Store,Completed
+1482,226,2025-05-12,Mobile App,Completed
+1483,975,2025-12-10,Online,Returned
+1484,140,2025-10-01,Mobile App,Returned
+1485,504,2025-02-16,Mobile App,Completed
+1486,893,2025-04-25,Mobile App,Cancelled
+1487,67,2025-11-26,Store,Completed
+1488,933,2025-07-15,Mobile App,Returned
+1489,804,2025-10-15,Store,Completed
+1490,229,2025-05-13,Online,Completed
+1491,90,2025-02-27,Online,Completed
+1492,759,2025-10-31,Online,Returned
+1493,965,2025-03-01,Mobile App,Completed
+1494,131,2025-06-10,Store,Cancelled
+1495,755,2025-01-01,Store,Completed
+1496,605,2025-10-02,Online,Completed
+1497,434,2025-06-13,Store,Returned
+1498,957,2025-03-06,Mobile App,Returned
+1499,617,2025-10-30,Online,Completed
+1500,405,2025-01-05,Mobile App,Completed
+1501,324,2025-03-16,Store,Completed
+1502,512,2025-12-15,Store,Completed
+1503,616,2025-05-26,Online,Returned
+1504,682,2025-12-26,Online,Cancelled
+1505,328,2025-06-08,Mobile App,Returned
+1506,127,2025-05-21,Mobile App,Cancelled
+1507,490,2025-11-20,Online,Completed
+1508,299,2025-12-27,Store,Completed
+1509,830,2025-06-20,Online,Returned
+1510,216,2025-04-26,Mobile App,Returned
+1511,54,2025-04-02,Store,Returned
+1512,402,2025-06-03,Mobile App,Completed
+1513,23,2025-10-08,Store,Completed
+1514,433,2025-12-14,Store,Completed
+1515,776,2025-07-20,Store,Completed
+1516,541,2025-05-25,Store,Returned
+1517,946,2025-04-10,Mobile App,Cancelled
+1518,404,2025-02-19,Online,Completed
+1519,771,2025-10-25,Online,Returned
+1520,312,2025-08-23,Mobile App,Completed
+1521,592,2025-03-12,Store,Returned
+1522,495,2025-05-30,Online,Completed
+1523,224,2025-04-11,Mobile App,Returned
+1524,10,2025-07-05,Mobile App,Cancelled
+1525,105,2025-12-14,Online,Completed
+1526,974,2025-08-07,Mobile App,Completed
+1527,949,2025-01-29,Online,Completed
+1528,998,2025-08-31,Online,Completed
+1529,121,2025-09-21,Mobile App,Completed
+1530,608,2025-08-11,Online,Returned
+1531,740,2025-07-26,Online,Completed
+1532,122,2025-05-04,Store,Completed
+1533,310,2025-12-19,Mobile App,Completed
+1534,669,2025-07-12,Mobile App,Returned
+1535,675,2025-02-15,Store,Returned
+1536,392,2025-05-21,Mobile App,Returned
+1537,456,2025-07-08,Online,Completed
+1538,120,2025-02-12,Online,Completed
+1539,657,2025-12-09,Mobile App,Completed
+1540,24,2025-10-28,Mobile App,Cancelled
+1541,492,2025-05-21,Mobile App,Returned
+1542,97,2025-10-31,Online,Completed
+1543,496,2025-11-27,Mobile App,Completed
+1544,306,2025-10-20,Online,Completed
+1545,334,2025-02-02,Mobile App,Cancelled
+1546,190,2025-07-27,Mobile App,Completed
+1547,404,2025-10-12,Mobile App,Cancelled
+1548,501,2025-02-02,Mobile App,Cancelled
+1549,552,2025-11-30,Online,Completed
+1550,989,2025-12-04,Online,Completed
+1551,883,2025-11-03,Mobile App,Completed
+1552,6,2025-10-12,Store,Completed
+1553,126,2025-01-21,Online,Cancelled
+1554,212,2025-12-01,Online,Completed
+1555,576,2025-05-12,Online,Completed
+1556,128,2025-09-17,Store,Completed
+1557,990,2025-10-06,Online,Completed
+1558,968,2025-12-03,Online,Completed
+1559,308,2025-01-24,Mobile App,Completed
+1560,675,2025-10-01,Store,Completed
+1561,591,2025-09-09,Mobile App,Completed
+1562,536,2025-06-30,Mobile App,Cancelled
+1563,523,2025-04-18,Mobile App,Completed
+1564,679,2025-01-23,Online,Completed
+1565,193,2025-03-14,Store,Completed
+1566,981,2025-03-10,Mobile App,Cancelled
+1567,222,2025-10-30,Store,Completed
+1568,132,2025-11-15,Store,Completed
+1569,564,2025-05-11,Store,Completed
+1570,666,2025-03-25,Store,Completed
+1571,86,2025-05-11,Mobile App,Completed
+1572,963,2025-12-22,Online,Cancelled
+1573,209,2025-02-06,Mobile App,Returned
+1574,276,2025-11-21,Mobile App,Returned
+1575,198,2025-07-10,Mobile App,Returned
+1576,664,2025-09-19,Mobile App,Completed
+1577,430,2025-03-20,Store,Completed
+1578,389,2025-01-14,Mobile App,Completed
+1579,80,2025-05-19,Online,Cancelled
+1580,113,2025-12-17,Mobile App,Completed
+1581,68,2025-06-18,Mobile App,Completed
+1582,372,2025-06-20,Store,Completed
+1583,890,2025-04-26,Store,Completed
+1584,101,2025-07-13,Online,Completed
+1585,975,2025-02-23,Online,Completed
+1586,540,2025-06-06,Mobile App,Completed
+1587,98,2025-09-28,Store,Returned
+1588,586,2025-05-25,Mobile App,Completed
+1589,623,2025-02-20,Online,Completed
+1590,326,2025-07-19,Online,Completed
+1591,826,2025-12-14,Mobile App,Cancelled
+1592,609,2025-07-26,Store,Cancelled
+1593,131,2025-05-13,Online,Returned
+1594,526,2025-03-21,Mobile App,Completed
+1595,147,2025-07-13,Mobile App,Returned
+1596,274,2025-01-28,Mobile App,Returned
+1597,998,2025-07-09,Mobile App,Completed
+1598,695,2025-11-08,Store,Returned
+1599,469,2025-04-04,Store,Completed
+1600,818,2025-08-28,Mobile App,Completed
+1601,283,2025-08-08,Mobile App,Returned
+1602,903,2025-04-28,Store,Returned
+1603,879,2025-02-14,Store,Completed
+1604,790,2025-06-10,Online,Returned
+1605,82,2025-02-09,Mobile App,Completed
+1606,968,2025-02-17,Online,Cancelled
+1607,59,2025-02-13,Mobile App,Completed
+1608,568,2025-09-10,Online,Completed
+1609,694,2025-09-18,Mobile App,Completed
+1610,492,2025-09-12,Mobile App,Returned
+1611,694,2025-09-30,Mobile App,Completed
+1612,416,2025-01-08,Mobile App,Completed
+1613,933,2025-01-04,Mobile App,Completed
+1614,720,2025-10-01,Mobile App,Completed
+1615,251,2025-12-05,Mobile App,Returned
+1616,624,2025-01-22,Mobile App,Completed
+1617,988,2025-03-28,Mobile App,Cancelled
+1618,926,2025-04-26,Online,Completed
+1619,376,2025-03-10,Mobile App,Completed
+1620,976,2025-01-27,Store,Completed
+1621,389,2025-03-29,Store,Completed
+1622,347,2025-12-14,Online,Cancelled
+1623,872,2025-03-02,Store,Completed
+1624,495,2025-05-31,Store,Completed
+1625,3,2025-11-20,Mobile App,Completed
+1626,223,2025-06-06,Mobile App,Cancelled
+1627,846,2025-01-19,Store,Cancelled
+1628,869,2025-09-07,Online,Completed
+1629,7,2025-11-12,Store,Completed
+1630,306,2025-07-01,Online,Completed
+1631,359,2025-04-06,Store,Completed
+1632,10,2025-02-21,Store,Completed
+1633,203,2025-02-13,Mobile App,Cancelled
+1634,921,2025-03-20,Store,Completed
+1635,936,2025-09-07,Online,Completed
+1636,788,2025-12-03,Store,Completed
+1637,482,2025-07-22,Store,Completed
+1638,374,2025-08-08,Online,Cancelled
+1639,832,2025-05-18,Online,Completed
+1640,673,2025-08-13,Online,Completed
+1641,363,2025-08-11,Online,Completed
+1642,905,2025-12-30,Online,Completed
+1643,195,2025-05-26,Online,Completed
+1644,405,2025-08-04,Mobile App,Completed
+1645,923,2025-01-17,Online,Returned
+1646,204,2025-09-03,Mobile App,Completed
+1647,122,2025-08-04,Store,Cancelled
+1648,508,2025-12-16,Mobile App,Completed
+1649,333,2025-07-24,Mobile App,Returned
+1650,946,2025-07-19,Online,Completed
+1651,981,2025-02-25,Online,Completed
+1652,160,2025-06-26,Mobile App,Completed
+1653,786,2025-12-17,Online,Completed
+1654,695,2025-06-25,Store,Cancelled
+1655,756,2025-01-05,Store,Completed
+1656,297,2025-05-25,Store,Completed
+1657,780,2025-08-08,Online,Cancelled
+1658,157,2025-09-19,Online,Completed
+1659,288,2025-02-28,Store,Returned
+1660,254,2025-12-08,Store,Completed
+1661,486,2025-12-28,Online,Returned
+1662,748,2025-09-15,Mobile App,Completed
+1663,194,2025-10-30,Mobile App,Returned
+1664,153,2025-04-28,Online,Completed
+1665,411,2025-01-20,Store,Completed
+1666,952,2025-03-16,Store,Completed
+1667,632,2025-04-13,Online,Completed
+1668,390,2025-07-28,Mobile App,Completed
+1669,717,2025-11-21,Online,Completed
+1670,345,2025-08-07,Store,Completed
+1671,523,2025-08-07,Mobile App,Completed
+1672,312,2025-02-26,Store,Completed
+1673,288,2025-06-29,Mobile App,Completed
+1674,253,2025-06-13,Online,Completed
+1675,42,2025-01-01,Online,Returned
+1676,763,2025-06-14,Online,Completed
+1677,484,2025-05-24,Mobile App,Completed
+1678,442,2025-04-05,Store,Completed
+1679,373,2025-06-21,Store,Completed
+1680,100,2025-12-09,Online,Returned
+1681,566,2025-03-08,Store,Completed
+1682,760,2025-07-05,Mobile App,Cancelled
+1683,542,2025-11-06,Store,Completed
+1684,666,2025-05-22,Online,Cancelled
+1685,394,2025-02-14,Online,Completed
+1686,645,2025-11-05,Online,Completed
+1687,601,2025-12-02,Online,Completed
+1688,722,2025-08-17,Online,Completed
+1689,965,2025-10-07,Mobile App,Completed
+1690,309,2025-08-31,Online,Cancelled
+1691,739,2025-03-20,Online,Completed
+1692,197,2025-08-03,Mobile App,Returned
+1693,259,2025-10-14,Store,Completed
+1694,460,2025-11-19,Mobile App,Completed
+1695,933,2025-08-12,Online,Completed
+1696,430,2025-09-26,Mobile App,Completed
+1697,171,2025-11-03,Store,Returned
+1698,991,2025-03-08,Store,Completed
+1699,979,2025-10-17,Online,Returned
+1700,195,2025-07-23,Store,Returned
+1701,546,2025-09-20,Online,Completed
+1702,449,2025-09-18,Store,Cancelled
+1703,799,2025-07-19,Store,Cancelled
+1704,279,2025-04-16,Online,Completed
+1705,164,2025-10-20,Online,Cancelled
+1706,714,2025-01-05,Mobile App,Completed
+1707,516,2025-12-29,Mobile App,Cancelled
+1708,266,2025-06-05,Online,Completed
+1709,726,2025-05-18,Mobile App,Completed
+1710,176,2025-04-25,Online,Cancelled
+1711,244,2025-05-30,Online,Returned
+1712,152,2025-05-23,Online,Completed
+1713,895,2025-01-27,Mobile App,Completed
+1714,844,2025-04-18,Mobile App,Completed
+1715,2,2025-11-29,Store,Returned
+1716,620,2025-07-08,Store,Completed
+1717,970,2025-12-28,Mobile App,Completed
+1718,740,2025-03-10,Store,Cancelled
+1719,302,2025-06-16,Online,Returned
+1720,836,2025-01-06,Store,Completed
+1721,749,2025-05-24,Online,Completed
+1722,995,2025-01-09,Mobile App,Returned
+1723,889,2025-10-26,Online,Returned
+1724,764,2025-12-19,Store,Returned
+1725,264,2025-11-17,Mobile App,Cancelled
+1726,565,2025-04-16,Store,Completed
+1727,333,2025-05-18,Online,Cancelled
+1728,645,2025-07-22,Online,Completed
+1729,238,2025-08-11,Store,Completed
+1730,924,2025-09-03,Online,Completed
+1731,186,2025-08-24,Online,Completed
+1732,194,2025-10-19,Store,Returned
+1733,185,2025-11-28,Store,Completed
+1734,318,2025-03-25,Online,Completed
+1735,704,2025-11-08,Online,Completed
+1736,147,2025-02-06,Store,Completed
+1737,466,2025-11-27,Store,Completed
+1738,742,2025-09-27,Online,Returned
+1739,769,2025-01-07,Mobile App,Completed
+1740,387,2025-07-16,Online,Completed
+1741,847,2025-01-07,Mobile App,Completed
+1742,136,2025-05-08,Online,Completed
+1743,147,2025-11-18,Mobile App,Completed
+1744,812,2025-01-05,Online,Cancelled
+1745,754,2025-06-23,Mobile App,Completed
+1746,208,2025-03-13,Store,Cancelled
+1747,914,2025-08-16,Online,Completed
+1748,340,2025-09-03,Online,Completed
+1749,58,2025-10-06,Mobile App,Completed
+1750,643,2025-10-06,Online,Completed
+1751,845,2025-01-23,Online,Cancelled
+1752,304,2025-02-22,Mobile App,Completed
+1753,146,2025-01-01,Online,Completed
+1754,233,2025-08-07,Store,Completed
+1755,362,2025-12-02,Store,Completed
+1756,944,2025-12-17,Store,Returned
+1757,906,2025-02-27,Store,Completed
+1758,113,2025-04-25,Online,Completed
+1759,366,2025-02-09,Mobile App,Completed
+1760,122,2025-07-04,Online,Completed
+1761,620,2025-03-19,Online,Completed
+1762,544,2025-06-21,Mobile App,Completed
+1763,696,2025-08-06,Online,Returned
+1764,704,2025-06-04,Mobile App,Completed
+1765,357,2025-02-23,Store,Completed
+1766,678,2025-07-08,Store,Returned
+1767,818,2025-02-09,Online,Completed
+1768,797,2025-12-02,Online,Completed
+1769,152,2025-07-19,Store,Returned
+1770,816,2025-09-02,Online,Completed
+1771,592,2025-08-07,Mobile App,Completed
+1772,149,2025-02-16,Store,Completed
+1773,187,2025-07-17,Store,Completed
+1774,507,2025-08-06,Store,Returned
+1775,997,2025-07-31,Mobile App,Returned
+1776,342,2025-03-12,Mobile App,Completed
+1777,393,2025-08-03,Mobile App,Completed
+1778,552,2025-10-01,Store,Cancelled
+1779,550,2025-04-28,Store,Completed
+1780,595,2025-08-04,Mobile App,Cancelled
+1781,796,2025-12-22,Mobile App,Completed
+1782,720,2025-02-14,Online,Completed
+1783,3,2025-04-15,Online,Completed
+1784,572,2025-08-31,Online,Completed
+1785,62,2025-06-28,Store,Completed
+1786,302,2025-08-24,Online,Cancelled
+1787,996,2025-08-04,Online,Completed
+1788,848,2025-04-25,Online,Returned
+1789,142,2025-03-02,Mobile App,Returned
+1790,147,2025-07-13,Mobile App,Completed
+1791,713,2025-08-06,Store,Completed
+1792,719,2025-02-24,Mobile App,Cancelled
+1793,76,2025-09-02,Mobile App,Completed
+1794,31,2025-03-17,Store,Completed
+1795,81,2025-05-06,Online,Completed
+1796,583,2025-08-02,Online,Completed
+1797,482,2025-03-13,Mobile App,Cancelled
+1798,716,2025-06-03,Store,Completed
+1799,740,2025-06-22,Store,Returned
+1800,712,2025-01-07,Store,Completed
+1801,160,2025-01-31,Mobile App,Completed
+1802,619,2025-03-30,Mobile App,Completed
+1803,12,2025-07-22,Store,Returned
+1804,971,2025-08-21,Mobile App,Returned
+1805,850,2025-05-13,Mobile App,Cancelled
+1806,314,2025-12-30,Online,Completed
+1807,954,2025-03-22,Store,Completed
+1808,535,2025-07-13,Online,Returned
+1809,217,2025-07-25,Mobile App,Completed
+1810,225,2025-07-20,Online,Returned
+1811,1000,2025-10-14,Mobile App,Completed
+1812,837,2025-12-21,Store,Completed
+1813,321,2025-12-01,Mobile App,Completed
+1814,848,2025-07-14,Online,Completed
+1815,823,2025-07-10,Mobile App,Completed
+1816,200,2025-05-19,Online,Completed
+1817,80,2025-07-05,Mobile App,Completed
+1818,29,2025-05-03,Store,Completed
+1819,555,2025-02-24,Online,Completed
+1820,612,2025-01-06,Store,Completed
+1821,565,2025-04-14,Mobile App,Completed
+1822,247,2025-05-18,Online,Cancelled
+1823,579,2025-01-23,Mobile App,Completed
+1824,47,2025-01-25,Store,Completed
+1825,967,2025-06-08,Online,Completed
+1826,770,2025-05-25,Store,Cancelled
+1827,200,2025-06-11,Store,Returned
+1828,365,2025-03-08,Mobile App,Returned
+1829,100,2025-06-19,Store,Returned
+1830,516,2025-02-21,Mobile App,Completed
+1831,25,2025-10-28,Store,Completed
+1832,601,2025-01-20,Store,Completed
+1833,156,2025-12-16,Store,Completed
+1834,907,2025-11-17,Online,Returned
+1835,238,2025-04-21,Mobile App,Returned
+1836,145,2025-03-24,Mobile App,Cancelled
+1837,747,2025-11-08,Mobile App,Cancelled
+1838,953,2025-06-24,Store,Completed
+1839,348,2025-05-29,Store,Cancelled
+1840,877,2025-08-09,Online,Returned
+1841,793,2025-12-16,Store,Completed
+1842,214,2025-11-09,Mobile App,Completed
+1843,982,2025-03-20,Mobile App,Returned
+1844,510,2025-02-19,Online,Completed
+1845,785,2025-06-08,Mobile App,Completed
+1846,511,2025-02-18,Store,Completed
+1847,174,2025-06-01,Online,Completed
+1848,287,2025-10-23,Store,Completed
+1849,92,2025-02-06,Online,Returned
+1850,791,2025-08-24,Store,Completed
+1851,263,2025-08-15,Mobile App,Completed
+1852,963,2025-03-05,Mobile App,Completed
+1853,41,2025-07-06,Store,Completed
+1854,419,2025-11-14,Mobile App,Completed
+1855,452,2025-07-07,Mobile App,Cancelled
+1856,975,2025-06-10,Store,Completed
+1857,699,2025-07-31,Mobile App,Completed
+1858,270,2025-12-16,Online,Cancelled
+1859,660,2025-01-30,Mobile App,Completed
+1860,717,2025-10-15,Online,Completed
+1861,874,2025-02-23,Store,Completed
+1862,163,2025-10-19,Store,Completed
+1863,229,2025-07-18,Store,Returned
+1864,96,2025-06-28,Store,Completed
+1865,658,2025-10-01,Store,Completed
+1866,88,2025-04-03,Mobile App,Completed
+1867,940,2025-07-23,Store,Completed
+1868,412,2025-06-18,Online,Completed
+1869,351,2025-11-06,Store,Completed
+1870,720,2025-09-01,Online,Completed
+1871,466,2025-01-20,Mobile App,Completed
+1872,972,2025-08-29,Online,Returned
+1873,219,2025-06-13,Mobile App,Completed
+1874,616,2025-07-14,Online,Completed
+1875,809,2025-08-09,Store,Completed
+1876,56,2025-04-19,Online,Returned
+1877,434,2025-05-19,Store,Returned
+1878,181,2025-02-12,Online,Completed
+1879,281,2025-07-27,Online,Completed
+1880,895,2025-12-31,Store,Completed
+1881,538,2025-04-20,Mobile App,Completed
+1882,189,2025-01-28,Online,Completed
+1883,351,2025-06-02,Online,Completed
+1884,358,2025-08-03,Store,Completed
+1885,549,2025-12-19,Online,Returned
+1886,448,2025-07-01,Mobile App,Cancelled
+1887,399,2025-01-06,Mobile App,Cancelled
+1888,204,2025-02-09,Mobile App,Returned
+1889,593,2025-11-12,Online,Completed
+1890,681,2025-06-12,Online,Completed
+1891,919,2025-08-23,Online,Completed
+1892,886,2025-06-12,Online,Returned
+1893,417,2025-05-15,Mobile App,Returned
+1894,4,2025-08-19,Online,Returned
+1895,461,2025-11-24,Mobile App,Completed
+1896,38,2025-04-22,Mobile App,Completed
+1897,431,2025-12-23,Mobile App,Completed
+1898,616,2025-07-13,Online,Completed
+1899,215,2025-04-08,Mobile App,Cancelled
+1900,979,2025-01-08,Store,Completed
+1901,17,2025-06-04,Store,Cancelled
+1902,839,2025-03-05,Mobile App,Completed
+1903,665,2025-08-22,Store,Completed
+1904,361,2025-06-30,Mobile App,Completed
+1905,536,2025-06-21,Online,Completed
+1906,470,2025-08-08,Store,Completed
+1907,567,2025-11-01,Online,Cancelled
+1908,447,2025-07-15,Store,Returned
+1909,706,2025-12-15,Store,Returned
+1910,291,2025-12-26,Mobile App,Completed
+1911,90,2025-02-23,Online,Returned
+1912,17,2025-11-12,Store,Completed
+1913,509,2025-11-16,Mobile App,Completed
+1914,649,2025-08-16,Mobile App,Cancelled
+1915,826,2025-01-17,Mobile App,Completed
+1916,873,2025-08-04,Online,Completed
+1917,796,2025-08-21,Mobile App,Completed
+1918,118,2025-04-11,Store,Completed
+1919,360,2025-08-26,Store,Returned
+1920,721,2025-07-22,Online,Completed
+1921,801,2025-04-25,Mobile App,Completed
+1922,275,2025-12-04,Store,Completed
+1923,859,2025-08-01,Mobile App,Completed
+1924,5,2025-08-01,Online,Completed
+1925,27,2025-03-20,Store,Cancelled
+1926,840,2025-11-04,Store,Completed
+1927,175,2025-10-20,Store,Completed
+1928,570,2025-07-20,Online,Cancelled
+1929,660,2025-07-21,Online,Cancelled
+1930,440,2025-03-07,Mobile App,Completed
+1931,746,2025-03-30,Store,Completed
+1932,530,2025-03-23,Store,Completed
+1933,102,2025-12-30,Online,Cancelled
+1934,122,2025-11-20,Mobile App,Completed
+1935,864,2025-11-18,Store,Cancelled
+1936,163,2025-06-15,Online,Completed
+1937,96,2025-01-14,Store,Completed
+1938,644,2025-10-31,Online,Completed
+1939,633,2025-12-29,Mobile App,Completed
+1940,586,2025-07-15,Online,Returned
+1941,752,2025-03-08,Store,Returned
+1942,647,2025-07-03,Online,Completed
+1943,669,2025-04-24,Store,Completed
+1944,549,2025-05-06,Mobile App,Completed
+1945,789,2025-05-14,Mobile App,Completed
+1946,282,2025-02-12,Online,Returned
+1947,24,2025-11-23,Mobile App,Completed
+1948,114,2025-08-24,Mobile App,Completed
+1949,110,2025-03-14,Store,Completed
+1950,917,2025-04-03,Online,Completed
+1951,507,2025-07-05,Online,Completed
+1952,104,2025-09-09,Online,Completed
+1953,76,2025-09-07,Mobile App,Completed
+1954,216,2025-12-18,Store,Completed
+1955,912,2025-06-10,Mobile App,Completed
+1956,828,2025-03-24,Online,Completed
+1957,11,2025-04-02,Mobile App,Cancelled
+1958,647,2025-11-07,Online,Completed
+1959,1000,2025-06-25,Store,Completed
+1960,629,2025-11-04,Mobile App,Completed
+1961,163,2025-09-25,Mobile App,Completed
+1962,949,2025-03-04,Online,Cancelled
+1963,31,2025-10-02,Online,Cancelled
+1964,525,2025-03-20,Online,Completed
+1965,118,2025-04-22,Online,Completed
+1966,142,2025-04-23,Online,Returned
+1967,709,2025-03-06,Store,Completed
+1968,494,2025-04-13,Online,Completed
+1969,726,2025-10-10,Mobile App,Completed
+1970,479,2025-09-11,Store,Cancelled
+1971,970,2025-07-24,Online,Completed
+1972,178,2025-04-12,Mobile App,Returned
+1973,288,2025-07-21,Online,Cancelled
+1974,813,2025-10-28,Store,Completed
+1975,814,2025-04-16,Mobile App,Completed
+1976,444,2025-08-17,Store,Cancelled
+1977,766,2025-05-20,Store,Cancelled
+1978,111,2025-11-07,Store,Completed
+1979,205,2025-10-18,Store,Completed
+1980,920,2025-11-20,Online,Completed
+1981,172,2025-01-18,Mobile App,Completed
+1982,601,2025-07-29,Store,Cancelled
+1983,847,2025-11-27,Mobile App,Completed
+1984,408,2025-01-16,Online,Completed
+1985,829,2025-06-15,Store,Completed
+1986,367,2025-05-06,Online,Completed
+1987,673,2025-07-10,Store,Completed
+1988,799,2025-06-10,Online,Completed
+1989,327,2025-12-19,Online,Returned
+1990,337,2025-04-20,Store,Cancelled
+1991,815,2025-06-14,Online,Cancelled
+1992,68,2025-07-17,Store,Cancelled
+1993,218,2025-09-27,Online,Completed
+1994,575,2025-05-23,Mobile App,Cancelled
+1995,969,2025-12-10,Online,Cancelled
+1996,915,2025-11-27,Store,Returned
+1997,775,2025-08-11,Store,Completed
+1998,203,2025-04-11,Online,Completed
+1999,511,2025-01-24,Store,Completed
+2000,123,2025-03-05,Store,Completed
+2001,616,2025-06-17,Mobile App,Completed
+2002,243,2025-10-23,Online,Completed
+2003,19,2025-11-26,Mobile App,Completed
+2004,934,2025-08-25,Store,Completed
+2005,862,2025-07-26,Online,Cancelled
+2006,941,2025-09-28,Online,Completed
+2007,661,2025-01-09,Online,Completed
+2008,98,2025-08-01,Mobile App,Completed
+2009,282,2025-06-12,Store,Completed
+2010,82,2025-10-12,Store,Completed
+2011,628,2025-01-25,Store,Completed
+2012,714,2025-08-21,Store,Returned
+2013,991,2025-03-04,Store,Cancelled
+2014,106,2025-01-15,Online,Completed
+2015,846,2025-01-06,Online,Completed
+2016,331,2025-12-19,Mobile App,Completed
+2017,232,2025-03-29,Online,Completed
+2018,742,2025-07-08,Mobile App,Completed
+2019,957,2025-12-19,Online,Completed
+2020,905,2025-01-23,Online,Completed
+2021,970,2025-06-05,Online,Completed
+2022,338,2025-12-19,Mobile App,Completed
+2023,277,2025-12-24,Online,Completed
+2024,598,2025-08-24,Online,Completed
+2025,327,2025-03-17,Mobile App,Completed
+2026,653,2025-08-17,Mobile App,Completed
+2027,535,2025-09-28,Online,Cancelled
+2028,490,2025-12-05,Store,Completed
+2029,330,2025-09-05,Online,Completed
+2030,271,2025-06-01,Mobile App,Completed
+2031,362,2025-10-13,Online,Returned
+2032,663,2025-04-16,Mobile App,Completed
+2033,77,2025-09-11,Online,Completed
+2034,14,2025-12-10,Online,Completed
+2035,839,2025-07-17,Online,Completed
+2036,108,2025-06-24,Online,Cancelled
+2037,780,2025-09-28,Mobile App,Completed
+2038,779,2025-06-09,Mobile App,Completed
+2039,672,2025-03-20,Mobile App,Completed
+2040,937,2025-03-08,Online,Completed
+2041,395,2025-08-20,Mobile App,Cancelled
+2042,208,2025-07-24,Online,Completed
+2043,285,2025-08-05,Online,Returned
+2044,315,2025-10-23,Mobile App,Completed
+2045,151,2025-08-25,Online,Returned
+2046,113,2025-05-04,Online,Completed
+2047,192,2025-05-17,Online,Completed
+2048,678,2025-09-29,Store,Completed
+2049,272,2025-03-02,Mobile App,Completed
+2050,363,2025-08-09,Online,Completed
+2051,407,2025-09-15,Store,Cancelled
+2052,342,2025-01-28,Store,Completed
+2053,379,2025-02-20,Online,Returned
+2054,392,2025-08-05,Online,Completed
+2055,194,2025-07-26,Online,Cancelled
+2056,283,2025-09-29,Mobile App,Completed
+2057,532,2025-08-10,Online,Returned
+2058,52,2025-11-27,Online,Completed
+2059,225,2025-02-28,Online,Completed
+2060,590,2025-05-17,Online,Completed
+2061,545,2025-02-21,Store,Completed
+2062,904,2025-11-14,Mobile App,Returned
+2063,415,2025-07-20,Store,Completed
+2064,226,2025-12-21,Store,Completed
+2065,211,2025-03-29,Online,Completed
+2066,653,2025-05-28,Mobile App,Cancelled
+2067,295,2025-01-02,Online,Completed
+2068,516,2025-12-25,Mobile App,Completed
+2069,757,2025-06-06,Mobile App,Completed
+2070,175,2025-06-11,Mobile App,Completed
+2071,171,2025-04-06,Store,Completed
+2072,146,2025-01-07,Mobile App,Completed
+2073,439,2025-06-21,Online,Completed
+2074,998,2025-05-16,Online,Completed
+2075,696,2025-01-05,Mobile App,Completed
+2076,993,2025-08-31,Mobile App,Completed
+2077,501,2025-05-07,Store,Completed
+2078,47,2025-01-09,Mobile App,Returned
+2079,298,2025-04-27,Mobile App,Cancelled
+2080,172,2025-03-17,Online,Completed
+2081,312,2025-06-21,Store,Completed
+2082,753,2025-06-29,Mobile App,Completed
+2083,680,2025-09-07,Store,Completed
+2084,470,2025-01-07,Store,Completed
+2085,728,2025-06-20,Mobile App,Returned
+2086,878,2025-11-02,Store,Completed
+2087,277,2025-12-18,Mobile App,Returned
+2088,656,2025-01-11,Online,Completed
+2089,877,2025-04-23,Mobile App,Completed
+2090,366,2025-09-12,Online,Completed
+2091,592,2025-12-23,Store,Completed
+2092,212,2025-02-15,Online,Completed
+2093,655,2025-02-25,Store,Returned
+2094,696,2025-10-06,Store,Cancelled
+2095,180,2025-05-16,Mobile App,Completed
+2096,910,2025-06-19,Store,Cancelled
+2097,428,2025-05-22,Store,Completed
+2098,43,2025-10-24,Mobile App,Returned
+2099,352,2025-11-10,Online,Completed
+2100,815,2025-08-21,Mobile App,Completed
+2101,296,2025-02-26,Online,Completed
+2102,950,2025-12-17,Online,Completed
+2103,698,2025-03-18,Mobile App,Completed
+2104,639,2025-10-13,Mobile App,Completed
+2105,311,2025-09-07,Store,Completed
+2106,819,2025-05-31,Online,Completed
+2107,42,2025-04-22,Store,Cancelled
+2108,127,2025-01-28,Store,Completed
+2109,6,2025-08-09,Store,Returned
+2110,855,2025-01-01,Online,Completed
+2111,142,2025-06-29,Store,Cancelled
+2112,682,2025-10-15,Online,Completed
+2113,731,2025-05-19,Online,Returned
+2114,202,2025-08-10,Mobile App,Completed
+2115,298,2025-04-23,Online,Completed
+2116,956,2025-07-01,Online,Returned
+2117,653,2025-07-17,Store,Completed
+2118,991,2025-02-20,Store,Completed
+2119,612,2025-06-09,Online,Cancelled
+2120,447,2025-12-14,Store,Cancelled
+2121,143,2025-12-16,Online,Completed
+2122,139,2025-08-02,Mobile App,Completed
+2123,309,2025-06-06,Online,Completed
+2124,581,2025-11-18,Store,Cancelled
+2125,188,2025-07-12,Store,Completed
+2126,142,2025-09-27,Store,Returned
+2127,321,2025-09-15,Mobile App,Returned
+2128,367,2025-08-28,Store,Completed
+2129,478,2025-08-04,Store,Completed
+2130,29,2025-10-14,Online,Completed
+2131,91,2025-03-13,Mobile App,Completed
+2132,806,2025-05-05,Mobile App,Cancelled
+2133,383,2025-03-07,Mobile App,Cancelled
+2134,922,2025-10-17,Store,Completed
+2135,774,2025-07-21,Online,Completed
+2136,687,2025-01-04,Store,Cancelled
+2137,472,2025-01-28,Online,Completed
+2138,277,2025-11-29,Online,Completed
+2139,609,2025-02-19,Store,Cancelled
+2140,494,2025-12-20,Store,Completed
+2141,125,2025-10-27,Mobile App,Cancelled
+2142,758,2025-01-28,Mobile App,Completed
+2143,529,2025-03-15,Mobile App,Returned
+2144,991,2025-09-11,Online,Completed
+2145,917,2025-12-12,Mobile App,Completed
+2146,309,2025-11-18,Store,Returned
+2147,960,2025-01-04,Store,Cancelled
+2148,705,2025-04-13,Online,Completed
+2149,1,2025-03-20,Mobile App,Completed
+2150,533,2025-02-19,Online,Completed
+2151,107,2025-08-31,Online,Cancelled
+2152,455,2025-07-20,Online,Completed
+2153,308,2025-07-27,Store,Completed
+2154,840,2025-05-01,Mobile App,Completed
+2155,842,2025-11-10,Mobile App,Completed
+2156,880,2025-12-03,Mobile App,Completed
+2157,443,2025-03-16,Mobile App,Completed
+2158,190,2025-03-14,Mobile App,Returned
+2159,247,2025-03-29,Mobile App,Returned
+2160,717,2025-10-07,Online,Completed
+2161,492,2025-05-29,Store,Returned
+2162,103,2025-10-29,Store,Completed
+2163,684,2025-05-21,Store,Completed
+2164,715,2025-02-24,Store,Completed
+2165,834,2025-08-06,Online,Completed
+2166,291,2025-08-23,Online,Cancelled
+2167,399,2025-01-06,Mobile App,Completed
+2168,35,2025-11-27,Mobile App,Returned
+2169,635,2025-08-16,Online,Completed
+2170,986,2025-03-13,Store,Returned
+2171,470,2025-05-22,Online,Completed
+2172,367,2025-09-14,Mobile App,Completed
+2173,358,2025-12-28,Mobile App,Completed
+2174,526,2025-02-02,Online,Returned
+2175,156,2025-06-30,Mobile App,Returned
+2176,577,2025-06-23,Store,Returned
+2177,880,2025-03-13,Store,Returned
+2178,311,2025-07-21,Online,Returned
+2179,496,2025-07-12,Store,Cancelled
+2180,675,2025-04-03,Mobile App,Returned
+2181,950,2025-09-17,Mobile App,Cancelled
+2182,266,2025-03-08,Mobile App,Completed
+2183,603,2025-10-25,Store,Cancelled
+2184,633,2025-07-26,Online,Completed
+2185,31,2025-03-23,Online,Completed
+2186,682,2025-02-24,Store,Returned
+2187,488,2025-06-15,Online,Returned
+2188,815,2025-05-02,Online,Completed
+2189,746,2025-07-16,Store,Completed
+2190,64,2025-11-10,Store,Completed
+2191,39,2025-02-07,Store,Completed
+2192,622,2025-11-20,Online,Completed
+2193,329,2025-02-25,Mobile App,Completed
+2194,387,2025-03-10,Mobile App,Cancelled
+2195,570,2025-04-13,Online,Completed
+2196,503,2025-08-13,Mobile App,Completed
+2197,231,2025-04-14,Mobile App,Completed
+2198,445,2025-09-28,Online,Completed
+2199,597,2025-01-13,Mobile App,Returned
+2200,99,2025-04-15,Online,Completed
+2201,915,2025-01-03,Store,Completed
+2202,582,2025-10-07,Online,Completed
+2203,190,2025-12-16,Mobile App,Returned
+2204,658,2025-09-28,Store,Completed
+2205,853,2025-04-17,Mobile App,Completed
+2206,513,2025-06-30,Store,Cancelled
+2207,922,2025-10-14,Online,Completed
+2208,450,2025-08-07,Mobile App,Completed
+2209,895,2025-02-06,Mobile App,Completed
+2210,131,2025-09-22,Store,Completed
+2211,121,2025-09-13,Online,Completed
+2212,616,2025-10-04,Store,Completed
+2213,230,2025-05-29,Store,Completed
+2214,721,2025-07-03,Online,Completed
+2215,992,2025-05-28,Online,Cancelled
+2216,590,2025-05-04,Mobile App,Cancelled
+2217,513,2025-06-09,Store,Cancelled
+2218,59,2025-10-07,Mobile App,Completed
+2219,597,2025-08-30,Store,Returned
+2220,31,2025-01-17,Store,Completed
+2221,268,2025-04-13,Store,Completed
+2222,143,2025-04-15,Mobile App,Returned
+2223,338,2025-12-06,Online,Completed
+2224,506,2025-02-07,Mobile App,Cancelled
+2225,720,2025-01-19,Store,Completed
+2226,973,2025-08-02,Mobile App,Returned
+2227,628,2025-02-11,Mobile App,Completed
+2228,970,2025-03-08,Store,Returned
+2229,43,2025-02-23,Online,Completed
+2230,520,2025-04-26,Mobile App,Completed
+2231,442,2025-09-02,Store,Completed
+2232,22,2025-01-29,Online,Completed
+2233,548,2025-11-08,Store,Returned
+2234,701,2025-01-10,Mobile App,Completed
+2235,54,2025-07-18,Store,Returned
+2236,129,2025-08-09,Mobile App,Completed
+2237,563,2025-03-12,Online,Completed
+2238,121,2025-11-12,Store,Completed
+2239,199,2025-06-25,Store,Completed
+2240,244,2025-04-29,Online,Cancelled
+2241,11,2025-04-27,Store,Returned
+2242,771,2025-10-02,Mobile App,Completed
+2243,822,2025-01-08,Mobile App,Completed
+2244,833,2025-01-30,Online,Completed
+2245,130,2025-08-13,Online,Completed
+2246,45,2025-06-10,Store,Cancelled
+2247,671,2025-05-06,Store,Completed
+2248,621,2025-07-23,Store,Returned
+2249,126,2025-12-03,Online,Completed
+2250,257,2025-10-06,Online,Completed
+2251,723,2025-07-02,Online,Completed
+2252,731,2025-06-04,Store,Cancelled
+2253,300,2025-12-01,Online,Cancelled
+2254,915,2025-05-17,Store,Returned
+2255,555,2025-09-15,Online,Completed
+2256,355,2025-07-30,Mobile App,Cancelled
+2257,498,2025-05-24,Online,Completed
+2258,934,2025-03-12,Mobile App,Completed
+2259,313,2025-10-11,Online,Completed
+2260,382,2025-03-14,Online,Completed
+2261,716,2025-08-14,Mobile App,Completed
+2262,976,2025-02-28,Online,Completed
+2263,857,2025-01-18,Store,Completed
+2264,603,2025-07-16,Store,Completed
+2265,62,2025-05-23,Mobile App,Completed
+2266,508,2025-01-10,Store,Completed
+2267,455,2025-01-23,Online,Completed
+2268,389,2025-04-05,Mobile App,Completed
+2269,546,2025-01-27,Mobile App,Completed
+2270,33,2025-10-05,Store,Completed
+2271,932,2025-11-08,Store,Completed
+2272,830,2025-10-30,Online,Completed
+2273,350,2025-11-15,Store,Completed
+2274,802,2025-01-30,Online,Cancelled
+2275,398,2025-12-14,Store,Cancelled
+2276,475,2025-08-06,Mobile App,Returned
+2277,582,2025-09-23,Store,Completed
+2278,984,2025-07-15,Store,Returned
+2279,947,2025-05-02,Online,Completed
+2280,288,2025-12-16,Store,Completed
+2281,256,2025-10-05,Store,Completed
+2282,585,2025-07-22,Online,Cancelled
+2283,281,2025-07-05,Store,Returned
+2284,257,2025-12-01,Mobile App,Completed
+2285,128,2025-06-07,Mobile App,Returned
+2286,329,2025-05-16,Online,Completed
+2287,474,2025-01-09,Store,Completed
+2288,478,2025-01-19,Store,Completed
+2289,654,2025-10-12,Online,Completed
+2290,60,2025-10-24,Online,Completed
+2291,919,2025-11-09,Mobile App,Completed
+2292,977,2025-02-02,Store,Completed
+2293,265,2025-05-22,Store,Completed
+2294,131,2025-04-27,Mobile App,Completed
+2295,151,2025-11-13,Mobile App,Completed
+2296,239,2025-02-28,Mobile App,Completed
+2297,189,2025-12-17,Mobile App,Completed
+2298,594,2025-06-12,Online,Cancelled
+2299,735,2025-04-27,Online,Returned
+2300,266,2025-05-12,Online,Returned
+2301,866,2025-06-30,Mobile App,Returned
+2302,46,2025-11-04,Online,Completed
+2303,112,2025-02-09,Mobile App,Completed
+2304,116,2025-09-19,Online,Completed
+2305,209,2025-06-16,Mobile App,Completed
+2306,850,2025-12-15,Store,Completed
+2307,658,2025-08-07,Store,Completed
+2308,26,2025-06-17,Mobile App,Completed
+2309,344,2025-07-28,Mobile App,Completed
+2310,482,2025-05-31,Mobile App,Completed
+2311,165,2025-07-08,Online,Completed
+2312,953,2025-03-18,Mobile App,Completed
+2313,109,2025-11-08,Online,Completed
+2314,524,2025-09-18,Mobile App,Returned
+2315,353,2025-04-21,Store,Cancelled
+2316,34,2025-12-03,Mobile App,Completed
+2317,391,2025-11-29,Online,Completed
+2318,982,2025-04-25,Mobile App,Cancelled
+2319,589,2025-11-19,Mobile App,Returned
+2320,429,2025-10-03,Mobile App,Completed
+2321,868,2025-09-28,Online,Cancelled
+2322,484,2025-12-04,Mobile App,Cancelled
+2323,452,2025-06-12,Store,Completed
+2324,857,2025-10-22,Store,Completed
+2325,337,2025-05-05,Store,Completed
+2326,467,2025-06-11,Mobile App,Completed
+2327,710,2025-05-04,Store,Returned
+2328,981,2025-07-29,Store,Completed
+2329,361,2025-10-14,Mobile App,Completed
+2330,937,2025-07-05,Mobile App,Completed
+2331,620,2025-04-28,Store,Completed
+2332,236,2025-10-19,Online,Cancelled
+2333,251,2025-07-28,Mobile App,Cancelled
+2334,682,2025-03-12,Mobile App,Completed
+2335,815,2025-05-27,Store,Completed
+2336,121,2025-02-11,Store,Completed
+2337,518,2025-03-17,Mobile App,Completed
+2338,648,2025-04-12,Online,Completed
+2339,16,2025-03-27,Online,Completed
+2340,270,2025-10-11,Mobile App,Completed
+2341,761,2025-02-21,Online,Completed
+2342,854,2025-08-09,Online,Returned
+2343,171,2025-02-07,Online,Cancelled
+2344,888,2025-09-29,Store,Completed
+2345,363,2025-03-07,Store,Returned
+2346,571,2025-05-04,Mobile App,Completed
+2347,122,2025-06-22,Store,Cancelled
+2348,624,2025-11-12,Online,Returned
+2349,47,2025-02-07,Mobile App,Completed
+2350,973,2025-08-18,Store,Returned
+2351,461,2025-08-12,Store,Completed
+2352,717,2025-03-10,Mobile App,Completed
+2353,742,2025-10-29,Mobile App,Completed
+2354,156,2025-01-04,Mobile App,Cancelled
+2355,379,2025-12-12,Mobile App,Completed
+2356,389,2025-06-14,Store,Completed
+2357,521,2025-10-29,Store,Completed
+2358,238,2025-06-02,Store,Completed
+2359,50,2025-10-16,Mobile App,Cancelled
+2360,594,2025-09-18,Store,Completed
+2361,331,2025-07-16,Store,Completed
+2362,977,2025-03-15,Online,Returned
+2363,904,2025-04-18,Store,Cancelled
+2364,285,2025-10-22,Mobile App,Completed
+2365,102,2025-06-27,Store,Completed
+2366,122,2025-05-28,Store,Completed
+2367,450,2025-04-25,Online,Completed
+2368,962,2025-05-13,Mobile App,Completed
+2369,947,2025-04-29,Mobile App,Completed
+2370,145,2025-02-19,Online,Cancelled
+2371,859,2025-09-18,Online,Completed
+2372,613,2025-01-21,Mobile App,Cancelled
+2373,819,2025-04-10,Online,Completed
+2374,853,2025-01-14,Store,Completed
+2375,289,2025-10-20,Store,Returned
+2376,456,2025-09-24,Online,Completed
+2377,303,2025-02-26,Mobile App,Returned
+2378,942,2025-03-03,Store,Completed
+2379,506,2025-05-15,Online,Completed
+2380,286,2025-12-09,Online,Completed
+2381,823,2025-02-10,Mobile App,Completed
+2382,745,2025-02-08,Store,Completed
+2383,520,2025-06-21,Store,Completed
+2384,646,2025-09-20,Mobile App,Completed
+2385,724,2025-12-19,Store,Completed
+2386,444,2025-02-21,Mobile App,Cancelled
+2387,326,2025-04-08,Mobile App,Returned
+2388,858,2025-11-17,Online,Returned
+2389,643,2025-01-05,Online,Completed
+2390,601,2025-07-12,Online,Returned
+2391,201,2025-05-16,Store,Completed
+2392,497,2025-04-06,Mobile App,Completed
+2393,290,2025-03-09,Online,Returned
+2394,897,2025-02-15,Mobile App,Returned
+2395,768,2025-04-20,Online,Completed
+2396,69,2025-09-09,Mobile App,Cancelled
+2397,214,2025-12-30,Online,Completed
+2398,429,2025-12-19,Store,Cancelled
+2399,390,2025-11-20,Mobile App,Completed
+2400,654,2025-06-28,Store,Cancelled
+2401,673,2025-04-03,Store,Completed
+2402,897,2025-05-30,Mobile App,Completed
+2403,502,2025-11-19,Store,Cancelled
+2404,366,2025-10-06,Store,Completed
+2405,99,2025-04-23,Online,Completed
+2406,430,2025-08-17,Store,Completed
+2407,679,2025-08-06,Online,Completed
+2408,476,2025-06-13,Mobile App,Completed
+2409,356,2025-12-23,Store,Returned
+2410,132,2025-09-05,Store,Cancelled
+2411,422,2025-12-18,Online,Completed
+2412,298,2025-05-18,Mobile App,Completed
+2413,912,2025-07-29,Online,Cancelled
+2414,791,2025-06-15,Store,Returned
+2415,326,2025-07-30,Store,Completed
+2416,436,2025-07-24,Store,Completed
+2417,275,2025-09-06,Mobile App,Completed
+2418,348,2025-11-22,Online,Completed
+2419,459,2025-07-29,Online,Cancelled
+2420,897,2025-03-27,Mobile App,Completed
+2421,799,2025-11-17,Online,Cancelled
+2422,626,2025-06-18,Online,Cancelled
+2423,553,2025-01-11,Mobile App,Completed
+2424,822,2025-07-14,Online,Returned
+2425,342,2025-06-30,Mobile App,Completed
+2426,671,2025-01-26,Mobile App,Completed
+2427,371,2025-10-02,Online,Completed
+2428,859,2025-10-02,Store,Returned
+2429,235,2025-05-29,Online,Completed
+2430,340,2025-07-31,Online,Cancelled
+2431,751,2025-05-08,Online,Completed
+2432,866,2025-01-11,Mobile App,Completed
+2433,514,2025-07-23,Store,Completed
+2434,161,2025-05-25,Store,Completed
+2435,236,2025-11-20,Mobile App,Completed
+2436,35,2025-05-20,Mobile App,Completed
+2437,833,2025-07-13,Mobile App,Completed
+2438,135,2025-05-19,Online,Completed
+2439,76,2025-09-16,Mobile App,Returned
+2440,781,2025-08-01,Online,Completed
+2441,761,2025-10-05,Mobile App,Completed
+2442,98,2025-10-29,Store,Completed
+2443,852,2025-11-07,Store,Completed
+2444,436,2025-09-20,Mobile App,Completed
+2445,310,2025-05-21,Store,Completed
+2446,103,2025-05-16,Mobile App,Cancelled
+2447,483,2025-07-12,Store,Completed
+2448,96,2025-04-24,Store,Cancelled
+2449,286,2025-09-05,Store,Returned
+2450,547,2025-09-17,Online,Completed
+2451,18,2025-09-12,Mobile App,Completed
+2452,975,2025-07-10,Mobile App,Returned
+2453,111,2025-08-20,Online,Cancelled
+2454,999,2025-01-13,Store,Completed
+2455,458,2025-07-09,Store,Cancelled
+2456,112,2025-11-26,Store,Completed
+2457,148,2025-11-19,Online,Completed
+2458,575,2025-03-28,Online,Completed
+2459,608,2025-05-08,Online,Completed
+2460,413,2025-11-12,Store,Cancelled
+2461,741,2025-10-18,Online,Completed
+2462,786,2025-09-10,Store,Completed
+2463,319,2025-06-22,Online,Completed
+2464,330,2025-12-19,Mobile App,Cancelled
+2465,417,2025-01-03,Store,Returned
+2466,215,2025-10-15,Store,Cancelled
+2467,512,2025-06-10,Mobile App,Completed
+2468,330,2025-08-25,Mobile App,Completed
+2469,527,2025-10-12,Mobile App,Returned
+2470,84,2025-02-23,Store,Returned
+2471,80,2025-07-12,Online,Completed
+2472,166,2025-09-24,Mobile App,Completed
+2473,171,2025-04-12,Store,Completed
+2474,40,2025-08-06,Store,Completed
+2475,642,2025-09-26,Store,Completed
+2476,767,2025-10-08,Store,Completed
+2477,10,2025-06-01,Online,Completed
+2478,302,2025-12-13,Store,Cancelled
+2479,331,2025-11-11,Store,Cancelled
+2480,666,2025-03-26,Online,Completed
+2481,536,2025-12-17,Online,Cancelled
+2482,975,2025-07-10,Mobile App,Cancelled
+2483,258,2025-08-30,Store,Completed
+2484,959,2025-06-19,Mobile App,Returned
+2485,873,2025-03-11,Online,Cancelled
+2486,733,2025-08-31,Online,Completed
+2487,427,2025-04-02,Online,Completed
+2488,69,2025-01-03,Store,Returned
+2489,193,2025-04-13,Mobile App,Completed
+2490,551,2025-08-23,Store,Completed
+2491,63,2025-11-16,Store,Cancelled
+2492,161,2025-02-04,Store,Returned
+2493,573,2025-04-26,Store,Returned
+2494,15,2025-04-09,Store,Completed
+2495,841,2025-08-07,Mobile App,Returned
+2496,314,2025-07-08,Mobile App,Completed
+2497,957,2025-05-11,Mobile App,Cancelled
+2498,657,2025-12-04,Online,Completed
+2499,607,2025-03-20,Online,Returned
+2500,222,2025-05-24,Online,Completed
+2501,578,2025-02-22,Online,Cancelled
+2502,602,2025-11-27,Store,Completed
+2503,590,2025-10-31,Mobile App,Completed
+2504,990,2025-11-12,Mobile App,Completed
+2505,215,2025-03-28,Online,Completed
+2506,222,2025-02-16,Mobile App,Completed
+2507,147,2025-03-26,Store,Completed
+2508,332,2025-02-09,Online,Completed
+2509,524,2025-08-14,Store,Returned
+2510,484,2025-06-17,Store,Cancelled
+2511,779,2025-03-02,Online,Cancelled
+2512,403,2025-07-13,Store,Returned
+2513,486,2025-07-01,Store,Cancelled
+2514,325,2025-09-29,Online,Cancelled
+2515,863,2025-04-20,Online,Returned
+2516,854,2025-05-23,Mobile App,Completed
+2517,861,2025-08-12,Mobile App,Completed
+2518,502,2025-12-22,Store,Returned
+2519,124,2025-10-13,Store,Returned
+2520,357,2025-04-02,Online,Completed
+2521,876,2025-08-27,Mobile App,Completed
+2522,746,2025-08-06,Online,Cancelled
+2523,574,2025-04-08,Store,Completed
+2524,184,2025-01-06,Online,Completed
+2525,370,2025-09-27,Online,Completed
+2526,601,2025-06-08,Store,Completed
+2527,933,2025-07-08,Store,Cancelled
+2528,944,2025-01-07,Mobile App,Completed
+2529,35,2025-11-28,Store,Returned
+2530,491,2025-07-23,Online,Returned
+2531,722,2025-05-10,Store,Returned
+2532,59,2025-10-20,Online,Returned
+2533,950,2025-08-30,Mobile App,Returned
+2534,466,2025-09-09,Online,Completed
+2535,768,2025-11-28,Mobile App,Completed
+2536,40,2025-07-09,Online,Cancelled
+2537,916,2025-03-20,Mobile App,Returned
+2538,182,2025-03-09,Online,Completed
+2539,855,2025-03-03,Online,Completed
+2540,653,2025-12-30,Online,Completed
+2541,100,2025-10-06,Store,Completed
+2542,671,2025-11-11,Mobile App,Completed
+2543,341,2025-12-11,Store,Returned
+2544,174,2025-10-28,Mobile App,Completed
+2545,529,2025-01-08,Mobile App,Completed
+2546,427,2025-12-08,Mobile App,Completed
+2547,67,2025-04-09,Mobile App,Completed
+2548,747,2025-05-17,Online,Completed
+2549,455,2025-01-23,Store,Cancelled
+2550,204,2025-12-19,Mobile App,Completed
+2551,178,2025-11-22,Mobile App,Completed
+2552,319,2025-05-21,Mobile App,Completed
+2553,121,2025-06-24,Store,Cancelled
+2554,857,2025-12-23,Online,Cancelled
+2555,953,2025-08-26,Online,Completed
+2556,941,2025-02-16,Online,Returned
+2557,89,2025-04-06,Store,Cancelled
+2558,642,2025-01-11,Online,Completed
+2559,223,2025-11-23,Store,Completed
+2560,84,2025-05-07,Store,Returned
+2561,658,2025-04-08,Mobile App,Returned
+2562,136,2025-06-08,Online,Completed
+2563,723,2025-05-27,Online,Completed
+2564,144,2025-10-17,Store,Completed
+2565,232,2025-04-07,Store,Completed
+2566,182,2025-06-01,Store,Returned
+2567,451,2025-05-16,Online,Completed
+2568,364,2025-10-24,Store,Completed
+2569,791,2025-11-25,Mobile App,Completed
+2570,850,2025-11-20,Mobile App,Completed
+2571,38,2025-10-27,Store,Completed
+2572,551,2025-10-19,Online,Returned
+2573,445,2025-06-27,Mobile App,Returned
+2574,816,2025-05-28,Online,Completed
+2575,717,2025-09-15,Mobile App,Returned
+2576,814,2025-05-18,Online,Cancelled
+2577,792,2025-04-18,Store,Completed
+2578,479,2025-05-14,Online,Completed
+2579,530,2025-12-04,Mobile App,Completed
+2580,487,2025-03-13,Store,Cancelled
+2581,331,2025-07-10,Mobile App,Completed
+2582,675,2025-10-29,Online,Completed
+2583,719,2025-02-23,Mobile App,Completed
+2584,891,2025-01-05,Online,Completed
+2585,487,2025-06-21,Store,Returned
+2586,925,2025-02-21,Online,Completed
+2587,314,2025-03-25,Store,Cancelled
+2588,191,2025-01-12,Store,Cancelled
+2589,468,2025-10-31,Mobile App,Returned
+2590,446,2025-07-24,Store,Completed
+2591,259,2025-07-11,Mobile App,Completed
+2592,495,2025-12-14,Store,Completed
+2593,42,2025-04-30,Mobile App,Completed
+2594,432,2025-08-07,Store,Cancelled
+2595,411,2025-10-31,Online,Completed
+2596,525,2025-03-27,Store,Cancelled
+2597,989,2025-12-24,Mobile App,Completed
+2598,975,2025-10-18,Online,Completed
+2599,680,2025-06-20,Online,Completed
+2600,317,2025-03-14,Store,Completed
+2601,406,2025-03-26,Store,Completed
+2602,675,2025-03-17,Online,Completed
+2603,309,2025-06-07,Online,Completed
+2604,242,2025-04-15,Store,Completed
+2605,742,2025-05-06,Online,Returned
+2606,569,2025-07-11,Online,Completed
+2607,164,2025-06-26,Online,Completed
+2608,564,2025-12-18,Store,Returned
+2609,218,2025-08-30,Mobile App,Completed
+2610,852,2025-08-26,Mobile App,Completed
+2611,782,2025-02-19,Store,Completed
+2612,326,2025-03-10,Store,Completed
+2613,920,2025-05-25,Mobile App,Returned
+2614,894,2025-08-06,Mobile App,Completed
+2615,547,2025-02-06,Store,Completed
+2616,686,2025-10-28,Online,Completed
+2617,907,2025-11-08,Online,Completed
+2618,378,2025-07-05,Store,Cancelled
+2619,843,2025-01-01,Mobile App,Cancelled
+2620,770,2025-07-23,Online,Returned
+2621,236,2025-03-12,Store,Completed
+2622,46,2025-04-19,Store,Completed
+2623,96,2025-06-23,Store,Returned
+2624,185,2025-08-06,Online,Completed
+2625,319,2025-07-18,Mobile App,Completed
+2626,36,2025-05-14,Store,Completed
+2627,168,2025-07-23,Mobile App,Cancelled
+2628,855,2025-02-24,Store,Completed
+2629,355,2025-12-18,Mobile App,Completed
+2630,672,2025-07-27,Online,Completed
+2631,327,2025-03-07,Mobile App,Cancelled
+2632,394,2025-12-18,Store,Completed
+2633,498,2025-12-01,Mobile App,Completed
+2634,433,2025-01-28,Store,Completed
+2635,265,2025-11-21,Online,Cancelled
+2636,827,2025-08-19,Mobile App,Completed
+2637,800,2025-08-31,Mobile App,Completed
+2638,865,2025-10-01,Store,Completed
+2639,805,2025-04-02,Store,Cancelled
+2640,778,2025-07-16,Mobile App,Completed
+2641,154,2025-01-04,Store,Returned
+2642,605,2025-05-13,Online,Cancelled
+2643,833,2025-11-11,Mobile App,Completed
+2644,446,2025-01-25,Store,Completed
+2645,41,2025-03-04,Store,Completed
+2646,376,2025-01-26,Mobile App,Returned
+2647,379,2025-05-10,Store,Completed
+2648,692,2025-06-01,Online,Cancelled
+2649,274,2025-04-02,Store,Completed
+2650,428,2025-01-09,Store,Completed
+2651,305,2025-11-22,Online,Cancelled
+2652,115,2025-07-02,Mobile App,Completed
+2653,545,2025-07-22,Online,Completed
+2654,87,2025-10-01,Online,Completed
+2655,745,2025-03-16,Mobile App,Completed
+2656,442,2025-05-21,Store,Completed
+2657,706,2025-11-13,Online,Returned
+2658,841,2025-09-26,Mobile App,Completed
+2659,42,2025-02-09,Store,Completed
+2660,40,2025-03-17,Mobile App,Returned
+2661,654,2025-02-21,Store,Cancelled
+2662,743,2025-02-10,Store,Returned
+2663,768,2025-06-04,Store,Completed
+2664,23,2025-04-05,Mobile App,Completed
+2665,739,2025-12-01,Mobile App,Completed
+2666,857,2025-08-10,Online,Completed
+2667,585,2025-05-14,Store,Cancelled
+2668,527,2025-10-04,Online,Returned
+2669,819,2025-01-26,Store,Cancelled
+2670,485,2025-04-21,Store,Completed
+2671,765,2025-12-19,Online,Completed
+2672,514,2025-12-10,Online,Cancelled
+2673,409,2025-04-03,Mobile App,Completed
+2674,280,2025-01-03,Store,Completed
+2675,20,2025-08-01,Mobile App,Completed
+2676,282,2025-05-17,Store,Cancelled
+2677,810,2025-11-22,Store,Completed
+2678,227,2025-04-26,Online,Returned
+2679,333,2025-04-24,Online,Cancelled
+2680,295,2025-12-31,Mobile App,Completed
+2681,603,2025-08-04,Mobile App,Cancelled
+2682,337,2025-10-05,Store,Completed
+2683,953,2025-10-13,Online,Completed
+2684,349,2025-06-13,Store,Completed
+2685,156,2025-08-25,Mobile App,Completed
+2686,216,2025-09-30,Mobile App,Completed
+2687,690,2025-07-19,Store,Completed
+2688,34,2025-12-05,Mobile App,Completed
+2689,647,2025-09-07,Mobile App,Completed
+2690,86,2025-04-17,Mobile App,Cancelled
+2691,379,2025-06-05,Store,Completed
+2692,463,2025-12-12,Store,Completed
+2693,160,2025-11-16,Mobile App,Completed
+2694,640,2025-06-30,Mobile App,Completed
+2695,426,2025-01-12,Store,Cancelled
+2696,762,2025-09-09,Online,Completed
+2697,944,2025-10-03,Online,Completed
+2698,622,2025-03-05,Online,Completed
+2699,224,2025-04-19,Online,Cancelled
+2700,297,2025-04-02,Online,Returned
+2701,411,2025-10-09,Store,Completed
+2702,770,2025-04-22,Store,Cancelled
+2703,286,2025-06-13,Store,Returned
+2704,109,2025-12-07,Mobile App,Returned
+2705,781,2025-11-22,Store,Cancelled
+2706,549,2025-09-30,Store,Completed
+2707,880,2025-07-26,Store,Completed
+2708,294,2025-08-19,Online,Completed
+2709,410,2025-05-28,Online,Cancelled
+2710,850,2025-06-21,Store,Returned
+2711,177,2025-12-16,Online,Completed
+2712,595,2025-12-01,Store,Completed
+2713,421,2025-04-07,Mobile App,Completed
+2714,634,2025-04-25,Online,Cancelled
+2715,635,2025-09-15,Online,Cancelled
+2716,585,2025-07-29,Online,Completed
+2717,625,2025-05-08,Online,Cancelled
+2718,641,2025-08-30,Mobile App,Completed
+2719,975,2025-07-09,Online,Returned
+2720,616,2025-12-01,Store,Cancelled
+2721,524,2025-04-09,Online,Completed
+2722,378,2025-05-03,Online,Completed
+2723,960,2025-12-31,Online,Completed
+2724,136,2025-05-31,Online,Completed
+2725,212,2025-10-23,Store,Completed
+2726,251,2025-12-17,Mobile App,Completed
+2727,248,2025-04-01,Store,Cancelled
+2728,657,2025-02-26,Mobile App,Completed
+2729,894,2025-03-23,Online,Completed
+2730,740,2025-02-05,Online,Returned
+2731,34,2025-12-16,Mobile App,Completed
+2732,888,2025-09-24,Store,Completed
+2733,73,2025-08-02,Store,Returned
+2734,551,2025-03-03,Mobile App,Cancelled
+2735,663,2025-10-01,Mobile App,Completed
+2736,450,2025-09-04,Mobile App,Completed
+2737,300,2025-07-23,Mobile App,Completed
+2738,373,2025-07-24,Mobile App,Cancelled
+2739,645,2025-11-29,Store,Completed
+2740,807,2025-03-05,Online,Completed
+2741,868,2025-05-15,Mobile App,Completed
+2742,740,2025-03-28,Store,Completed
+2743,673,2025-06-23,Online,Completed
+2744,815,2025-09-05,Online,Completed
+2745,100,2025-06-18,Mobile App,Returned
+2746,76,2025-08-23,Mobile App,Completed
+2747,771,2025-05-06,Store,Completed
+2748,303,2025-12-19,Store,Completed
+2749,807,2025-08-19,Mobile App,Completed
+2750,582,2025-05-21,Mobile App,Completed
+2751,780,2025-03-13,Online,Cancelled
+2752,296,2025-01-14,Online,Completed
+2753,578,2025-07-05,Mobile App,Completed
+2754,315,2025-03-23,Mobile App,Returned
+2755,313,2025-09-01,Mobile App,Completed
+2756,690,2025-05-31,Online,Returned
+2757,825,2025-12-22,Online,Completed
+2758,623,2025-05-30,Store,Completed
+2759,653,2025-04-27,Online,Completed
+2760,598,2025-06-05,Online,Cancelled
+2761,13,2025-05-13,Store,Returned
+2762,521,2025-09-22,Store,Completed
+2763,634,2025-03-29,Store,Returned
+2764,160,2025-10-28,Mobile App,Completed
+2765,536,2025-07-11,Store,Completed
+2766,664,2025-03-28,Mobile App,Completed
+2767,180,2025-09-05,Store,Completed
+2768,685,2025-02-03,Store,Completed
+2769,317,2025-04-16,Online,Completed
+2770,285,2025-11-08,Mobile App,Completed
+2771,666,2025-04-11,Store,Completed
+2772,471,2025-10-19,Mobile App,Completed
+2773,861,2025-09-26,Online,Returned
+2774,208,2025-07-06,Mobile App,Completed
+2775,409,2025-11-17,Online,Completed
+2776,520,2025-02-04,Store,Cancelled
+2777,985,2025-10-01,Mobile App,Cancelled
+2778,894,2025-02-10,Online,Completed
+2779,581,2025-09-25,Online,Completed
+2780,263,2025-04-04,Mobile App,Returned
+2781,879,2025-05-06,Online,Returned
+2782,735,2025-08-22,Online,Completed
+2783,624,2025-05-17,Mobile App,Completed
+2784,94,2025-04-08,Mobile App,Completed
+2785,928,2025-03-09,Mobile App,Completed
+2786,63,2025-04-17,Online,Completed
+2787,600,2025-10-25,Store,Completed
+2788,101,2025-10-02,Online,Completed
+2789,809,2025-11-21,Online,Completed
+2790,490,2025-03-01,Store,Completed
+2791,488,2025-04-12,Online,Cancelled
+2792,604,2025-04-21,Mobile App,Completed
+2793,308,2025-10-19,Online,Cancelled
+2794,441,2025-02-27,Mobile App,Completed
+2795,797,2025-11-26,Online,Cancelled
+2796,826,2025-11-22,Mobile App,Completed
+2797,1,2025-05-09,Store,Cancelled
+2798,278,2025-09-10,Mobile App,Completed
+2799,337,2025-09-17,Store,Cancelled
+2800,291,2025-11-27,Store,Completed
+2801,889,2025-09-30,Online,Completed
+2802,282,2025-12-14,Mobile App,Cancelled
+2803,317,2025-11-17,Store,Completed
+2804,775,2025-04-04,Store,Completed
+2805,327,2025-09-18,Store,Completed
+2806,168,2025-04-02,Online,Completed
+2807,690,2025-06-05,Online,Completed
+2808,351,2025-11-23,Mobile App,Cancelled
+2809,843,2025-04-04,Online,Completed
+2810,782,2025-04-29,Online,Completed
+2811,514,2025-06-06,Store,Cancelled
+2812,484,2025-02-22,Mobile App,Completed
+2813,950,2025-11-09,Online,Cancelled
+2814,689,2025-03-21,Store,Completed
+2815,197,2025-07-22,Online,Completed
+2816,625,2025-12-06,Online,Completed
+2817,980,2025-09-22,Store,Returned
+2818,610,2025-08-02,Mobile App,Completed
+2819,235,2025-05-15,Store,Completed
+2820,380,2025-03-16,Store,Completed
+2821,745,2025-07-01,Mobile App,Completed
+2822,461,2025-06-07,Store,Cancelled
+2823,403,2025-08-02,Online,Completed
+2824,57,2025-07-29,Store,Returned
+2825,825,2025-03-13,Store,Completed
+2826,20,2025-12-27,Online,Completed
+2827,678,2025-05-12,Store,Completed
+2828,25,2025-06-14,Store,Completed
+2829,334,2025-10-13,Mobile App,Returned
+2830,205,2025-04-21,Mobile App,Cancelled
+2831,451,2025-05-21,Online,Completed
+2832,249,2025-03-24,Store,Returned
+2833,492,2025-10-31,Store,Completed
+2834,800,2025-12-04,Store,Returned
+2835,983,2025-12-28,Store,Completed
+2836,287,2025-11-07,Mobile App,Completed
+2837,61,2025-02-21,Online,Returned
+2838,351,2025-05-22,Mobile App,Completed
+2839,449,2025-05-26,Online,Completed
+2840,138,2025-02-07,Store,Returned
+2841,424,2025-03-19,Online,Cancelled
+2842,307,2025-10-21,Online,Cancelled
+2843,91,2025-08-13,Online,Completed
+2844,587,2025-10-07,Mobile App,Completed
+2845,571,2025-09-29,Store,Returned
+2846,23,2025-03-13,Online,Returned
+2847,729,2025-06-10,Store,Completed
+2848,766,2025-04-20,Online,Completed
+2849,480,2025-04-27,Store,Completed
+2850,342,2025-04-12,Mobile App,Returned
+2851,266,2025-05-11,Mobile App,Returned
+2852,956,2025-01-12,Online,Completed
+2853,658,2025-07-30,Store,Completed
+2854,826,2025-09-07,Online,Cancelled
+2855,62,2025-09-20,Store,Completed
+2856,580,2025-08-12,Online,Cancelled
+2857,895,2025-06-17,Mobile App,Completed
+2858,290,2025-10-22,Store,Returned
+2859,69,2025-02-08,Mobile App,Completed
+2860,998,2025-10-13,Online,Cancelled
+2861,163,2025-09-20,Online,Cancelled
+2862,945,2025-08-28,Mobile App,Returned
+2863,196,2025-02-07,Mobile App,Completed
+2864,838,2025-05-22,Store,Completed
+2865,911,2025-03-19,Mobile App,Completed
+2866,75,2025-04-04,Mobile App,Cancelled
+2867,348,2025-08-21,Mobile App,Returned
+2868,758,2025-08-10,Online,Completed
+2869,589,2025-05-31,Online,Cancelled
+2870,849,2025-07-19,Online,Completed
+2871,231,2025-06-15,Store,Completed
+2872,266,2025-04-25,Mobile App,Returned
+2873,787,2025-06-17,Mobile App,Completed
+2874,670,2025-12-07,Online,Cancelled
+2875,948,2025-07-01,Mobile App,Cancelled
+2876,157,2025-04-07,Online,Completed
+2877,316,2025-04-03,Online,Completed
+2878,547,2025-11-05,Online,Completed
+2879,554,2025-06-28,Online,Completed
+2880,892,2025-06-11,Online,Returned
+2881,214,2025-04-14,Store,Completed
+2882,435,2025-05-19,Online,Completed
+2883,791,2025-07-01,Online,Completed
+2884,899,2025-08-14,Online,Completed
+2885,27,2025-08-16,Mobile App,Returned
+2886,214,2025-07-14,Online,Completed
+2887,450,2025-07-24,Online,Completed
+2888,790,2025-07-14,Mobile App,Completed
+2889,96,2025-03-31,Mobile App,Cancelled
+2890,742,2025-09-22,Online,Completed
+2891,775,2025-04-18,Online,Completed
+2892,759,2025-11-06,Store,Returned
+2893,325,2025-08-01,Online,Completed
+2894,93,2025-09-17,Store,Completed
+2895,262,2025-09-18,Online,Completed
+2896,17,2025-01-04,Store,Completed
+2897,410,2025-02-21,Store,Completed
+2898,969,2025-06-08,Online,Completed
+2899,969,2025-11-30,Store,Completed
+2900,719,2025-02-13,Mobile App,Returned
+2901,830,2025-07-19,Store,Completed
+2902,975,2025-05-21,Mobile App,Returned
+2903,919,2025-06-15,Online,Completed
+2904,868,2025-05-08,Online,Cancelled
+2905,10,2025-03-07,Mobile App,Completed
+2906,144,2025-12-22,Store,Completed
+2907,63,2025-11-02,Online,Returned
+2908,677,2025-05-31,Store,Cancelled
+2909,425,2025-03-22,Store,Completed
+2910,179,2025-09-23,Online,Returned
+2911,829,2025-12-09,Online,Completed
+2912,901,2025-02-26,Online,Completed
+2913,510,2025-04-15,Store,Completed
+2914,641,2025-07-11,Store,Cancelled
+2915,329,2025-01-15,Online,Completed
+2916,30,2025-08-29,Online,Returned
+2917,893,2025-03-15,Store,Completed
+2918,553,2025-07-13,Mobile App,Returned
+2919,538,2025-03-28,Online,Completed
+2920,16,2025-06-28,Online,Completed
+2921,430,2025-02-03,Online,Completed
+2922,476,2025-08-01,Mobile App,Completed
+2923,138,2025-11-05,Mobile App,Completed
+2924,319,2025-09-01,Store,Completed
+2925,132,2025-06-15,Mobile App,Cancelled
+2926,375,2025-11-11,Mobile App,Returned
+2927,99,2025-09-02,Store,Returned
+2928,852,2025-10-20,Online,Completed
+2929,225,2025-09-21,Online,Completed
+2930,231,2025-12-04,Online,Returned
+2931,98,2025-07-26,Store,Cancelled
+2932,108,2025-05-08,Online,Completed
+2933,190,2025-12-04,Store,Completed
+2934,728,2025-08-25,Mobile App,Cancelled
+2935,533,2025-09-22,Mobile App,Completed
+2936,779,2025-03-09,Store,Completed
+2937,384,2025-12-05,Online,Cancelled
+2938,755,2025-01-18,Mobile App,Completed
+2939,648,2025-01-25,Online,Completed
+2940,15,2025-03-15,Mobile App,Completed
+2941,856,2025-05-02,Online,Completed
+2942,331,2025-01-06,Mobile App,Completed
+2943,496,2025-06-26,Online,Returned
+2944,891,2025-10-23,Store,Completed
+2945,220,2025-08-21,Mobile App,Completed
+2946,559,2025-08-14,Online,Returned
+2947,287,2025-12-02,Mobile App,Completed
+2948,346,2025-04-06,Store,Completed
+2949,827,2025-09-07,Mobile App,Completed
+2950,680,2025-02-19,Mobile App,Completed
+2951,782,2025-09-23,Store,Completed
+2952,801,2025-07-07,Store,Returned
+2953,27,2025-10-06,Online,Completed
+2954,233,2025-08-23,Online,Completed
+2955,564,2025-12-31,Store,Completed
+2956,895,2025-06-27,Store,Completed
+2957,447,2025-10-11,Online,Cancelled
+2958,187,2025-07-23,Mobile App,Completed
+2959,146,2025-12-15,Online,Completed
+2960,204,2025-07-01,Mobile App,Cancelled
+2961,799,2025-03-19,Mobile App,Cancelled
+2962,538,2025-01-25,Mobile App,Completed
+2963,553,2025-04-28,Mobile App,Cancelled
+2964,171,2025-07-11,Online,Completed
+2965,697,2025-03-26,Mobile App,Returned
+2966,880,2025-11-13,Online,Returned
+2967,156,2025-10-04,Mobile App,Completed
+2968,879,2025-04-14,Store,Completed
+2969,983,2025-07-25,Store,Completed
+2970,923,2025-09-25,Store,Completed
+2971,480,2025-06-14,Online,Returned
+2972,961,2025-06-03,Online,Completed
+2973,258,2025-12-29,Mobile App,Returned
+2974,320,2025-04-17,Mobile App,Cancelled
+2975,609,2025-02-04,Online,Completed
+2976,144,2025-03-15,Store,Completed
+2977,783,2025-05-05,Store,Completed
+2978,662,2025-08-03,Store,Cancelled
+2979,199,2025-05-08,Store,Completed
+2980,232,2025-05-22,Online,Completed
+2981,127,2025-10-27,Mobile App,Completed
+2982,211,2025-08-16,Online,Returned
+2983,283,2025-06-17,Online,Returned
+2984,121,2025-09-24,Store,Cancelled
+2985,106,2025-11-18,Mobile App,Completed
+2986,238,2025-12-05,Store,Completed
+2987,842,2025-03-05,Mobile App,Returned
+2988,625,2025-08-21,Online,Completed
+2989,902,2025-06-24,Store,Completed
+2990,391,2025-05-11,Online,Returned
+2991,478,2025-08-07,Mobile App,Completed
+2992,898,2025-12-30,Mobile App,Completed
+2993,777,2025-05-30,Online,Cancelled
+2994,106,2025-02-15,Mobile App,Cancelled
+2995,983,2025-11-03,Store,Completed
+2996,891,2025-12-07,Store,Returned
+2997,987,2025-08-10,Store,Completed
+2998,654,2025-02-23,Store,Returned
+2999,751,2025-05-22,Store,Returned
+3000,521,2025-06-18,Store,Returned
+3001,857,2025-05-09,Store,Completed
+3002,14,2025-02-21,Mobile App,Completed
+3003,249,2025-10-27,Store,Completed
+3004,606,2025-08-11,Mobile App,Completed
+3005,107,2025-12-29,Store,Cancelled
+3006,622,2025-10-17,Store,Cancelled
+3007,532,2025-12-08,Store,Completed
+3008,617,2025-02-25,Mobile App,Returned
+3009,977,2025-02-20,Mobile App,Completed
+3010,121,2025-05-03,Store,Cancelled
+3011,689,2025-12-30,Mobile App,Completed
+3012,835,2025-07-21,Mobile App,Returned
+3013,41,2025-06-27,Mobile App,Completed
+3014,873,2025-08-24,Mobile App,Cancelled
+3015,39,2025-07-24,Mobile App,Returned
+3016,797,2025-08-10,Mobile App,Completed
+3017,222,2025-10-18,Online,Completed
+3018,646,2025-06-18,Online,Completed
+3019,943,2025-07-31,Online,Returned
+3020,468,2025-05-10,Store,Returned
+3021,353,2025-06-30,Online,Completed
+3022,457,2025-01-25,Store,Completed
+3023,716,2025-11-22,Store,Completed
+3024,215,2025-10-13,Mobile App,Returned
+3025,330,2025-07-25,Store,Completed
+3026,865,2025-09-13,Online,Completed
+3027,361,2025-11-12,Mobile App,Returned
+3028,825,2025-04-27,Store,Completed
+3029,104,2025-02-16,Mobile App,Completed
+3030,321,2025-11-15,Store,Returned
+3031,191,2025-07-15,Online,Completed
+3032,877,2025-12-29,Store,Completed
+3033,346,2025-08-13,Store,Completed
+3034,983,2025-03-28,Store,Completed
+3035,115,2025-04-08,Mobile App,Completed
+3036,931,2025-09-17,Mobile App,Returned
+3037,574,2025-06-01,Mobile App,Cancelled
+3038,183,2025-07-23,Mobile App,Returned
+3039,78,2025-04-12,Online,Completed
+3040,729,2025-11-03,Mobile App,Completed
+3041,873,2025-05-15,Online,Returned
+3042,349,2025-09-30,Store,Completed
+3043,137,2025-07-17,Online,Returned
+3044,835,2025-05-31,Mobile App,Cancelled
+3045,995,2025-02-12,Store,Completed
+3046,454,2025-01-21,Online,Cancelled
+3047,159,2025-12-08,Store,Completed
+3048,507,2025-04-25,Mobile App,Completed
+3049,252,2025-04-26,Store,Returned
+3050,832,2025-04-21,Online,Completed
+3051,304,2025-05-05,Online,Cancelled
+3052,495,2025-08-13,Store,Cancelled
+3053,565,2025-10-18,Online,Completed
+3054,191,2025-09-23,Mobile App,Completed
+3055,643,2025-10-22,Store,Returned
+3056,268,2025-12-28,Store,Completed
+3057,442,2025-07-09,Store,Completed
+3058,328,2025-10-04,Store,Completed
+3059,982,2025-12-21,Online,Completed
+3060,881,2025-12-26,Online,Cancelled
+3061,593,2025-03-07,Online,Cancelled
+3062,726,2025-09-01,Mobile App,Completed
+3063,108,2025-11-06,Online,Returned
+3064,357,2025-12-26,Mobile App,Cancelled
+3065,841,2025-04-25,Store,Completed
+3066,589,2025-01-28,Store,Cancelled
+3067,449,2025-09-12,Mobile App,Completed
+3068,67,2025-03-29,Online,Cancelled
+3069,460,2025-10-14,Mobile App,Completed
+3070,918,2025-06-27,Store,Returned
+3071,152,2025-02-02,Mobile App,Completed
+3072,67,2025-05-22,Mobile App,Completed
+3073,971,2025-01-15,Mobile App,Cancelled
+3074,503,2025-08-09,Mobile App,Completed
+3075,406,2025-04-21,Mobile App,Completed
+3076,318,2025-10-03,Mobile App,Returned
+3077,312,2025-06-19,Online,Cancelled
+3078,818,2025-09-18,Store,Completed
+3079,785,2025-10-04,Mobile App,Cancelled
+3080,323,2025-01-04,Mobile App,Completed
+3081,730,2025-07-03,Mobile App,Completed
+3082,794,2025-02-06,Mobile App,Completed
+3083,543,2025-07-31,Mobile App,Completed
+3084,751,2025-04-10,Online,Cancelled
+3085,793,2025-04-02,Online,Completed
+3086,665,2025-09-11,Mobile App,Completed
+3087,340,2025-02-15,Online,Completed
+3088,588,2025-12-25,Mobile App,Completed
+3089,825,2025-07-28,Store,Returned
+3090,486,2025-03-12,Store,Completed
+3091,99,2025-06-09,Store,Completed
+3092,725,2025-08-09,Store,Completed
+3093,93,2025-04-05,Store,Completed
+3094,206,2025-04-27,Store,Returned
+3095,649,2025-02-11,Store,Completed
+3096,770,2025-02-18,Mobile App,Completed
+3097,21,2025-11-07,Online,Cancelled
+3098,61,2025-12-16,Store,Completed
+3099,173,2025-01-01,Mobile App,Completed
+3100,5,2025-06-17,Store,Completed
+3101,29,2025-10-18,Mobile App,Completed
+3102,880,2025-02-05,Online,Completed
+3103,652,2025-11-14,Store,Completed
+3104,549,2025-04-22,Store,Completed
+3105,894,2025-12-16,Online,Cancelled
+3106,384,2025-10-21,Online,Completed
+3107,724,2025-04-01,Mobile App,Completed
+3108,834,2025-08-16,Online,Cancelled
+3109,40,2025-10-03,Online,Completed
+3110,958,2025-05-30,Online,Completed
+3111,700,2025-04-03,Mobile App,Cancelled
+3112,172,2025-02-21,Store,Completed
+3113,618,2025-03-21,Mobile App,Completed
+3114,961,2025-08-21,Mobile App,Cancelled
+3115,852,2025-07-19,Store,Completed
+3116,685,2025-10-11,Online,Completed
+3117,253,2025-07-07,Online,Completed
+3118,984,2025-09-09,Online,Completed
+3119,43,2025-07-03,Online,Completed
+3120,831,2025-12-04,Mobile App,Cancelled
+3121,102,2025-09-24,Online,Returned
+3122,671,2025-06-14,Mobile App,Cancelled
+3123,589,2025-12-26,Mobile App,Cancelled
+3124,404,2025-10-07,Mobile App,Completed
+3125,290,2025-06-14,Online,Completed
+3126,782,2025-04-12,Store,Returned
+3127,437,2025-07-26,Store,Completed
+3128,85,2025-09-09,Online,Completed
+3129,107,2025-06-14,Mobile App,Completed
+3130,625,2025-07-19,Store,Completed
+3131,806,2025-05-28,Mobile App,Returned
+3132,57,2025-09-28,Online,Completed
+3133,970,2025-02-15,Store,Cancelled
+3134,766,2025-10-20,Mobile App,Completed
+3135,657,2025-06-10,Mobile App,Completed
+3136,548,2025-01-15,Online,Completed
+3137,395,2025-04-07,Store,Cancelled
+3138,54,2025-12-17,Store,Returned
+3139,521,2025-09-26,Online,Cancelled
+3140,380,2025-12-15,Mobile App,Completed
+3141,933,2025-04-20,Online,Completed
+3142,973,2025-04-06,Online,Returned
+3143,328,2025-02-07,Mobile App,Completed
+3144,508,2025-04-16,Mobile App,Returned
+3145,628,2025-01-08,Online,Completed
+3146,211,2025-12-19,Online,Completed
+3147,5,2025-05-04,Mobile App,Completed
+3148,182,2025-07-19,Online,Completed
+3149,940,2025-07-25,Online,Completed
+3150,146,2025-11-03,Online,Cancelled
+3151,685,2025-05-13,Store,Returned
+3152,585,2025-12-30,Mobile App,Completed
+3153,210,2025-12-01,Mobile App,Completed
+3154,420,2025-12-20,Online,Completed
+3155,844,2025-07-31,Store,Completed
+3156,863,2025-04-08,Store,Completed
+3157,615,2025-01-06,Mobile App,Returned
+3158,405,2025-01-22,Mobile App,Completed
+3159,132,2025-12-06,Mobile App,Completed
+3160,73,2025-11-23,Online,Completed
+3161,163,2025-09-08,Online,Completed
+3162,550,2025-06-17,Online,Returned
+3163,263,2025-12-15,Mobile App,Returned
+3164,408,2025-05-26,Mobile App,Completed
+3165,292,2025-10-19,Store,Completed
+3166,780,2025-03-03,Store,Completed
+3167,974,2025-02-14,Mobile App,Completed
+3168,206,2025-03-07,Mobile App,Completed
+3169,481,2025-09-03,Online,Completed
+3170,235,2025-01-20,Store,Completed
+3171,86,2025-12-22,Online,Completed
+3172,447,2025-11-12,Store,Completed
+3173,757,2025-03-15,Store,Cancelled
+3174,788,2025-01-22,Mobile App,Cancelled
+3175,786,2025-04-07,Online,Returned
+3176,326,2025-01-23,Mobile App,Completed
+3177,972,2025-03-20,Store,Completed
+3178,944,2025-03-31,Store,Completed
+3179,206,2025-11-26,Online,Completed
+3180,390,2025-03-20,Store,Cancelled
+3181,66,2025-04-26,Online,Returned
+3182,200,2025-06-21,Mobile App,Returned
+3183,450,2025-01-13,Store,Completed
+3184,864,2025-05-06,Mobile App,Cancelled
+3185,295,2025-10-13,Online,Completed
+3186,561,2025-06-12,Online,Completed
+3187,702,2025-02-03,Store,Cancelled
+3188,548,2025-01-09,Mobile App,Returned
+3189,174,2025-06-14,Store,Completed
+3190,147,2025-02-23,Mobile App,Completed
+3191,7,2025-07-15,Online,Cancelled
+3192,60,2025-07-18,Mobile App,Completed
+3193,878,2025-04-25,Mobile App,Completed
+3194,578,2025-10-07,Online,Completed
+3195,665,2025-09-01,Mobile App,Returned
+3196,396,2025-05-25,Mobile App,Cancelled
+3197,397,2025-08-19,Mobile App,Completed
+3198,700,2025-09-09,Mobile App,Completed
+3199,354,2025-11-22,Store,Completed
+3200,942,2025-03-20,Store,Cancelled
+3201,901,2025-07-04,Online,Completed
+3202,294,2025-11-23,Mobile App,Completed
+3203,987,2025-07-18,Store,Completed
+3204,377,2025-01-11,Store,Completed
+3205,148,2025-01-22,Store,Completed
+3206,728,2025-10-05,Online,Completed
+3207,129,2025-11-17,Store,Completed
+3208,965,2025-07-27,Store,Completed
+3209,472,2025-08-20,Store,Completed
+3210,475,2025-07-06,Store,Completed
+3211,682,2025-07-24,Online,Returned
+3212,543,2025-04-16,Online,Completed
+3213,730,2025-04-08,Mobile App,Completed
+3214,971,2025-12-04,Mobile App,Completed
+3215,922,2025-08-26,Mobile App,Completed
+3216,384,2025-11-26,Store,Completed
+3217,403,2025-03-14,Store,Completed
+3218,556,2025-11-30,Store,Completed
+3219,927,2025-11-16,Store,Completed
+3220,205,2025-04-22,Store,Cancelled
+3221,912,2025-03-22,Mobile App,Completed
+3222,960,2025-09-22,Store,Completed
+3223,966,2025-08-15,Online,Returned
+3224,212,2025-07-17,Mobile App,Returned
+3225,177,2025-05-20,Mobile App,Returned
+3226,577,2025-03-21,Mobile App,Completed
+3227,589,2025-04-12,Online,Completed
+3228,325,2025-08-28,Online,Returned
+3229,134,2025-09-07,Store,Cancelled
+3230,956,2025-11-10,Mobile App,Returned
+3231,644,2025-01-19,Mobile App,Completed
+3232,806,2025-02-03,Online,Completed
+3233,9,2025-01-28,Store,Completed
+3234,321,2025-07-02,Online,Returned
+3235,155,2025-04-20,Store,Completed
+3236,372,2025-11-16,Store,Cancelled
+3237,927,2025-08-17,Store,Completed
+3238,721,2025-03-31,Store,Completed
+3239,104,2025-10-15,Online,Completed
+3240,168,2025-08-01,Online,Cancelled
+3241,933,2025-11-13,Store,Completed
+3242,576,2025-10-10,Mobile App,Completed
+3243,717,2025-05-24,Mobile App,Completed
+3244,1000,2025-02-28,Mobile App,Completed
+3245,932,2025-08-16,Online,Completed
+3246,139,2025-07-15,Store,Completed
+3247,489,2025-03-29,Online,Cancelled
+3248,705,2025-07-05,Store,Cancelled
+3249,586,2025-04-04,Store,Completed
+3250,994,2025-09-09,Mobile App,Cancelled
+3251,353,2025-06-23,Online,Completed
+3252,71,2025-04-01,Online,Cancelled
+3253,308,2025-12-13,Store,Completed
+3254,114,2025-12-09,Online,Returned
+3255,329,2025-05-30,Mobile App,Completed
+3256,364,2025-11-05,Store,Completed
+3257,637,2025-10-30,Store,Completed
+3258,374,2025-05-10,Online,Cancelled
+3259,287,2025-09-24,Online,Completed
+3260,327,2025-03-27,Online,Returned
+3261,245,2025-12-25,Store,Completed
+3262,460,2025-08-10,Store,Completed
+3263,280,2025-12-03,Store,Returned
+3264,83,2025-06-20,Mobile App,Completed
+3265,134,2025-11-16,Online,Returned
+3266,588,2025-01-10,Store,Completed
+3267,205,2025-08-29,Store,Completed
+3268,37,2025-12-22,Mobile App,Completed
+3269,714,2025-07-12,Store,Completed
+3270,823,2025-09-20,Store,Completed
+3271,725,2025-06-25,Online,Completed
+3272,737,2025-05-14,Mobile App,Completed
+3273,501,2025-05-25,Store,Completed
+3274,936,2025-08-19,Mobile App,Completed
+3275,825,2025-12-08,Store,Cancelled
+3276,918,2025-02-28,Online,Completed
+3277,826,2025-02-24,Online,Completed
+3278,182,2025-07-11,Online,Completed
+3279,586,2025-05-02,Online,Completed
+3280,10,2025-01-07,Mobile App,Completed
+3281,892,2025-11-13,Online,Completed
+3282,597,2025-11-17,Store,Returned
+3283,895,2025-06-19,Mobile App,Completed
+3284,628,2025-03-04,Online,Returned
+3285,143,2025-04-13,Mobile App,Completed
+3286,191,2025-02-16,Mobile App,Completed
+3287,4,2025-08-10,Mobile App,Completed
+3288,216,2025-01-26,Mobile App,Completed
+3289,397,2025-06-14,Mobile App,Cancelled
+3290,198,2025-09-01,Online,Returned
+3291,508,2025-11-06,Mobile App,Completed
+3292,481,2025-05-28,Mobile App,Returned
+3293,607,2025-02-01,Store,Completed
+3294,520,2025-01-04,Online,Completed
+3295,998,2025-04-12,Store,Completed
+3296,900,2025-10-05,Mobile App,Completed
+3297,717,2025-03-05,Mobile App,Completed
+3298,193,2025-04-06,Store,Completed
+3299,167,2025-07-22,Mobile App,Cancelled
+3300,304,2025-11-04,Store,Cancelled
+3301,656,2025-05-27,Online,Completed
+3302,257,2025-06-26,Mobile App,Completed
+3303,544,2025-01-04,Mobile App,Returned
+3304,258,2025-05-25,Online,Completed
+3305,64,2025-02-02,Store,Completed
+3306,925,2025-01-31,Mobile App,Completed
+3307,82,2025-12-12,Mobile App,Completed
+3308,13,2025-12-12,Online,Completed
+3309,603,2025-07-05,Mobile App,Returned
+3310,621,2025-12-14,Online,Cancelled
+3311,269,2025-06-13,Store,Completed
+3312,761,2025-09-03,Store,Completed
+3313,308,2025-09-08,Store,Cancelled
+3314,763,2025-04-08,Online,Cancelled
+3315,175,2025-01-22,Mobile App,Completed
+3316,420,2025-08-27,Store,Completed
+3317,946,2025-07-26,Store,Completed
+3318,464,2025-03-20,Online,Returned
+3319,769,2025-07-17,Store,Completed
+3320,895,2025-03-13,Store,Completed
+3321,892,2025-11-20,Online,Completed
+3322,375,2025-01-08,Store,Returned
+3323,928,2025-03-30,Online,Cancelled
+3324,969,2025-04-05,Online,Completed
+3325,17,2025-07-20,Store,Completed
+3326,278,2025-06-22,Online,Completed
+3327,510,2025-07-20,Online,Completed
+3328,850,2025-10-09,Store,Completed
+3329,195,2025-09-07,Mobile App,Returned
+3330,512,2025-08-10,Store,Completed
+3331,500,2025-12-07,Online,Completed
+3332,985,2025-02-24,Online,Completed
+3333,723,2025-09-02,Mobile App,Completed
+3334,145,2025-05-01,Mobile App,Completed
+3335,823,2025-04-21,Store,Completed
+3336,14,2025-06-07,Mobile App,Completed
+3337,347,2025-11-19,Store,Returned
+3338,634,2025-08-08,Mobile App,Completed
+3339,614,2025-03-08,Mobile App,Completed
+3340,350,2025-07-11,Mobile App,Completed
+3341,379,2025-10-17,Store,Completed
+3342,19,2025-08-17,Store,Completed
+3343,253,2025-04-18,Store,Returned
+3344,240,2025-06-10,Mobile App,Completed
+3345,806,2025-05-24,Mobile App,Completed
+3346,592,2025-06-19,Mobile App,Completed
+3347,924,2025-03-07,Store,Returned
+3348,587,2025-04-28,Mobile App,Cancelled
+3349,625,2025-05-02,Online,Completed
+3350,577,2025-08-29,Online,Completed
+3351,524,2025-02-18,Store,Completed
+3352,639,2025-06-14,Online,Cancelled
+3353,503,2025-08-25,Mobile App,Returned
+3354,273,2025-02-04,Store,Completed
+3355,797,2025-04-09,Store,Returned
+3356,147,2025-07-06,Online,Completed
+3357,253,2025-04-25,Mobile App,Completed
+3358,336,2025-07-02,Mobile App,Completed
+3359,576,2025-03-16,Store,Completed
+3360,497,2025-06-10,Mobile App,Cancelled
+3361,205,2025-11-27,Online,Cancelled
+3362,620,2025-03-03,Store,Returned
+3363,63,2025-04-10,Mobile App,Cancelled
+3364,290,2025-05-08,Store,Completed
+3365,718,2025-01-06,Store,Completed
+3366,210,2025-03-15,Store,Completed
+3367,30,2025-11-30,Mobile App,Completed
+3368,81,2025-07-08,Store,Completed
+3369,458,2025-11-17,Store,Cancelled
+3370,161,2025-11-01,Store,Completed
+3371,111,2025-05-21,Store,Completed
+3372,203,2025-12-28,Mobile App,Completed
+3373,292,2025-03-25,Mobile App,Completed
+3374,331,2025-01-09,Online,Completed
+3375,889,2025-06-17,Mobile App,Completed
+3376,378,2025-03-14,Store,Returned
+3377,385,2025-10-09,Online,Returned
+3378,445,2025-11-27,Store,Completed
+3379,183,2025-06-17,Mobile App,Completed
+3380,660,2025-05-25,Store,Cancelled
+3381,775,2025-10-19,Online,Cancelled
+3382,58,2025-03-09,Store,Completed
+3383,950,2025-02-04,Online,Completed
+3384,105,2025-09-25,Online,Returned
+3385,241,2025-02-17,Store,Completed
+3386,347,2025-02-11,Store,Completed
+3387,769,2025-02-05,Store,Completed
+3388,559,2025-02-01,Mobile App,Completed
+3389,658,2025-07-22,Mobile App,Completed
+3390,562,2025-02-15,Online,Completed
+3391,163,2025-03-01,Store,Completed
+3392,246,2025-01-29,Mobile App,Returned
+3393,572,2025-01-13,Online,Returned
+3394,864,2025-12-24,Online,Completed
+3395,44,2025-01-22,Online,Completed
+3396,973,2025-03-20,Online,Cancelled
+3397,328,2025-06-15,Store,Returned
+3398,687,2025-07-22,Online,Cancelled
+3399,784,2025-05-29,Store,Completed
+3400,686,2025-12-23,Store,Cancelled
+3401,70,2025-01-21,Online,Cancelled
+3402,37,2025-04-17,Online,Cancelled
+3403,504,2025-01-04,Store,Returned
+3404,83,2025-10-25,Store,Cancelled
+3405,921,2025-03-26,Store,Completed
+3406,156,2025-10-02,Online,Returned
+3407,763,2025-11-15,Store,Completed
+3408,570,2025-07-11,Mobile App,Completed
+3409,164,2025-04-14,Mobile App,Completed
+3410,343,2025-04-11,Store,Completed
+3411,403,2025-03-03,Mobile App,Completed
+3412,463,2025-01-15,Store,Cancelled
+3413,991,2025-11-30,Mobile App,Cancelled
+3414,789,2025-07-27,Online,Completed
+3415,116,2025-01-22,Store,Completed
+3416,761,2025-04-16,Online,Cancelled
+3417,754,2025-06-02,Mobile App,Returned
+3418,220,2025-10-31,Store,Completed
+3419,475,2025-01-28,Mobile App,Returned
+3420,236,2025-10-18,Store,Completed
+3421,524,2025-01-13,Store,Completed
+3422,222,2025-04-03,Store,Completed
+3423,512,2025-07-18,Mobile App,Completed
+3424,469,2025-07-20,Mobile App,Completed
+3425,943,2025-09-09,Store,Cancelled
+3426,612,2025-05-27,Mobile App,Completed
+3427,80,2025-11-12,Online,Completed
+3428,874,2025-01-16,Mobile App,Completed
+3429,878,2025-01-06,Store,Completed
+3430,311,2025-08-16,Store,Returned
+3431,582,2025-03-23,Online,Completed
+3432,377,2025-04-21,Mobile App,Completed
+3433,995,2025-08-05,Mobile App,Completed
+3434,78,2025-05-24,Store,Returned
+3435,23,2025-06-02,Online,Completed
+3436,310,2025-03-14,Store,Completed
+3437,953,2025-04-15,Online,Returned
+3438,763,2025-12-16,Online,Completed
+3439,179,2025-01-08,Online,Completed
+3440,743,2025-05-01,Store,Cancelled
+3441,712,2025-10-13,Store,Completed
+3442,24,2025-12-26,Mobile App,Completed
+3443,65,2025-12-21,Online,Completed
+3444,67,2025-07-23,Mobile App,Completed
+3445,31,2025-01-20,Store,Completed
+3446,851,2025-08-27,Store,Completed
+3447,997,2025-01-07,Mobile App,Completed
+3448,673,2025-02-02,Store,Returned
+3449,289,2025-09-03,Online,Completed
+3450,25,2025-12-10,Store,Completed
+3451,241,2025-12-20,Store,Completed
+3452,666,2025-01-23,Mobile App,Completed
+3453,573,2025-12-26,Store,Completed
+3454,733,2025-01-25,Store,Completed
+3455,91,2025-11-03,Store,Completed
+3456,841,2025-08-30,Mobile App,Completed
+3457,383,2025-12-04,Store,Returned
+3458,565,2025-10-04,Online,Completed
+3459,753,2025-11-24,Store,Completed
+3460,179,2025-10-25,Store,Completed
+3461,479,2025-06-27,Store,Completed
+3462,834,2025-12-11,Store,Returned
+3463,556,2025-07-28,Store,Completed
+3464,89,2025-11-05,Store,Completed
+3465,341,2025-07-03,Mobile App,Completed
+3466,462,2025-10-04,Mobile App,Completed
+3467,912,2025-01-22,Store,Cancelled
+3468,941,2025-11-17,Online,Cancelled
+3469,350,2025-10-04,Mobile App,Returned
+3470,164,2025-10-21,Online,Completed
+3471,845,2025-12-21,Store,Completed
+3472,844,2025-08-03,Online,Cancelled
+3473,558,2025-01-22,Mobile App,Completed
+3474,590,2025-01-03,Store,Cancelled
+3475,681,2025-03-26,Mobile App,Completed
+3476,701,2025-12-30,Store,Completed
+3477,120,2025-06-16,Mobile App,Completed
+3478,562,2025-07-22,Mobile App,Returned
+3479,840,2025-07-21,Online,Cancelled
+3480,360,2025-07-28,Mobile App,Completed
+3481,232,2025-11-24,Mobile App,Completed
+3482,160,2025-12-22,Online,Returned
+3483,1,2025-09-16,Online,Completed
+3484,148,2025-02-06,Mobile App,Completed
+3485,248,2025-07-27,Store,Completed
+3486,555,2025-11-23,Online,Completed
+3487,25,2025-01-09,Online,Completed
+3488,124,2025-04-17,Online,Returned
+3489,74,2025-02-04,Store,Completed
+3490,974,2025-03-02,Store,Completed
+3491,678,2025-07-26,Online,Returned
+3492,612,2025-06-03,Store,Completed
+3493,384,2025-04-17,Store,Completed
+3494,635,2025-10-29,Store,Returned
+3495,630,2025-10-31,Online,Returned
+3496,504,2025-01-17,Store,Completed
+3497,360,2025-01-16,Store,Returned
+3498,485,2025-07-16,Mobile App,Completed
+3499,433,2025-12-19,Mobile App,Cancelled
+3500,902,2025-06-29,Mobile App,Completed
+3501,28,2025-07-14,Online,Completed
+3502,778,2025-02-14,Store,Completed
+3503,557,2025-02-17,Online,Completed
+3504,742,2025-11-20,Online,Completed
+3505,389,2025-06-22,Online,Cancelled
+3506,481,2025-01-18,Store,Completed
+3507,566,2025-12-27,Store,Completed
+3508,629,2025-07-30,Online,Completed
+3509,701,2025-03-07,Mobile App,Returned
+3510,800,2025-01-15,Mobile App,Completed
+3511,71,2025-09-15,Online,Completed
+3512,282,2025-12-23,Mobile App,Completed
+3513,821,2025-10-02,Mobile App,Returned
+3514,50,2025-05-10,Mobile App,Completed
+3515,715,2025-09-22,Store,Completed
+3516,924,2025-08-20,Store,Completed
+3517,41,2025-05-29,Mobile App,Completed
+3518,437,2025-02-26,Mobile App,Completed
+3519,992,2025-02-09,Online,Completed
+3520,498,2025-05-08,Online,Completed
+3521,795,2025-12-01,Online,Completed
+3522,45,2025-06-04,Online,Completed
+3523,349,2025-12-16,Mobile App,Completed
+3524,235,2025-08-16,Mobile App,Completed
+3525,104,2025-03-26,Online,Completed
+3526,759,2025-11-06,Mobile App,Completed
+3527,449,2025-09-12,Store,Returned
+3528,441,2025-01-11,Mobile App,Cancelled
+3529,920,2025-12-22,Store,Returned
+3530,557,2025-02-24,Store,Completed
+3531,35,2025-05-23,Store,Cancelled
+3532,719,2025-08-05,Online,Completed
+3533,90,2025-05-15,Mobile App,Completed
+3534,487,2025-07-25,Mobile App,Completed
+3535,929,2025-03-12,Online,Completed
+3536,166,2025-02-14,Mobile App,Completed
+3537,681,2025-04-11,Store,Returned
+3538,560,2025-07-11,Mobile App,Completed
+3539,490,2025-02-04,Mobile App,Completed
+3540,597,2025-07-31,Online,Cancelled
+3541,41,2025-04-29,Online,Completed
+3542,308,2025-03-10,Mobile App,Returned
+3543,401,2025-01-06,Store,Completed
+3544,523,2025-01-07,Online,Cancelled
+3545,682,2025-05-17,Mobile App,Cancelled
+3546,10,2025-06-05,Online,Completed
+3547,943,2025-05-05,Store,Completed
+3548,194,2025-12-06,Store,Completed
+3549,491,2025-04-20,Online,Completed
+3550,398,2025-10-11,Mobile App,Returned
+3551,555,2025-02-06,Online,Returned
+3552,131,2025-09-19,Online,Completed
+3553,490,2025-09-20,Online,Cancelled
+3554,169,2025-05-07,Mobile App,Completed
+3555,860,2025-11-17,Store,Completed
+3556,848,2025-05-15,Store,Completed
+3557,771,2025-08-10,Online,Completed
+3558,800,2025-07-22,Online,Completed
+3559,688,2025-07-11,Store,Completed
+3560,621,2025-04-26,Mobile App,Completed
+3561,491,2025-11-11,Mobile App,Completed
+3562,662,2025-11-22,Online,Completed
+3563,614,2025-09-24,Store,Completed
+3564,792,2025-02-08,Store,Cancelled
+3565,32,2025-08-02,Online,Cancelled
+3566,87,2025-12-27,Online,Returned
+3567,41,2025-07-09,Store,Completed
+3568,288,2025-08-26,Mobile App,Completed
+3569,311,2025-10-02,Mobile App,Completed
+3570,942,2025-06-07,Store,Cancelled
+3571,500,2025-07-17,Mobile App,Cancelled
+3572,712,2025-10-14,Mobile App,Cancelled
+3573,614,2025-12-05,Mobile App,Completed
+3574,481,2025-06-22,Online,Returned
+3575,502,2025-06-25,Mobile App,Cancelled
+3576,632,2025-11-20,Online,Completed
+3577,645,2025-05-18,Store,Completed
+3578,609,2025-09-20,Online,Completed
+3579,950,2025-06-15,Online,Cancelled
+3580,196,2025-06-28,Store,Completed
+3581,846,2025-06-21,Mobile App,Returned
+3582,422,2025-05-23,Store,Cancelled
+3583,435,2025-12-09,Mobile App,Completed
+3584,787,2025-11-10,Online,Returned
+3585,303,2025-04-08,Mobile App,Returned
+3586,371,2025-12-31,Mobile App,Cancelled
+3587,329,2025-04-15,Store,Cancelled
+3588,533,2025-03-30,Online,Returned
+3589,741,2025-05-30,Mobile App,Completed
+3590,211,2025-11-03,Mobile App,Completed
+3591,188,2025-11-28,Store,Completed
+3592,252,2025-07-20,Store,Returned
+3593,278,2025-10-18,Store,Cancelled
+3594,350,2025-03-16,Store,Cancelled
+3595,74,2025-05-10,Online,Completed
+3596,833,2025-10-09,Store,Completed
+3597,69,2025-04-07,Store,Completed
+3598,466,2025-10-09,Mobile App,Completed
+3599,524,2025-10-18,Store,Completed
+3600,273,2025-01-27,Store,Returned
+3601,502,2025-11-01,Online,Completed
+3602,448,2025-07-18,Store,Completed
+3603,144,2025-04-03,Online,Completed
+3604,779,2025-01-28,Online,Completed
+3605,285,2025-02-25,Mobile App,Cancelled
+3606,275,2025-03-07,Online,Returned
+3607,704,2025-08-05,Online,Completed
+3608,913,2025-12-05,Mobile App,Completed
+3609,11,2025-02-27,Store,Cancelled
+3610,737,2025-05-22,Store,Completed
+3611,247,2025-04-29,Online,Cancelled
+3612,619,2025-10-20,Store,Cancelled
+3613,363,2025-05-02,Online,Completed
+3614,567,2025-10-27,Store,Completed
+3615,176,2025-07-16,Online,Cancelled
+3616,632,2025-01-09,Online,Completed
+3617,585,2025-11-11,Store,Completed
+3618,128,2025-02-18,Online,Completed
+3619,227,2025-05-04,Store,Cancelled
+3620,170,2025-03-30,Online,Completed
+3621,110,2025-01-02,Online,Returned
+3622,316,2025-08-11,Mobile App,Cancelled
+3623,870,2025-07-17,Store,Completed
+3624,238,2025-02-21,Online,Completed
+3625,730,2025-08-16,Store,Completed
+3626,757,2025-07-16,Mobile App,Completed
+3627,24,2025-10-05,Store,Completed
+3628,903,2025-12-11,Store,Completed
+3629,809,2025-09-26,Store,Completed
+3630,22,2025-09-13,Mobile App,Cancelled
+3631,398,2025-08-15,Mobile App,Completed
+3632,382,2025-03-15,Mobile App,Completed
+3633,616,2025-12-24,Mobile App,Completed
+3634,173,2025-07-26,Online,Completed
+3635,322,2025-06-30,Store,Completed
+3636,255,2025-05-29,Online,Completed
+3637,615,2025-08-29,Online,Returned
+3638,958,2025-10-16,Online,Returned
+3639,715,2025-02-03,Store,Returned
+3640,820,2025-01-12,Store,Cancelled
+3641,354,2025-07-04,Store,Completed
+3642,503,2025-08-12,Mobile App,Completed
+3643,932,2025-08-06,Online,Completed
+3644,262,2025-06-28,Online,Completed
+3645,376,2025-05-14,Store,Completed
+3646,173,2025-04-23,Mobile App,Returned
+3647,530,2025-11-03,Mobile App,Completed
+3648,867,2025-01-19,Store,Completed
+3649,50,2025-04-28,Online,Returned
+3650,938,2025-03-23,Online,Cancelled
+3651,713,2025-10-11,Online,Completed
+3652,82,2025-09-26,Store,Completed
+3653,153,2025-05-31,Online,Completed
+3654,286,2025-04-06,Online,Completed
+3655,320,2025-03-27,Mobile App,Completed
+3656,238,2025-02-17,Mobile App,Completed
+3657,587,2025-12-02,Mobile App,Completed
+3658,296,2025-10-08,Store,Completed
+3659,917,2025-03-27,Online,Completed
+3660,828,2025-04-11,Mobile App,Returned
+3661,79,2025-02-04,Online,Completed
+3662,837,2025-04-02,Mobile App,Completed
+3663,798,2025-08-25,Mobile App,Completed
+3664,741,2025-04-02,Online,Cancelled
+3665,955,2025-04-06,Online,Completed
+3666,334,2025-03-29,Store,Cancelled
+3667,833,2025-01-11,Mobile App,Cancelled
+3668,917,2025-01-30,Store,Completed
+3669,172,2025-01-25,Store,Completed
+3670,867,2025-03-09,Online,Cancelled
+3671,855,2025-07-08,Mobile App,Completed
+3672,474,2025-05-06,Store,Completed
+3673,728,2025-02-26,Mobile App,Completed
+3674,166,2025-11-24,Mobile App,Completed
+3675,69,2025-07-13,Online,Completed
+3676,295,2025-08-24,Mobile App,Completed
+3677,694,2025-07-22,Mobile App,Cancelled
+3678,744,2025-07-26,Mobile App,Completed
+3679,986,2025-11-28,Mobile App,Completed
+3680,806,2025-11-07,Mobile App,Returned
+3681,858,2025-07-27,Store,Cancelled
+3682,960,2025-07-28,Online,Cancelled
+3683,879,2025-09-13,Online,Completed
+3684,212,2025-02-07,Mobile App,Completed
+3685,863,2025-06-02,Online,Cancelled
+3686,926,2025-07-31,Store,Completed
+3687,307,2025-07-11,Online,Completed
+3688,499,2025-04-12,Online,Completed
+3689,446,2025-11-23,Online,Completed
+3690,886,2025-10-30,Mobile App,Completed
+3691,665,2025-06-04,Store,Completed
+3692,146,2025-01-09,Online,Completed
+3693,259,2025-09-07,Store,Completed
+3694,730,2025-08-27,Store,Completed
+3695,475,2025-03-08,Store,Completed
+3696,252,2025-03-16,Mobile App,Completed
+3697,303,2025-07-11,Online,Completed
+3698,477,2025-07-17,Mobile App,Completed
+3699,80,2025-11-03,Store,Completed
+3700,841,2025-09-20,Mobile App,Completed
+3701,42,2025-09-03,Online,Completed
+3702,340,2025-04-10,Store,Cancelled
+3703,170,2025-01-06,Online,Completed
+3704,763,2025-12-31,Mobile App,Completed
+3705,62,2025-01-13,Mobile App,Completed
+3706,646,2025-09-24,Store,Completed
+3707,460,2025-07-26,Store,Cancelled
+3708,472,2025-06-27,Mobile App,Completed
+3709,292,2025-07-08,Online,Cancelled
+3710,600,2025-03-05,Store,Completed
+3711,444,2025-09-21,Online,Returned
+3712,799,2025-10-08,Mobile App,Returned
+3713,580,2025-09-17,Online,Completed
+3714,956,2025-07-13,Store,Returned
+3715,732,2025-08-14,Mobile App,Returned
+3716,651,2025-05-17,Online,Completed
+3717,781,2025-04-11,Online,Cancelled
+3718,394,2025-05-22,Store,Completed
+3719,43,2025-01-23,Store,Completed
+3720,977,2025-03-10,Online,Completed
+3721,583,2025-04-10,Store,Completed
+3722,438,2025-10-08,Mobile App,Completed
+3723,939,2025-04-18,Online,Completed
+3724,168,2025-01-20,Store,Returned
+3725,495,2025-02-03,Online,Completed
+3726,938,2025-03-26,Mobile App,Completed
+3727,117,2025-02-10,Mobile App,Completed
+3728,832,2025-06-25,Mobile App,Returned
+3729,382,2025-08-29,Store,Cancelled
+3730,572,2025-10-08,Mobile App,Completed
+3731,647,2025-12-07,Store,Cancelled
+3732,160,2025-12-08,Mobile App,Returned
+3733,604,2025-09-24,Mobile App,Completed
+3734,826,2025-11-01,Online,Completed
+3735,835,2025-01-12,Store,Completed
+3736,279,2025-06-18,Mobile App,Completed
+3737,511,2025-07-27,Online,Cancelled
+3738,308,2025-05-12,Online,Completed
+3739,569,2025-04-25,Online,Completed
+3740,476,2025-03-20,Online,Returned
+3741,556,2025-09-16,Store,Completed
+3742,761,2025-07-24,Store,Cancelled
+3743,340,2025-06-03,Online,Completed
+3744,167,2025-11-16,Store,Returned
+3745,68,2025-06-10,Online,Completed
+3746,416,2025-08-10,Online,Completed
+3747,485,2025-01-16,Store,Completed
+3748,122,2025-06-07,Online,Completed
+3749,901,2025-09-09,Store,Cancelled
+3750,220,2025-07-27,Store,Completed
+3751,294,2025-05-05,Mobile App,Completed
+3752,345,2025-03-23,Mobile App,Completed
+3753,608,2025-07-12,Online,Completed
+3754,85,2025-02-12,Mobile App,Completed
+3755,154,2025-10-04,Store,Completed
+3756,919,2025-02-17,Mobile App,Returned
+3757,156,2025-01-27,Online,Completed
+3758,182,2025-01-17,Online,Completed
+3759,864,2025-07-07,Mobile App,Returned
+3760,941,2025-12-25,Store,Returned
+3761,586,2025-02-14,Online,Completed
+3762,915,2025-06-08,Store,Completed
+3763,40,2025-10-26,Online,Completed
+3764,630,2025-01-01,Online,Completed
+3765,919,2025-07-20,Store,Completed
+3766,274,2025-10-31,Store,Cancelled
+3767,857,2025-09-27,Online,Cancelled
+3768,292,2025-03-12,Online,Completed
+3769,621,2025-05-14,Online,Returned
+3770,795,2025-12-25,Mobile App,Completed
+3771,509,2025-11-07,Online,Returned
+3772,291,2025-01-17,Store,Completed
+3773,681,2025-03-25,Mobile App,Completed
+3774,830,2025-08-20,Store,Cancelled
+3775,314,2025-05-31,Mobile App,Returned
+3776,835,2025-07-25,Store,Completed
+3777,814,2025-06-08,Mobile App,Completed
+3778,216,2025-05-04,Store,Completed
+3779,721,2025-03-21,Online,Completed
+3780,61,2025-10-28,Online,Completed
+3781,111,2025-08-18,Online,Completed
+3782,741,2025-02-07,Store,Completed
+3783,705,2025-06-13,Mobile App,Completed
+3784,736,2025-09-04,Store,Completed
+3785,126,2025-11-26,Mobile App,Returned
+3786,566,2025-10-28,Store,Returned
+3787,215,2025-08-31,Mobile App,Completed
+3788,373,2025-03-22,Store,Completed
+3789,354,2025-02-03,Online,Completed
+3790,862,2025-05-10,Store,Completed
+3791,833,2025-09-12,Store,Returned
+3792,990,2025-07-23,Mobile App,Completed
+3793,461,2025-03-10,Store,Returned
+3794,990,2025-12-29,Store,Returned
+3795,323,2025-10-18,Mobile App,Completed
+3796,8,2025-03-26,Store,Completed
+3797,96,2025-09-07,Store,Completed
+3798,44,2025-03-13,Online,Cancelled
+3799,619,2025-09-11,Store,Completed
+3800,739,2025-04-03,Store,Completed
+3801,790,2025-01-05,Mobile App,Completed
+3802,729,2025-06-25,Mobile App,Completed
+3803,346,2025-01-02,Online,Completed
+3804,791,2025-09-14,Online,Completed
+3805,152,2025-06-20,Mobile App,Returned
+3806,879,2025-09-16,Store,Cancelled
+3807,401,2025-09-28,Mobile App,Cancelled
+3808,949,2025-11-10,Online,Completed
+3809,789,2025-01-21,Store,Returned
+3810,606,2025-10-08,Store,Cancelled
+3811,774,2025-08-22,Online,Completed
+3812,341,2025-01-10,Store,Cancelled
+3813,643,2025-02-02,Store,Completed
+3814,952,2025-08-26,Mobile App,Cancelled
+3815,237,2025-06-11,Mobile App,Completed
+3816,461,2025-05-16,Store,Returned
+3817,873,2025-01-20,Online,Returned
+3818,927,2025-10-24,Store,Completed
+3819,272,2025-01-03,Mobile App,Completed
+3820,42,2025-04-24,Store,Completed
+3821,407,2025-01-02,Store,Completed
+3822,982,2025-02-08,Store,Cancelled
+3823,834,2025-10-07,Store,Completed
+3824,514,2025-11-24,Store,Cancelled
+3825,680,2025-01-27,Store,Cancelled
+3826,219,2025-10-01,Mobile App,Cancelled
+3827,295,2025-03-01,Online,Completed
+3828,575,2025-06-18,Online,Cancelled
+3829,672,2025-04-13,Online,Returned
+3830,440,2025-02-10,Store,Returned
+3831,252,2025-09-03,Online,Completed
+3832,133,2025-05-13,Online,Returned
+3833,300,2025-12-10,Store,Completed
+3834,166,2025-08-07,Online,Returned
+3835,168,2025-07-05,Online,Completed
+3836,317,2025-10-05,Mobile App,Cancelled
+3837,655,2025-02-05,Online,Completed
+3838,895,2025-03-04,Online,Completed
+3839,68,2025-05-19,Online,Completed
+3840,784,2025-08-20,Store,Completed
+3841,513,2025-10-01,Store,Cancelled
+3842,126,2025-09-04,Mobile App,Cancelled
+3843,285,2025-02-12,Store,Completed
+3844,362,2025-04-01,Store,Completed
+3845,559,2025-05-09,Mobile App,Completed
+3846,933,2025-11-14,Online,Completed
+3847,167,2025-03-16,Store,Completed
+3848,535,2025-12-20,Mobile App,Completed
+3849,491,2025-11-20,Store,Completed
+3850,349,2025-07-19,Store,Completed
+3851,827,2025-09-20,Store,Completed
+3852,172,2025-04-08,Mobile App,Returned
+3853,496,2025-10-28,Mobile App,Returned
+3854,69,2025-04-27,Mobile App,Completed
+3855,571,2025-08-23,Store,Completed
+3856,658,2025-07-08,Online,Completed
+3857,38,2025-08-20,Online,Completed
+3858,585,2025-07-01,Online,Returned
+3859,957,2025-07-10,Mobile App,Completed
+3860,426,2025-01-04,Store,Completed
+3861,88,2025-03-10,Online,Cancelled
+3862,534,2025-10-15,Online,Cancelled
+3863,140,2025-08-31,Store,Cancelled
+3864,565,2025-06-24,Online,Cancelled
+3865,831,2025-01-17,Mobile App,Completed
+3866,252,2025-06-09,Mobile App,Completed
+3867,301,2025-01-20,Online,Completed
+3868,962,2025-06-03,Mobile App,Completed
+3869,713,2025-05-13,Store,Completed
+3870,288,2025-06-24,Store,Completed
+3871,999,2025-09-29,Store,Completed
+3872,511,2025-06-07,Mobile App,Completed
+3873,417,2025-01-12,Online,Completed
+3874,336,2025-04-05,Mobile App,Completed
+3875,891,2025-03-12,Mobile App,Cancelled
+3876,614,2025-02-21,Store,Completed
+3877,98,2025-05-16,Store,Completed
+3878,910,2025-03-05,Online,Cancelled
+3879,218,2025-10-26,Online,Completed
+3880,51,2025-05-22,Store,Cancelled
+3881,773,2025-10-05,Online,Returned
+3882,563,2025-10-23,Mobile App,Cancelled
+3883,305,2025-10-10,Mobile App,Completed
+3884,103,2025-07-26,Online,Completed
+3885,941,2025-08-04,Online,Returned
+3886,342,2025-05-18,Mobile App,Completed
+3887,141,2025-02-05,Online,Cancelled
+3888,5,2025-02-24,Store,Completed
+3889,481,2025-07-04,Store,Cancelled
+3890,110,2025-05-16,Online,Cancelled
+3891,963,2025-10-15,Online,Completed
+3892,343,2025-03-28,Online,Returned
+3893,941,2025-10-19,Mobile App,Completed
+3894,646,2025-01-09,Store,Completed
+3895,747,2025-12-29,Online,Completed
+3896,756,2025-12-16,Mobile App,Completed
+3897,418,2025-01-03,Mobile App,Cancelled
+3898,897,2025-05-20,Mobile App,Returned
+3899,795,2025-04-07,Store,Cancelled
+3900,244,2025-01-31,Store,Completed
+3901,628,2025-12-08,Store,Completed
+3902,845,2025-09-28,Store,Completed
+3903,140,2025-07-27,Mobile App,Completed
+3904,933,2025-10-24,Store,Completed
+3905,256,2025-11-12,Online,Returned
+3906,431,2025-05-11,Mobile App,Cancelled
+3907,510,2025-01-01,Online,Completed
+3908,605,2025-04-08,Mobile App,Completed
+3909,708,2025-03-07,Mobile App,Completed
+3910,834,2025-11-25,Mobile App,Completed
+3911,991,2025-12-10,Online,Completed
+3912,729,2025-01-21,Online,Completed
+3913,763,2025-01-24,Mobile App,Completed
+3914,701,2025-07-22,Online,Completed
+3915,284,2025-02-27,Mobile App,Completed
+3916,668,2025-04-18,Mobile App,Completed
+3917,850,2025-12-23,Online,Completed
+3918,110,2025-06-24,Online,Completed
+3919,148,2025-03-17,Mobile App,Returned
+3920,805,2025-03-05,Store,Completed
+3921,421,2025-07-13,Mobile App,Cancelled
+3922,697,2025-05-21,Store,Returned
+3923,207,2025-11-22,Online,Completed
+3924,399,2025-06-30,Online,Returned
+3925,879,2025-12-06,Online,Completed
+3926,501,2025-05-21,Store,Completed
+3927,259,2025-01-02,Store,Completed
+3928,163,2025-02-01,Online,Returned
+3929,470,2025-09-26,Store,Completed
+3930,424,2025-02-26,Store,Completed
+3931,291,2025-05-24,Online,Completed
+3932,788,2025-01-08,Store,Cancelled
+3933,67,2025-10-28,Store,Completed
+3934,311,2025-11-26,Online,Completed
+3935,206,2025-12-19,Store,Completed
+3936,987,2025-07-19,Store,Completed
+3937,492,2025-04-23,Store,Completed
+3938,18,2025-05-01,Mobile App,Completed
+3939,394,2025-04-23,Mobile App,Cancelled
+3940,658,2025-03-16,Online,Completed
+3941,739,2025-07-09,Mobile App,Completed
+3942,707,2025-02-20,Store,Returned
+3943,529,2025-06-08,Mobile App,Completed
+3944,21,2025-02-02,Mobile App,Completed
+3945,248,2025-05-25,Store,Completed
+3946,776,2025-12-09,Mobile App,Cancelled
+3947,589,2025-09-29,Online,Returned
+3948,509,2025-09-28,Online,Completed
+3949,982,2025-01-11,Store,Returned
+3950,789,2025-10-11,Store,Cancelled
+3951,350,2025-01-01,Store,Completed
+3952,192,2025-02-25,Mobile App,Completed
+3953,739,2025-08-06,Store,Returned
+3954,824,2025-05-20,Mobile App,Completed
+3955,644,2025-07-25,Mobile App,Cancelled
+3956,579,2025-10-16,Store,Completed
+3957,390,2025-08-30,Mobile App,Completed
+3958,912,2025-05-06,Store,Completed
+3959,879,2025-06-22,Store,Completed
+3960,778,2025-05-04,Mobile App,Completed
+3961,505,2025-04-27,Store,Cancelled
+3962,17,2025-12-20,Online,Completed
+3963,579,2025-03-12,Online,Completed
+3964,888,2025-01-23,Online,Completed
+3965,423,2025-10-01,Mobile App,Completed
+3966,106,2025-12-15,Mobile App,Completed
+3967,736,2025-03-11,Online,Returned
+3968,220,2025-04-22,Store,Completed
+3969,38,2025-05-12,Online,Cancelled
+3970,419,2025-03-03,Store,Returned
+3971,603,2025-08-19,Online,Completed
+3972,349,2025-05-02,Mobile App,Completed
+3973,96,2025-05-09,Mobile App,Cancelled
+3974,765,2025-11-19,Online,Completed
+3975,488,2025-12-19,Store,Cancelled
+3976,172,2025-12-03,Mobile App,Returned
+3977,7,2025-09-08,Online,Completed
+3978,909,2025-06-19,Online,Completed
+3979,516,2025-10-26,Online,Cancelled
+3980,285,2025-01-01,Store,Returned
+3981,358,2025-07-02,Store,Cancelled
+3982,713,2025-03-26,Online,Returned
+3983,100,2025-11-18,Mobile App,Completed
+3984,684,2025-05-21,Online,Completed
+3985,843,2025-03-22,Online,Returned
+3986,47,2025-04-02,Online,Completed
+3987,203,2025-03-09,Store,Completed
+3988,63,2025-12-05,Store,Completed
+3989,634,2025-03-10,Online,Completed
+3990,744,2025-04-15,Store,Returned
+3991,775,2025-06-03,Mobile App,Completed
+3992,158,2025-12-19,Online,Completed
+3993,486,2025-07-13,Online,Completed
+3994,384,2025-01-18,Mobile App,Completed
+3995,701,2025-08-04,Online,Completed
+3996,783,2025-03-22,Online,Completed
+3997,158,2025-08-01,Online,Completed
+3998,235,2025-12-25,Online,Completed
+3999,731,2025-09-24,Mobile App,Cancelled
+4000,906,2025-12-13,Mobile App,Cancelled
+4001,921,2025-10-27,Store,Completed
+4002,162,2025-11-01,Mobile App,Returned
+4003,581,2025-04-21,Store,Completed
+4004,177,2025-11-09,Store,Completed
+4005,324,2025-05-14,Mobile App,Completed
+4006,949,2025-01-11,Online,Completed
+4007,303,2025-07-12,Mobile App,Completed
+4008,950,2025-02-16,Mobile App,Completed
+4009,816,2025-12-22,Online,Completed
+4010,236,2025-12-25,Mobile App,Completed
+4011,574,2025-09-03,Store,Returned
+4012,595,2025-12-31,Mobile App,Completed
+4013,55,2025-09-23,Online,Cancelled
+4014,897,2025-04-29,Online,Completed
+4015,930,2025-01-26,Mobile App,Cancelled
+4016,557,2025-02-07,Online,Cancelled
+4017,566,2025-02-12,Store,Cancelled
+4018,551,2025-02-17,Store,Completed
+4019,341,2025-10-09,Online,Completed
+4020,46,2025-08-07,Store,Completed
+4021,144,2025-04-23,Mobile App,Returned
+4022,92,2025-09-23,Online,Cancelled
+4023,453,2025-02-06,Store,Returned
+4024,650,2025-10-07,Online,Returned
+4025,779,2025-06-14,Store,Completed
+4026,698,2025-05-22,Store,Completed
+4027,34,2025-01-06,Online,Returned
+4028,708,2025-01-13,Mobile App,Completed
+4029,86,2025-06-15,Online,Returned
+4030,828,2025-11-23,Mobile App,Completed
+4031,85,2025-12-19,Online,Completed
+4032,976,2025-02-20,Store,Cancelled
+4033,664,2025-07-10,Online,Returned
+4034,767,2025-11-06,Online,Returned
+4035,154,2025-06-30,Store,Completed
+4036,689,2025-02-28,Mobile App,Returned
+4037,297,2025-05-30,Store,Completed
+4038,88,2025-10-07,Online,Cancelled
+4039,685,2025-10-23,Mobile App,Completed
+4040,295,2025-09-09,Mobile App,Completed
+4041,155,2025-03-31,Store,Cancelled
+4042,637,2025-01-22,Store,Completed
+4043,481,2025-01-21,Mobile App,Completed
+4044,479,2025-01-14,Online,Cancelled
+4045,51,2025-01-02,Mobile App,Completed
+4046,908,2025-05-06,Store,Completed
+4047,652,2025-06-24,Online,Completed
+4048,742,2025-09-22,Store,Cancelled
+4049,154,2025-07-27,Store,Cancelled
+4050,126,2025-05-01,Store,Completed
+4051,817,2025-05-18,Mobile App,Completed
+4052,330,2025-07-09,Mobile App,Completed
+4053,375,2025-06-08,Online,Cancelled
+4054,385,2025-01-22,Mobile App,Returned
+4055,41,2025-11-17,Store,Completed
+4056,417,2025-04-17,Online,Completed
+4057,617,2025-11-11,Mobile App,Completed
+4058,633,2025-07-01,Online,Cancelled
+4059,798,2025-11-22,Mobile App,Completed
+4060,129,2025-02-03,Online,Completed
+4061,822,2025-01-25,Online,Completed
+4062,259,2025-09-28,Online,Cancelled
+4063,938,2025-09-28,Mobile App,Completed
+4064,268,2025-11-17,Mobile App,Completed
+4065,986,2025-11-26,Online,Cancelled
+4066,972,2025-08-31,Store,Completed
+4067,529,2025-04-10,Store,Returned
+4068,783,2025-04-07,Mobile App,Returned
+4069,66,2025-07-24,Store,Completed
+4070,159,2025-12-11,Online,Completed
+4071,714,2025-07-24,Mobile App,Returned
+4072,303,2025-03-29,Mobile App,Cancelled
+4073,661,2025-12-09,Mobile App,Returned
+4074,315,2025-07-28,Store,Completed
+4075,22,2025-05-05,Store,Returned
+4076,134,2025-07-08,Mobile App,Returned
+4077,866,2025-09-28,Store,Completed
+4078,107,2025-06-08,Store,Completed
+4079,474,2025-01-21,Store,Completed
+4080,969,2025-11-20,Store,Completed
+4081,364,2025-07-11,Store,Completed
+4082,192,2025-07-26,Online,Returned
+4083,692,2025-07-08,Store,Cancelled
+4084,700,2025-04-06,Store,Completed
+4085,983,2025-01-12,Mobile App,Completed
+4086,482,2025-07-13,Store,Completed
+4087,812,2025-05-24,Store,Cancelled
+4088,590,2025-09-29,Mobile App,Completed
+4089,791,2025-04-26,Mobile App,Completed
+4090,378,2025-05-04,Mobile App,Returned
+4091,513,2025-09-23,Online,Completed
+4092,340,2025-03-10,Store,Cancelled
+4093,852,2025-12-23,Online,Returned
+4094,705,2025-06-24,Online,Completed
+4095,704,2025-11-24,Online,Completed
+4096,245,2025-04-15,Online,Completed
+4097,994,2025-07-01,Online,Cancelled
+4098,264,2025-10-28,Store,Returned
+4099,126,2025-07-22,Mobile App,Completed
+4100,827,2025-03-14,Online,Completed
+4101,97,2025-12-31,Mobile App,Completed
+4102,539,2025-08-27,Mobile App,Completed
+4103,558,2025-01-25,Mobile App,Completed
+4104,247,2025-10-31,Online,Returned
+4105,696,2025-04-12,Store,Completed
+4106,138,2025-07-27,Mobile App,Completed
+4107,232,2025-01-21,Store,Completed
+4108,741,2025-02-09,Online,Cancelled
+4109,780,2025-09-16,Store,Completed
+4110,399,2025-02-18,Store,Cancelled
+4111,879,2025-07-28,Mobile App,Returned
+4112,885,2025-09-26,Online,Completed
+4113,934,2025-04-05,Online,Completed
+4114,831,2025-01-16,Mobile App,Completed
+4115,343,2025-08-01,Online,Cancelled
+4116,131,2025-11-02,Mobile App,Completed
+4117,251,2025-12-19,Store,Completed
+4118,484,2025-11-23,Mobile App,Completed
+4119,271,2025-05-26,Mobile App,Completed
+4120,984,2025-08-01,Online,Cancelled
+4121,697,2025-04-20,Store,Completed
+4122,625,2025-06-27,Online,Completed
+4123,79,2025-06-09,Mobile App,Completed
+4124,828,2025-03-05,Mobile App,Returned
+4125,791,2025-10-22,Store,Completed
+4126,553,2025-05-30,Online,Completed
+4127,407,2025-09-29,Store,Completed
+4128,859,2025-01-14,Mobile App,Completed
+4129,775,2025-07-28,Online,Completed
+4130,835,2025-03-22,Online,Cancelled
+4131,617,2025-09-16,Online,Completed
+4132,246,2025-08-20,Store,Completed
+4133,346,2025-08-03,Online,Completed
+4134,262,2025-01-19,Mobile App,Returned
+4135,878,2025-05-31,Online,Cancelled
+4136,549,2025-07-28,Mobile App,Completed
+4137,850,2025-07-07,Mobile App,Completed
+4138,797,2025-06-22,Online,Completed
+4139,959,2025-07-22,Store,Completed
+4140,990,2025-01-24,Mobile App,Returned
+4141,99,2025-03-01,Mobile App,Completed
+4142,437,2025-01-10,Online,Completed
+4143,896,2025-01-29,Mobile App,Completed
+4144,370,2025-07-19,Store,Cancelled
+4145,91,2025-01-14,Store,Completed
+4146,702,2025-08-22,Online,Completed
+4147,963,2025-04-19,Online,Completed
+4148,787,2025-04-22,Store,Completed
+4149,365,2025-01-27,Store,Cancelled
+4150,564,2025-04-04,Store,Cancelled
+4151,112,2025-09-06,Mobile App,Completed
+4152,435,2025-10-15,Mobile App,Completed
+4153,637,2025-04-18,Mobile App,Completed
+4154,298,2025-01-21,Online,Completed
+4155,312,2025-10-11,Online,Cancelled
+4156,459,2025-04-10,Store,Completed
+4157,244,2025-09-02,Mobile App,Cancelled
+4158,755,2025-09-28,Online,Completed
+4159,48,2025-04-19,Online,Returned
+4160,384,2025-11-11,Mobile App,Completed
+4161,55,2025-02-22,Mobile App,Completed
+4162,463,2025-12-20,Mobile App,Completed
+4163,621,2025-01-25,Mobile App,Completed
+4164,579,2025-10-25,Mobile App,Completed
+4165,823,2025-05-29,Store,Cancelled
+4166,187,2025-01-09,Mobile App,Completed
+4167,262,2025-10-26,Online,Completed
+4168,775,2025-11-03,Mobile App,Cancelled
+4169,639,2025-11-17,Store,Cancelled
+4170,587,2025-07-12,Mobile App,Completed
+4171,851,2025-10-10,Mobile App,Cancelled
+4172,778,2025-11-04,Mobile App,Returned
+4173,693,2025-12-14,Store,Completed
+4174,911,2025-09-25,Store,Completed
+4175,549,2025-07-07,Mobile App,Completed
+4176,653,2025-10-19,Online,Completed
+4177,339,2025-10-17,Online,Completed
+4178,22,2025-09-14,Store,Cancelled
+4179,634,2025-04-10,Online,Completed
+4180,111,2025-04-05,Online,Completed
+4181,800,2025-03-14,Store,Completed
+4182,578,2025-10-14,Online,Completed
+4183,638,2025-12-25,Online,Cancelled
+4184,485,2025-03-21,Store,Returned
+4185,121,2025-08-23,Store,Completed
+4186,658,2025-08-15,Online,Returned
+4187,222,2025-06-08,Mobile App,Returned
+4188,234,2025-09-24,Mobile App,Completed
+4189,334,2025-12-10,Mobile App,Cancelled
+4190,930,2025-07-05,Mobile App,Completed
+4191,921,2025-09-24,Online,Returned
+4192,919,2025-10-15,Online,Completed
+4193,848,2025-01-02,Store,Completed
+4194,909,2025-12-06,Online,Completed
+4195,924,2025-12-22,Mobile App,Cancelled
+4196,445,2025-06-24,Online,Cancelled
+4197,824,2025-03-17,Store,Cancelled
+4198,782,2025-07-03,Mobile App,Returned
+4199,151,2025-08-11,Mobile App,Completed
+4200,96,2025-10-09,Store,Cancelled
+4201,388,2025-06-26,Store,Returned
+4202,75,2025-04-21,Online,Cancelled
+4203,494,2025-08-07,Online,Returned
+4204,851,2025-12-18,Online,Completed
+4205,827,2025-09-28,Store,Cancelled
+4206,345,2025-03-03,Store,Completed
+4207,796,2025-05-17,Store,Cancelled
+4208,153,2025-05-04,Mobile App,Completed
+4209,871,2025-09-18,Store,Returned
+4210,921,2025-01-21,Online,Completed
+4211,490,2025-04-25,Online,Completed
+4212,684,2025-09-21,Store,Cancelled
+4213,401,2025-07-19,Online,Completed
+4214,120,2025-07-18,Mobile App,Completed
+4215,77,2025-02-11,Mobile App,Completed
+4216,834,2025-11-10,Store,Completed
+4217,50,2025-02-03,Store,Cancelled
+4218,58,2025-11-10,Mobile App,Completed
+4219,83,2025-05-31,Mobile App,Cancelled
+4220,75,2025-06-14,Online,Completed
+4221,418,2025-04-01,Mobile App,Cancelled
+4222,201,2025-10-26,Store,Returned
+4223,422,2025-11-18,Online,Completed
+4224,748,2025-07-08,Online,Returned
+4225,287,2025-05-19,Online,Completed
+4226,452,2025-08-15,Mobile App,Completed
+4227,401,2025-03-25,Online,Returned
+4228,966,2025-08-18,Online,Returned
+4229,413,2025-07-30,Mobile App,Completed
+4230,611,2025-03-12,Store,Completed
+4231,569,2025-02-17,Mobile App,Completed
+4232,743,2025-11-17,Store,Completed
+4233,946,2025-01-25,Online,Cancelled
+4234,717,2025-11-05,Online,Completed
+4235,24,2025-07-23,Mobile App,Returned
+4236,547,2025-05-15,Online,Completed
+4237,204,2025-04-14,Store,Completed
+4238,92,2025-03-09,Store,Completed
+4239,733,2025-03-29,Online,Completed
+4240,938,2025-07-25,Online,Completed
+4241,558,2025-02-10,Store,Completed
+4242,210,2025-03-26,Mobile App,Completed
+4243,81,2025-11-05,Online,Completed
+4244,389,2025-02-27,Online,Completed
+4245,244,2025-09-20,Mobile App,Completed
+4246,136,2025-08-28,Store,Cancelled
+4247,588,2025-06-26,Store,Completed
+4248,195,2025-04-22,Store,Completed
+4249,913,2025-12-08,Mobile App,Completed
+4250,315,2025-05-16,Mobile App,Completed
+4251,744,2025-03-28,Mobile App,Completed
+4252,49,2025-03-14,Store,Completed
+4253,523,2025-01-23,Online,Completed
+4254,283,2025-05-26,Online,Completed
+4255,463,2025-04-15,Mobile App,Completed
+4256,852,2025-02-22,Store,Completed
+4257,548,2025-02-25,Online,Completed
+4258,759,2025-09-13,Mobile App,Cancelled
+4259,175,2025-04-06,Online,Completed
+4260,854,2025-03-24,Mobile App,Completed
+4261,900,2025-09-09,Mobile App,Cancelled
+4262,848,2025-04-04,Online,Returned
+4263,199,2025-05-14,Mobile App,Completed
+4264,176,2025-10-21,Mobile App,Completed
+4265,753,2025-09-09,Mobile App,Returned
+4266,622,2025-08-13,Online,Completed
+4267,888,2025-04-29,Mobile App,Completed
+4268,898,2025-02-28,Mobile App,Completed
+4269,557,2025-12-15,Store,Completed
+4270,30,2025-06-23,Online,Cancelled
+4271,769,2025-08-19,Mobile App,Completed
+4272,505,2025-12-26,Mobile App,Cancelled
+4273,737,2025-11-22,Store,Completed
+4274,698,2025-03-02,Store,Completed
+4275,717,2025-02-01,Store,Completed
+4276,242,2025-07-27,Mobile App,Completed
+4277,881,2025-01-08,Store,Completed
+4278,386,2025-10-04,Online,Completed
+4279,675,2025-03-29,Online,Completed
+4280,645,2025-06-28,Store,Returned
+4281,164,2025-02-14,Store,Returned
+4282,895,2025-12-04,Store,Completed
+4283,796,2025-06-21,Mobile App,Completed
+4284,960,2025-02-23,Mobile App,Completed
+4285,415,2025-10-19,Online,Returned
+4286,75,2025-09-25,Mobile App,Completed
+4287,75,2025-10-20,Online,Completed
+4288,582,2025-07-23,Store,Cancelled
+4289,978,2025-01-21,Mobile App,Cancelled
+4290,548,2025-12-16,Store,Completed
+4291,441,2025-11-16,Mobile App,Cancelled
+4292,296,2025-10-07,Online,Completed
+4293,130,2025-01-20,Store,Completed
+4294,975,2025-11-06,Mobile App,Returned
+4295,236,2025-12-06,Mobile App,Completed
+4296,999,2025-11-03,Mobile App,Returned
+4297,257,2025-09-17,Store,Returned
+4298,134,2025-06-02,Mobile App,Completed
+4299,867,2025-11-09,Mobile App,Cancelled
+4300,645,2025-02-03,Mobile App,Completed
+4301,291,2025-06-27,Store,Returned
+4302,559,2025-09-17,Store,Completed
+4303,712,2025-12-02,Store,Completed
+4304,366,2025-04-02,Online,Cancelled
+4305,412,2025-08-18,Store,Completed
+4306,201,2025-10-04,Mobile App,Completed
+4307,27,2025-11-12,Store,Completed
+4308,390,2025-02-09,Mobile App,Completed
+4309,737,2025-11-18,Mobile App,Completed
+4310,507,2025-11-09,Mobile App,Completed
+4311,394,2025-10-05,Online,Cancelled
+4312,589,2025-08-12,Mobile App,Completed
+4313,736,2025-03-20,Online,Completed
+4314,529,2025-10-23,Online,Completed
+4315,768,2025-01-20,Mobile App,Cancelled
+4316,326,2025-12-15,Mobile App,Completed
+4317,409,2025-11-26,Online,Returned
+4318,641,2025-05-02,Store,Completed
+4319,713,2025-05-18,Online,Returned
+4320,917,2025-07-04,Store,Completed
+4321,746,2025-11-14,Store,Returned
+4322,468,2025-10-19,Online,Completed
+4323,690,2025-03-05,Online,Completed
+4324,922,2025-10-05,Online,Returned
+4325,351,2025-07-11,Store,Completed
+4326,187,2025-09-26,Store,Completed
+4327,608,2025-07-21,Online,Completed
+4328,362,2025-11-10,Store,Completed
+4329,654,2025-05-07,Mobile App,Completed
+4330,700,2025-09-30,Mobile App,Cancelled
+4331,868,2025-05-18,Store,Completed
+4332,888,2025-04-10,Mobile App,Cancelled
+4333,957,2025-02-22,Store,Completed
+4334,169,2025-05-14,Online,Returned
+4335,697,2025-06-17,Online,Cancelled
+4336,780,2025-06-22,Mobile App,Completed
+4337,183,2025-06-25,Store,Completed
+4338,992,2025-10-22,Online,Completed
+4339,969,2025-10-29,Online,Returned
+4340,228,2025-06-25,Mobile App,Cancelled
+4341,801,2025-12-18,Store,Completed
+4342,229,2025-09-16,Online,Cancelled
+4343,728,2025-07-20,Store,Completed
+4344,27,2025-11-27,Store,Cancelled
+4345,270,2025-07-17,Mobile App,Completed
+4346,17,2025-11-09,Store,Completed
+4347,792,2025-12-15,Store,Completed
+4348,230,2025-01-04,Online,Completed
+4349,644,2025-11-16,Online,Returned
+4350,916,2025-09-20,Mobile App,Completed
+4351,949,2025-02-27,Store,Cancelled
+4352,496,2025-03-26,Online,Completed
+4353,535,2025-12-27,Store,Cancelled
+4354,242,2025-05-18,Online,Completed
+4355,859,2025-07-06,Online,Completed
+4356,315,2025-02-15,Store,Completed
+4357,465,2025-02-25,Store,Completed
+4358,208,2025-02-24,Online,Returned
+4359,178,2025-07-07,Mobile App,Completed
+4360,838,2025-08-03,Store,Returned
+4361,867,2025-09-26,Online,Completed
+4362,818,2025-08-07,Store,Completed
+4363,47,2025-01-09,Mobile App,Completed
+4364,976,2025-03-18,Mobile App,Returned
+4365,822,2025-02-25,Store,Completed
+4366,37,2025-07-01,Online,Completed
+4367,393,2025-11-12,Mobile App,Completed
+4368,713,2025-10-30,Mobile App,Completed
+4369,575,2025-01-31,Mobile App,Returned
+4370,855,2025-03-09,Store,Completed
+4371,279,2025-07-04,Online,Completed
+4372,865,2025-09-21,Mobile App,Cancelled
+4373,878,2025-06-28,Store,Completed
+4374,912,2025-03-12,Store,Cancelled
+4375,829,2025-08-08,Store,Completed
+4376,979,2025-06-16,Mobile App,Cancelled
+4377,426,2025-08-19,Mobile App,Completed
+4378,287,2025-06-02,Online,Completed
+4379,505,2025-12-28,Store,Cancelled
+4380,346,2025-12-09,Store,Cancelled
+4381,648,2025-06-23,Mobile App,Cancelled
+4382,433,2025-07-06,Store,Returned
+4383,862,2025-11-11,Store,Completed
+4384,515,2025-03-07,Store,Cancelled
+4385,933,2025-03-02,Online,Returned
+4386,439,2025-06-20,Online,Completed
+4387,955,2025-01-04,Online,Completed
+4388,160,2025-06-07,Store,Returned
+4389,236,2025-10-28,Mobile App,Completed
+4390,75,2025-05-02,Online,Returned
+4391,899,2025-03-01,Store,Completed
+4392,71,2025-04-17,Online,Completed
+4393,349,2025-09-04,Online,Cancelled
+4394,209,2025-11-21,Mobile App,Completed
+4395,569,2025-04-04,Mobile App,Completed
+4396,291,2025-06-05,Store,Cancelled
+4397,538,2025-11-12,Store,Completed
+4398,601,2025-11-14,Mobile App,Completed
+4399,148,2025-09-13,Mobile App,Completed
+4400,434,2025-08-18,Mobile App,Completed
+4401,737,2025-05-30,Mobile App,Completed
+4402,154,2025-01-04,Online,Completed
+4403,867,2025-09-21,Mobile App,Returned
+4404,172,2025-07-08,Store,Completed
+4405,973,2025-02-05,Mobile App,Completed
+4406,825,2025-03-30,Mobile App,Cancelled
+4407,828,2025-02-24,Mobile App,Completed
+4408,195,2025-02-02,Online,Completed
+4409,622,2025-03-15,Mobile App,Completed
+4410,642,2025-06-06,Mobile App,Completed
+4411,61,2025-07-13,Mobile App,Completed
+4412,907,2025-02-16,Mobile App,Completed
+4413,426,2025-05-15,Store,Completed
+4414,209,2025-10-11,Store,Completed
+4415,25,2025-09-30,Online,Completed
+4416,414,2025-09-23,Mobile App,Completed
+4417,682,2025-08-22,Online,Completed
+4418,922,2025-06-29,Store,Completed
+4419,329,2025-05-14,Mobile App,Completed
+4420,576,2025-11-18,Store,Completed
+4421,139,2025-07-14,Online,Cancelled
+4422,965,2025-01-17,Store,Completed
+4423,634,2025-02-16,Mobile App,Returned
+4424,760,2025-08-21,Store,Returned
+4425,568,2025-05-04,Mobile App,Completed
+4426,402,2025-01-28,Mobile App,Completed
+4427,736,2025-08-14,Online,Returned
+4428,481,2025-03-31,Online,Completed
+4429,704,2025-04-21,Online,Completed
+4430,807,2025-04-22,Mobile App,Returned
+4431,597,2025-04-06,Online,Completed
+4432,187,2025-03-30,Online,Cancelled
+4433,979,2025-10-18,Mobile App,Completed
+4434,759,2025-07-30,Online,Completed
+4435,751,2025-08-07,Store,Returned
+4436,875,2025-10-27,Online,Returned
+4437,311,2025-05-01,Mobile App,Cancelled
+4438,148,2025-05-02,Online,Completed
+4439,669,2025-07-06,Mobile App,Completed
+4440,809,2025-10-23,Mobile App,Completed
+4441,328,2025-10-12,Store,Completed
+4442,428,2025-03-04,Store,Returned
+4443,661,2025-08-26,Mobile App,Returned
+4444,904,2025-09-10,Online,Completed
+4445,828,2025-07-21,Store,Completed
+4446,965,2025-01-11,Mobile App,Completed
+4447,268,2025-05-10,Mobile App,Completed
+4448,626,2025-03-01,Online,Completed
+4449,619,2025-10-26,Store,Completed
+4450,192,2025-10-20,Online,Completed
+4451,72,2025-03-24,Online,Completed
+4452,253,2025-12-08,Mobile App,Completed
+4453,778,2025-09-27,Store,Returned
+4454,116,2025-04-20,Store,Returned
+4455,917,2025-06-17,Online,Cancelled
+4456,975,2025-10-13,Mobile App,Completed
+4457,134,2025-03-18,Online,Returned
+4458,771,2025-02-20,Online,Completed
+4459,407,2025-01-28,Mobile App,Completed
+4460,178,2025-01-20,Online,Completed
+4461,780,2025-10-11,Store,Cancelled
+4462,831,2025-12-18,Store,Cancelled
+4463,516,2025-09-17,Mobile App,Completed
+4464,358,2025-12-17,Online,Returned
+4465,758,2025-12-27,Store,Returned
+4466,527,2025-07-02,Online,Completed
+4467,653,2025-10-01,Store,Completed
+4468,818,2025-01-21,Online,Completed
+4469,285,2025-06-04,Online,Completed
+4470,661,2025-02-11,Mobile App,Cancelled
+4471,329,2025-02-26,Store,Completed
+4472,356,2025-03-25,Online,Returned
+4473,585,2025-02-17,Online,Completed
+4474,659,2025-10-23,Online,Returned
+4475,965,2025-10-28,Mobile App,Completed
+4476,680,2025-01-13,Online,Completed
+4477,204,2025-09-02,Store,Returned
+4478,889,2025-09-19,Online,Completed
+4479,627,2025-04-11,Online,Cancelled
+4480,426,2025-08-29,Online,Completed
+4481,704,2025-10-31,Store,Completed
+4482,624,2025-02-28,Online,Completed
+4483,50,2025-11-21,Online,Returned
+4484,156,2025-03-01,Online,Completed
+4485,121,2025-12-18,Mobile App,Completed
+4486,420,2025-08-27,Mobile App,Completed
+4487,55,2025-02-28,Mobile App,Returned
+4488,690,2025-02-15,Online,Completed
+4489,392,2025-07-26,Online,Completed
+4490,936,2025-04-03,Online,Completed
+4491,633,2025-01-17,Store,Completed
+4492,741,2025-06-25,Mobile App,Returned
+4493,948,2025-09-28,Store,Completed
+4494,203,2025-11-15,Mobile App,Returned
+4495,220,2025-01-19,Store,Cancelled
+4496,198,2025-08-09,Store,Completed
+4497,214,2025-10-02,Online,Returned
+4498,184,2025-08-22,Mobile App,Returned
+4499,831,2025-06-04,Mobile App,Completed
+4500,154,2025-05-25,Online,Completed
+4501,93,2025-05-26,Online,Cancelled
+4502,700,2025-07-22,Mobile App,Cancelled
+4503,144,2025-06-22,Online,Cancelled
+4504,681,2025-06-17,Online,Completed
+4505,611,2025-05-27,Store,Completed
+4506,18,2025-10-30,Online,Returned
+4507,868,2025-07-07,Store,Returned
+4508,390,2025-02-03,Mobile App,Returned
+4509,671,2025-01-01,Online,Returned
+4510,683,2025-10-19,Mobile App,Completed
+4511,132,2025-12-22,Mobile App,Completed
+4512,844,2025-01-09,Online,Completed
+4513,993,2025-08-21,Online,Completed
+4514,283,2025-04-08,Store,Completed
+4515,563,2025-06-17,Mobile App,Completed
+4516,397,2025-06-07,Online,Completed
+4517,867,2025-01-14,Store,Completed
+4518,910,2025-03-21,Online,Completed
+4519,494,2025-01-28,Store,Completed
+4520,371,2025-11-11,Online,Completed
+4521,237,2025-10-13,Store,Completed
+4522,62,2025-03-27,Mobile App,Cancelled
+4523,63,2025-08-15,Mobile App,Returned
+4524,988,2025-02-13,Store,Completed
+4525,883,2025-10-30,Online,Completed
+4526,234,2025-03-08,Online,Completed
+4527,544,2025-11-29,Online,Completed
+4528,328,2025-05-14,Online,Returned
+4529,647,2025-11-25,Online,Completed
+4530,719,2025-12-30,Store,Completed
+4531,256,2025-01-31,Online,Completed
+4532,631,2025-07-05,Store,Completed
+4533,578,2025-11-24,Store,Completed
+4534,434,2025-06-07,Mobile App,Completed
+4535,380,2025-08-15,Mobile App,Returned
+4536,798,2025-06-28,Store,Completed
+4537,436,2025-03-30,Online,Completed
+4538,492,2025-02-24,Online,Completed
+4539,473,2025-08-11,Online,Completed
+4540,46,2025-10-12,Online,Completed
+4541,817,2025-09-21,Online,Completed
+4542,213,2025-01-14,Mobile App,Completed
+4543,568,2025-04-28,Online,Completed
+4544,409,2025-05-22,Online,Completed
+4545,166,2025-08-05,Mobile App,Completed
+4546,558,2025-01-07,Mobile App,Completed
+4547,832,2025-12-10,Store,Completed
+4548,110,2025-03-17,Mobile App,Completed
+4549,890,2025-02-25,Store,Returned
+4550,63,2025-08-26,Online,Completed
+4551,521,2025-01-22,Store,Completed
+4552,105,2025-05-07,Online,Completed
+4553,730,2025-04-28,Store,Completed
+4554,993,2025-01-25,Store,Completed
+4555,994,2025-09-29,Store,Completed
+4556,308,2025-04-13,Store,Completed
+4557,117,2025-12-27,Online,Completed
+4558,18,2025-10-17,Store,Completed
+4559,358,2025-09-30,Mobile App,Returned
+4560,364,2025-08-17,Store,Returned
+4561,440,2025-11-02,Store,Completed
+4562,31,2025-04-15,Online,Cancelled
+4563,6,2025-06-20,Online,Returned
+4564,823,2025-04-13,Mobile App,Completed
+4565,161,2025-08-14,Store,Completed
+4566,911,2025-07-21,Store,Completed
+4567,81,2025-06-30,Mobile App,Completed
+4568,538,2025-05-04,Online,Returned
+4569,875,2025-09-01,Online,Completed
+4570,59,2025-05-17,Store,Completed
+4571,436,2025-02-21,Store,Completed
+4572,642,2025-10-29,Online,Completed
+4573,815,2025-03-01,Online,Completed
+4574,603,2025-09-06,Mobile App,Completed
+4575,128,2025-05-10,Online,Completed
+4576,767,2025-12-02,Store,Cancelled
+4577,242,2025-10-06,Mobile App,Completed
+4578,841,2025-10-16,Mobile App,Returned
+4579,647,2025-12-23,Store,Cancelled
+4580,4,2025-06-11,Online,Returned
+4581,725,2025-02-03,Store,Completed
+4582,44,2025-05-11,Mobile App,Cancelled
+4583,514,2025-01-20,Mobile App,Completed
+4584,663,2025-11-03,Store,Completed
+4585,803,2025-11-07,Mobile App,Completed
+4586,655,2025-04-25,Mobile App,Completed
+4587,204,2025-08-26,Mobile App,Completed
+4588,702,2025-03-03,Store,Completed
+4589,618,2025-10-12,Mobile App,Completed
+4590,105,2025-07-30,Store,Completed
+4591,153,2025-04-21,Store,Completed
+4592,976,2025-01-26,Store,Completed
+4593,585,2025-05-17,Online,Completed
+4594,851,2025-03-31,Store,Completed
+4595,188,2025-04-18,Mobile App,Returned
+4596,991,2025-09-21,Mobile App,Cancelled
+4597,610,2025-05-29,Mobile App,Cancelled
+4598,934,2025-02-28,Mobile App,Completed
+4599,827,2025-01-08,Online,Returned
+4600,843,2025-05-16,Online,Completed
+4601,869,2025-12-05,Online,Completed
+4602,220,2025-08-28,Online,Cancelled
+4603,472,2025-10-04,Online,Completed
+4604,92,2025-07-30,Online,Completed
+4605,677,2025-12-07,Mobile App,Completed
+4606,646,2025-12-05,Mobile App,Completed
+4607,98,2025-10-07,Online,Completed
+4608,379,2025-12-17,Mobile App,Cancelled
+4609,586,2025-09-20,Mobile App,Cancelled
+4610,907,2025-10-27,Store,Completed
+4611,919,2025-02-27,Online,Completed
+4612,986,2025-01-12,Mobile App,Cancelled
+4613,516,2025-11-17,Mobile App,Completed
+4614,951,2025-12-05,Mobile App,Completed
+4615,835,2025-02-06,Mobile App,Completed
+4616,916,2025-05-14,Store,Cancelled
+4617,142,2025-03-24,Online,Completed
+4618,970,2025-07-02,Mobile App,Cancelled
+4619,756,2025-04-30,Mobile App,Completed
+4620,996,2025-09-17,Store,Completed
+4621,955,2025-01-06,Mobile App,Completed
+4622,64,2025-01-14,Store,Cancelled
+4623,48,2025-08-03,Store,Completed
+4624,485,2025-12-08,Online,Completed
+4625,863,2025-04-07,Store,Cancelled
+4626,88,2025-06-03,Mobile App,Completed
+4627,94,2025-11-28,Mobile App,Completed
+4628,957,2025-03-22,Mobile App,Completed
+4629,691,2025-10-30,Store,Completed
+4630,615,2025-12-10,Store,Cancelled
+4631,926,2025-09-16,Online,Completed
+4632,744,2025-07-20,Mobile App,Returned
+4633,953,2025-09-02,Mobile App,Returned
+4634,52,2025-05-17,Online,Cancelled
+4635,364,2025-04-28,Mobile App,Completed
+4636,265,2025-02-15,Mobile App,Completed
+4637,116,2025-07-01,Store,Completed
+4638,507,2025-10-10,Mobile App,Completed
+4639,182,2025-09-07,Store,Returned
+4640,916,2025-12-20,Mobile App,Cancelled
+4641,230,2025-06-20,Mobile App,Completed
+4642,363,2025-02-24,Store,Cancelled
+4643,818,2025-12-04,Mobile App,Returned
+4644,408,2025-04-04,Store,Returned
+4645,47,2025-11-06,Store,Returned
+4646,656,2025-05-25,Mobile App,Completed
+4647,393,2025-10-07,Online,Returned
+4648,272,2025-11-10,Store,Completed
+4649,273,2025-08-20,Mobile App,Completed
+4650,156,2025-02-03,Store,Completed
+4651,157,2025-10-15,Store,Completed
+4652,396,2025-03-14,Online,Completed
+4653,594,2025-05-05,Mobile App,Completed
+4654,282,2025-10-05,Mobile App,Completed
+4655,1,2025-09-15,Mobile App,Completed
+4656,273,2025-10-01,Store,Cancelled
+4657,714,2025-09-14,Online,Cancelled
+4658,43,2025-08-12,Online,Completed
+4659,405,2025-09-03,Online,Cancelled
+4660,456,2025-11-05,Mobile App,Completed
+4661,436,2025-01-12,Mobile App,Completed
+4662,92,2025-06-03,Online,Completed
+4663,850,2025-02-27,Mobile App,Returned
+4664,255,2025-07-03,Mobile App,Cancelled
+4665,656,2025-03-25,Online,Returned
+4666,418,2025-02-25,Online,Completed
+4667,487,2025-07-28,Online,Completed
+4668,192,2025-05-08,Online,Completed
+4669,329,2025-10-12,Mobile App,Completed
+4670,411,2025-06-20,Mobile App,Completed
+4671,932,2025-03-26,Store,Completed
+4672,769,2025-06-04,Store,Completed
+4673,269,2025-03-05,Mobile App,Completed
+4674,440,2025-06-12,Mobile App,Completed
+4675,894,2025-04-09,Mobile App,Completed
+4676,281,2025-01-15,Mobile App,Completed
+4677,412,2025-02-02,Store,Returned
+4678,496,2025-02-03,Mobile App,Completed
+4679,717,2025-05-13,Mobile App,Cancelled
+4680,587,2025-10-07,Mobile App,Completed
+4681,560,2025-10-05,Mobile App,Completed
+4682,888,2025-07-25,Store,Cancelled
+4683,149,2025-02-19,Store,Completed
+4684,454,2025-05-19,Store,Cancelled
+4685,869,2025-02-23,Online,Completed
+4686,638,2025-04-05,Store,Returned
+4687,386,2025-05-16,Mobile App,Completed
+4688,632,2025-12-06,Mobile App,Cancelled
+4689,825,2025-05-08,Mobile App,Cancelled
+4690,406,2025-12-23,Mobile App,Cancelled
+4691,451,2025-06-09,Mobile App,Completed
+4692,581,2025-06-09,Mobile App,Completed
+4693,336,2025-06-24,Mobile App,Completed
+4694,322,2025-12-04,Online,Completed
+4695,128,2025-11-11,Online,Returned
+4696,614,2025-12-14,Online,Completed
+4697,866,2025-12-18,Store,Completed
+4698,253,2025-12-23,Store,Returned
+4699,46,2025-06-29,Online,Completed
+4700,486,2025-02-10,Store,Returned
+4701,746,2025-02-01,Online,Cancelled
+4702,551,2025-10-12,Store,Completed
+4703,432,2025-06-10,Online,Completed
+4704,1000,2025-12-30,Mobile App,Completed
+4705,103,2025-09-21,Mobile App,Completed
+4706,336,2025-07-10,Mobile App,Completed
+4707,389,2025-09-06,Online,Completed
+4708,26,2025-11-01,Mobile App,Returned
+4709,587,2025-06-04,Online,Completed
+4710,544,2025-10-25,Store,Completed
+4711,49,2025-05-31,Store,Completed
+4712,699,2025-05-21,Mobile App,Cancelled
+4713,629,2025-08-11,Store,Completed
+4714,421,2025-01-26,Store,Completed
+4715,269,2025-03-24,Online,Completed
+4716,323,2025-08-05,Store,Completed
+4717,775,2025-08-15,Store,Cancelled
+4718,914,2025-01-15,Mobile App,Completed
+4719,802,2025-06-07,Store,Completed
+4720,197,2025-09-17,Mobile App,Completed
+4721,436,2025-03-08,Online,Completed
+4722,265,2025-07-27,Store,Completed
+4723,875,2025-11-21,Online,Completed
+4724,345,2025-12-25,Store,Completed
+4725,112,2025-07-23,Mobile App,Completed
+4726,619,2025-11-08,Store,Completed
+4727,948,2025-01-28,Online,Returned
+4728,955,2025-12-12,Store,Completed
+4729,877,2025-04-06,Online,Completed
+4730,156,2025-05-31,Online,Completed
+4731,439,2025-09-02,Mobile App,Returned
+4732,486,2025-06-09,Store,Completed
+4733,783,2025-06-11,Mobile App,Completed
+4734,400,2025-01-15,Online,Completed
+4735,182,2025-05-24,Mobile App,Completed
+4736,95,2025-07-10,Mobile App,Completed
+4737,547,2025-09-22,Mobile App,Completed
+4738,62,2025-01-04,Mobile App,Completed
+4739,111,2025-08-31,Mobile App,Cancelled
+4740,406,2025-09-04,Mobile App,Completed
+4741,573,2025-03-07,Online,Completed
+4742,178,2025-10-23,Mobile App,Completed
+4743,455,2025-01-07,Store,Completed
+4744,139,2025-07-29,Store,Completed
+4745,654,2025-08-06,Online,Completed
+4746,748,2025-02-26,Online,Completed
+4747,209,2025-09-28,Store,Completed
+4748,754,2025-09-03,Store,Completed
+4749,441,2025-06-27,Mobile App,Cancelled
+4750,748,2025-07-17,Mobile App,Completed
+4751,473,2025-10-11,Store,Returned
+4752,173,2025-07-08,Store,Cancelled
+4753,180,2025-06-08,Online,Completed
+4754,688,2025-10-13,Mobile App,Completed
+4755,516,2025-06-16,Store,Completed
+4756,817,2025-05-18,Online,Completed
+4757,693,2025-08-08,Store,Completed
+4758,669,2025-07-08,Store,Returned
+4759,479,2025-06-23,Mobile App,Completed
+4760,891,2025-04-11,Online,Completed
+4761,144,2025-04-10,Online,Returned
+4762,459,2025-05-27,Mobile App,Cancelled
+4763,784,2025-09-09,Mobile App,Cancelled
+4764,752,2025-02-13,Store,Completed
+4765,923,2025-07-23,Online,Completed
+4766,681,2025-05-31,Mobile App,Returned
+4767,695,2025-03-27,Store,Completed
+4768,32,2025-04-09,Mobile App,Cancelled
+4769,389,2025-12-17,Online,Completed
+4770,920,2025-09-01,Store,Returned
+4771,13,2025-12-02,Mobile App,Completed
+4772,821,2025-02-04,Mobile App,Completed
+4773,986,2025-05-07,Online,Completed
+4774,337,2025-11-22,Online,Completed
+4775,396,2025-11-08,Online,Completed
+4776,737,2025-10-07,Mobile App,Completed
+4777,274,2025-11-16,Online,Completed
+4778,869,2025-04-28,Store,Completed
+4779,37,2025-12-25,Mobile App,Returned
+4780,107,2025-09-21,Online,Returned
+4781,894,2025-07-22,Store,Completed
+4782,518,2025-05-27,Mobile App,Completed
+4783,863,2025-08-06,Store,Completed
+4784,286,2025-05-11,Store,Returned
+4785,979,2025-07-04,Store,Completed
+4786,438,2025-01-28,Mobile App,Completed
+4787,840,2025-10-01,Store,Returned
+4788,68,2025-09-01,Mobile App,Cancelled
+4789,223,2025-08-19,Mobile App,Cancelled
+4790,110,2025-01-08,Mobile App,Returned
+4791,667,2025-12-09,Store,Completed
+4792,660,2025-11-02,Online,Completed
+4793,550,2025-08-22,Mobile App,Cancelled
+4794,677,2025-05-11,Mobile App,Returned
+4795,396,2025-11-15,Mobile App,Cancelled
+4796,436,2025-10-28,Mobile App,Cancelled
+4797,796,2025-03-21,Mobile App,Cancelled
+4798,63,2025-06-06,Store,Completed
+4799,593,2025-12-26,Online,Completed
+4800,108,2025-05-21,Store,Returned
+4801,141,2025-05-10,Store,Completed
+4802,38,2025-02-15,Mobile App,Cancelled
+4803,554,2025-07-15,Mobile App,Completed
+4804,180,2025-05-18,Online,Completed
+4805,852,2025-10-13,Mobile App,Completed
+4806,607,2025-08-19,Online,Cancelled
+4807,242,2025-05-02,Mobile App,Completed
+4808,155,2025-02-27,Mobile App,Returned
+4809,563,2025-09-13,Online,Completed
+4810,943,2025-03-22,Mobile App,Completed
+4811,177,2025-09-22,Mobile App,Completed
+4812,729,2025-10-23,Mobile App,Completed
+4813,172,2025-03-16,Online,Completed
+4814,836,2025-03-01,Online,Completed
+4815,236,2025-03-31,Online,Completed
+4816,65,2025-12-21,Mobile App,Completed
+4817,473,2025-08-11,Store,Completed
+4818,47,2025-01-16,Mobile App,Returned
+4819,612,2025-12-10,Mobile App,Returned
+4820,493,2025-07-17,Online,Completed
+4821,561,2025-02-12,Store,Completed
+4822,382,2025-07-16,Online,Completed
+4823,64,2025-05-01,Mobile App,Completed
+4824,951,2025-06-13,Mobile App,Completed
+4825,657,2025-02-13,Mobile App,Cancelled
+4826,774,2025-01-25,Store,Completed
+4827,432,2025-10-09,Mobile App,Completed
+4828,200,2025-06-11,Store,Completed
+4829,888,2025-10-29,Store,Returned
+4830,810,2025-02-20,Online,Completed
+4831,204,2025-01-09,Store,Completed
+4832,938,2025-04-04,Online,Completed
+4833,837,2025-05-23,Store,Returned
+4834,603,2025-07-14,Store,Completed
+4835,340,2025-01-11,Mobile App,Completed
+4836,447,2025-08-10,Mobile App,Completed
+4837,433,2025-05-18,Online,Completed
+4838,14,2025-11-28,Store,Completed
+4839,307,2025-02-14,Mobile App,Completed
+4840,721,2025-04-26,Store,Completed
+4841,828,2025-08-17,Mobile App,Completed
+4842,103,2025-07-24,Mobile App,Cancelled
+4843,276,2025-11-13,Store,Completed
+4844,536,2025-11-11,Online,Completed
+4845,792,2025-10-15,Online,Completed
+4846,430,2025-10-08,Online,Completed
+4847,568,2025-03-14,Store,Cancelled
+4848,744,2025-10-18,Mobile App,Cancelled
+4849,415,2025-03-23,Store,Cancelled
+4850,471,2025-01-08,Mobile App,Completed
+4851,553,2025-08-10,Mobile App,Cancelled
+4852,533,2025-11-22,Mobile App,Completed
+4853,484,2025-09-28,Mobile App,Returned
+4854,657,2025-09-06,Mobile App,Completed
+4855,373,2025-01-16,Store,Cancelled
+4856,440,2025-04-03,Store,Completed
+4857,865,2025-02-09,Mobile App,Completed
+4858,919,2025-07-13,Online,Returned
+4859,609,2025-05-02,Online,Completed
+4860,966,2025-02-14,Online,Completed
+4861,903,2025-12-26,Store,Completed
+4862,870,2025-11-20,Mobile App,Cancelled
+4863,573,2025-04-06,Store,Completed
+4864,310,2025-02-10,Mobile App,Completed
+4865,780,2025-10-20,Store,Completed
+4866,964,2025-02-07,Store,Completed
+4867,344,2025-09-19,Store,Completed
+4868,472,2025-09-07,Store,Completed
+4869,724,2025-02-16,Mobile App,Returned
+4870,142,2025-09-07,Store,Completed
+4871,617,2025-04-05,Online,Completed
+4872,555,2025-12-11,Mobile App,Cancelled
+4873,149,2025-05-24,Online,Cancelled
+4874,730,2025-10-31,Store,Completed
+4875,447,2025-05-17,Online,Completed
+4876,145,2025-11-05,Store,Completed
+4877,525,2025-10-28,Online,Completed
+4878,55,2025-12-29,Store,Returned
+4879,749,2025-07-07,Store,Completed
+4880,108,2025-10-11,Store,Returned
+4881,301,2025-07-10,Store,Completed
+4882,327,2025-08-11,Mobile App,Completed
+4883,3,2025-10-23,Online,Completed
+4884,865,2025-07-07,Store,Completed
+4885,728,2025-10-22,Online,Returned
+4886,51,2025-02-02,Mobile App,Completed
+4887,225,2025-12-27,Store,Completed
+4888,282,2025-01-28,Store,Completed
+4889,217,2025-03-11,Store,Completed
+4890,182,2025-09-15,Online,Cancelled
+4891,626,2025-06-17,Mobile App,Completed
+4892,6,2025-01-30,Online,Completed
+4893,533,2025-11-30,Mobile App,Completed
+4894,165,2025-12-19,Store,Returned
+4895,464,2025-05-04,Online,Completed
+4896,430,2025-02-07,Store,Cancelled
+4897,947,2025-07-11,Online,Completed
+4898,68,2025-01-31,Store,Cancelled
+4899,657,2025-12-24,Online,Completed
+4900,119,2025-10-22,Store,Completed
+4901,626,2025-04-02,Store,Completed
+4902,836,2025-12-03,Online,Completed
+4903,191,2025-08-07,Online,Returned
+4904,902,2025-01-23,Mobile App,Completed
+4905,233,2025-08-14,Online,Cancelled
+4906,140,2025-04-13,Online,Completed
+4907,474,2025-02-06,Store,Cancelled
+4908,322,2025-12-15,Online,Completed
+4909,980,2025-09-05,Store,Returned
+4910,850,2025-12-01,Online,Cancelled
+4911,588,2025-06-09,Mobile App,Returned
+4912,336,2025-12-24,Store,Completed
+4913,831,2025-11-27,Online,Cancelled
+4914,535,2025-08-28,Store,Cancelled
+4915,569,2025-10-21,Online,Completed
+4916,353,2025-03-09,Mobile App,Completed
+4917,286,2025-08-30,Online,Completed
+4918,857,2025-02-15,Mobile App,Returned
+4919,528,2025-03-14,Store,Completed
+4920,825,2025-06-09,Mobile App,Completed
+4921,219,2025-02-06,Online,Completed
+4922,341,2025-01-24,Online,Completed
+4923,794,2025-10-15,Mobile App,Cancelled
+4924,413,2025-04-24,Mobile App,Completed
+4925,71,2025-08-28,Store,Completed
+4926,995,2025-07-04,Store,Completed
+4927,537,2025-05-04,Store,Completed
+4928,431,2025-09-29,Online,Completed
+4929,883,2025-05-20,Mobile App,Completed
+4930,40,2025-08-08,Store,Completed
+4931,603,2025-10-08,Online,Returned
+4932,258,2025-06-03,Mobile App,Cancelled
+4933,200,2025-10-08,Store,Completed
+4934,326,2025-04-27,Store,Returned
+4935,993,2025-06-02,Store,Completed
+4936,554,2025-01-25,Store,Completed
+4937,55,2025-08-17,Store,Completed
+4938,722,2025-01-26,Store,Completed
+4939,460,2025-11-14,Store,Completed
+4940,82,2025-07-06,Store,Completed
+4941,211,2025-10-17,Online,Returned
+4942,845,2025-01-05,Mobile App,Completed
+4943,554,2025-06-20,Store,Completed
+4944,44,2025-09-10,Mobile App,Returned
+4945,317,2025-01-15,Mobile App,Cancelled
+4946,105,2025-04-30,Online,Completed
+4947,103,2025-08-25,Mobile App,Completed
+4948,98,2025-11-04,Mobile App,Completed
+4949,146,2025-06-18,Store,Returned
+4950,966,2025-08-16,Mobile App,Completed
+4951,56,2025-12-18,Mobile App,Completed
+4952,173,2025-11-21,Online,Completed
+4953,735,2025-11-14,Store,Completed
+4954,323,2025-05-18,Mobile App,Completed
+4955,699,2025-04-01,Online,Completed
+4956,683,2025-03-11,Online,Completed
+4957,923,2025-06-10,Mobile App,Completed
+4958,893,2025-01-31,Online,Completed
+4959,881,2025-08-02,Mobile App,Completed
+4960,81,2025-06-13,Online,Completed
+4961,220,2025-04-04,Store,Returned
+4962,703,2025-12-18,Mobile App,Completed
+4963,451,2025-11-21,Mobile App,Completed
+4964,33,2025-08-13,Store,Completed
+4965,979,2025-09-10,Online,Completed
+4966,722,2025-04-08,Online,Completed
+4967,610,2025-10-09,Online,Completed
+4968,726,2025-10-30,Mobile App,Completed
+4969,660,2025-01-15,Online,Returned
+4970,770,2025-02-03,Online,Completed
+4971,403,2025-05-28,Mobile App,Cancelled
+4972,222,2025-06-05,Mobile App,Completed
+4973,209,2025-12-20,Mobile App,Completed
+4974,4,2025-05-23,Store,Completed
+4975,961,2025-01-17,Online,Completed
+4976,47,2025-09-17,Mobile App,Returned
+4977,996,2025-05-26,Online,Completed
+4978,556,2025-06-03,Mobile App,Cancelled
+4979,932,2025-02-18,Online,Returned
+4980,345,2025-11-12,Mobile App,Completed
+4981,983,2025-10-07,Store,Completed
+4982,779,2025-05-05,Store,Returned
+4983,581,2025-06-24,Online,Completed
+4984,371,2025-07-18,Online,Completed
+4985,61,2025-07-28,Store,Cancelled
+4986,964,2025-10-23,Online,Returned
+4987,20,2025-07-23,Mobile App,Completed
+4988,966,2025-10-08,Online,Completed
+4989,560,2025-07-18,Mobile App,Completed
+4990,489,2025-05-15,Online,Returned
+4991,917,2025-05-04,Store,Cancelled
+4992,274,2025-12-22,Mobile App,Completed
+4993,734,2025-04-22,Mobile App,Completed
+4994,584,2025-05-28,Store,Cancelled
+4995,716,2025-07-11,Online,Completed
+4996,3,2025-07-21,Store,Completed
+4997,387,2025-03-22,Store,Completed
+4998,9,2025-04-22,Online,Returned
+4999,357,2025-01-06,Online,Completed
+5000,218,2025-07-14,Store,Completed

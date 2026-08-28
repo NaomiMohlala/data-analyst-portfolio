@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_cost,unit_price
+1,Laptop,Electronics,2624,3200.3
+2,Monitor,Electronics,6467,8571.39
+3,Keyboard,Electronics,4133,6309.72
+4,Mouse,Electronics,7340,10822.43
+5,Headphones,Electronics,2230,3183.48
+6,Webcam,Electronics,2875,3431.11
+7,SSD,Electronics,5926,9389.0
+8,Tablet,Electronics,5408,8578.13
+9,Smartphone,Electronics,7734,12670.16
+10,Router,Electronics,8936,14470.81
+11,Desk,Office,7368,9162.14
+12,Office Chair,Office,8915,11261.49
+13,Desk Lamp,Office,7560,11163.04
+14,Printer,Office,7206,10275.94
+15,Notebook,Office,8825,11697.9
+16,Stapler,Office,5768,8111.98
+17,Whiteboard,Office,3801,5922.77
+18,Filing Cabinet,Office,7319,9695.47
+19,Paper Pack,Office,6833,8897.31
+20,Calculator,Office,5053,5987.61
+21,USB-C Hub,Accessories,8654,13528.18
+22,HDMI Cable,Accessories,2313,3103.18
+23,Laptop Stand,Accessories,7767,11118.43
+24,Mouse Pad,Accessories,8139,13226.44
+25,Backpack,Accessories,7896,10429.17
+26,Phone Stand,Accessories,7132,11090.57
+27,Power Bank,Accessories,3868,6012.73
+28,Adapter,Accessories,6201,7866.76
+29,Cable Organizer,Accessories,7241,9887.83
+30,Cleaning Kit,Accessories,2755,4176.64

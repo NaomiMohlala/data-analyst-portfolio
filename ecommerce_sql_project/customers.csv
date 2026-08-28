@@ -1,0 +1,1001 @@
+customer_id,customer_name,region,signup_date,customer_segment
+1,Thabo Mahlangu,Eastern Cape,2023-08-17,Consumer
+2,Tshepo Pillay,Western Cape,2023-07-29,Small Business
+3,Thabo Dlamini,Eastern Cape,2023-03-07,Consumer
+4,Zanele Mthembu,Free State,2023-02-24,Consumer
+5,Sibusiso Mokoena,KwaZulu-Natal,2024-07-23,Small Business
+6,Kagiso Naidoo,Eastern Cape,2024-11-27,Corporate
+7,Lerato Dlamini,Free State,2024-11-20,Consumer
+8,Karabo Mahlangu,Gauteng,2024-12-05,Small Business
+9,Lerato Ndlovu,Western Cape,2026-01-03,Small Business
+10,Karabo Mthembu,Western Cape,2025-01-10,Consumer
+11,Sibusiso Mahlangu,Western Cape,2024-04-11,Corporate
+12,Mpho Mahlangu,North West,2023-07-26,Small Business
+13,Sipho Molefe,Mpumalanga,2025-01-17,Consumer
+14,Nokuthula Dlamini,KwaZulu-Natal,2024-06-30,Consumer
+15,Sipho Jacobs,Free State,2024-05-16,Consumer
+16,Tshepo Molefe,Gauteng,2024-03-25,Consumer
+17,Sibusiso Molefe,Free State,2023-03-07,Consumer
+18,Boitumelo Mkhize,Mpumalanga,2024-03-08,Consumer
+19,Mpho Jacobs,KwaZulu-Natal,2025-10-19,Consumer
+20,Nokuthula Pillay,Limpopo,2024-05-20,Small Business
+21,Boitumelo Mkhize,Free State,2025-05-27,Consumer
+22,Zanele Jacobs,Western Cape,2023-10-11,Small Business
+23,Sipho Naidoo,Free State,2023-08-13,Small Business
+24,Mpho Mkhize,North West,2025-02-27,Consumer
+25,Tshepo Dlamini,Limpopo,2023-01-24,Small Business
+26,Lerato Mahlangu,Free State,2024-11-27,Consumer
+27,Nokuthula Mahlangu,KwaZulu-Natal,2023-01-07,Consumer
+28,Palesa Mahlangu,Eastern Cape,2023-08-06,Consumer
+29,Zanele Pillay,Gauteng,2023-11-27,Small Business
+30,Thabo Dlamini,Mpumalanga,2025-09-27,Corporate
+31,Nomsa Mokoena,Eastern Cape,2024-09-21,Corporate
+32,Lerato Jacobs,Western Cape,2023-06-11,Corporate
+33,Sibusiso Naidoo,KwaZulu-Natal,2025-12-26,Small Business
+34,Kagiso Pillay,Free State,2023-12-05,Corporate
+35,Nokuthula Mahlangu,Free State,2024-02-16,Corporate
+36,Anele Pillay,North West,2025-02-03,Consumer
+37,Lerato Molefe,Gauteng,2024-04-05,Small Business
+38,Karabo Mthembu,Gauteng,2024-04-16,Consumer
+39,Nomsa Dlamini,Gauteng,2023-05-01,Corporate
+40,Zanele Mthembu,Limpopo,2023-05-26,Small Business
+41,Zanele Naidoo,North West,2024-03-14,Consumer
+42,Sibusiso Ndlovu,Eastern Cape,2025-08-26,Consumer
+43,Naledi Ndlovu,Free State,2025-06-01,Consumer
+44,Tshepo Dlamini,Gauteng,2023-04-21,Consumer
+45,Sibusiso Dlamini,Eastern Cape,2024-11-25,Consumer
+46,Anele Naidoo,Free State,2026-01-03,Consumer
+47,Nomsa Dlamini,North West,2025-08-05,Small Business
+48,Thabo Pillay,Gauteng,2023-07-20,Corporate
+49,Sipho Ndlovu,North West,2024-04-29,Consumer
+50,Boitumelo Mokoena,KwaZulu-Natal,2025-04-01,Consumer
+51,Kagiso Jacobs,Limpopo,2025-03-10,Consumer
+52,Sipho Mthembu,Limpopo,2025-09-23,Consumer
+53,Karabo Pillay,Gauteng,2023-04-30,Small Business
+54,Thabo Mkhize,North West,2023-04-28,Consumer
+55,Sipho Mokoena,Western Cape,2025-12-23,Corporate
+56,Karabo Dlamini,Eastern Cape,2023-05-21,Consumer
+57,Karabo Mkhize,Gauteng,2024-05-19,Small Business
+58,Tshepo Mkhize,Mpumalanga,2025-05-08,Corporate
+59,Tshepo Molefe,Eastern Cape,2024-02-23,Consumer
+60,Tshepo Mahlangu,North West,2023-09-26,Consumer
+61,Thabo Jacobs,Western Cape,2023-05-29,Consumer
+62,Zanele Mahlangu,KwaZulu-Natal,2024-03-12,Corporate
+63,Boitumelo Mthembu,Mpumalanga,2023-05-21,Consumer
+64,Palesa Pillay,Limpopo,2025-06-16,Small Business
+65,Thabo Pillay,Limpopo,2025-12-19,Corporate
+66,Boitumelo Naidoo,Limpopo,2023-08-01,Consumer
+67,Nokuthula Pillay,KwaZulu-Natal,2023-08-08,Consumer
+68,Nokuthula Molefe,Eastern Cape,2024-03-07,Small Business
+69,Zanele Jacobs,Limpopo,2024-06-24,Corporate
+70,Lerato Ndlovu,Limpopo,2023-04-15,Consumer
+71,Sibusiso Naidoo,Limpopo,2024-11-14,Consumer
+72,Zanele Ndlovu,Gauteng,2025-06-23,Consumer
+73,Zanele Mokoena,Mpumalanga,2023-11-02,Small Business
+74,Mpho Naidoo,Gauteng,2023-10-31,Consumer
+75,Boitumelo Molefe,Eastern Cape,2023-03-23,Small Business
+76,Naledi Pillay,Free State,2023-07-30,Corporate
+77,Boitumelo Mthembu,KwaZulu-Natal,2023-11-13,Corporate
+78,Boitumelo Ndlovu,Gauteng,2023-12-29,Consumer
+79,Sibusiso Ndlovu,Eastern Cape,2024-11-11,Consumer
+80,Mpho Mokoena,North West,2023-08-10,Consumer
+81,Naledi Mahlangu,Eastern Cape,2025-07-31,Consumer
+82,Mpho Molefe,Limpopo,2024-01-31,Corporate
+83,Naledi Pillay,Free State,2024-07-25,Small Business
+84,Naledi Mokoena,Western Cape,2026-01-03,Corporate
+85,Sipho Mkhize,Limpopo,2024-06-18,Consumer
+86,Naledi Molefe,Free State,2025-06-08,Small Business
+87,Lerato Ndlovu,Eastern Cape,2025-11-13,Consumer
+88,Thabo Pillay,Eastern Cape,2025-06-12,Consumer
+89,Tshepo Molefe,Mpumalanga,2023-05-24,Small Business
+90,Nokuthula Mahlangu,Limpopo,2023-09-13,Small Business
+91,Mpho Mahlangu,KwaZulu-Natal,2024-10-30,Consumer
+92,Tshepo Naidoo,Limpopo,2025-02-15,Consumer
+93,Kagiso Mahlangu,Eastern Cape,2023-01-01,Consumer
+94,Anele Jacobs,North West,2024-10-21,Small Business
+95,Anele Naidoo,Western Cape,2025-11-12,Consumer
+96,Lerato Mthembu,Limpopo,2024-11-17,Consumer
+97,Sipho Mokoena,Gauteng,2024-02-12,Consumer
+98,Karabo Dlamini,North West,2025-08-31,Consumer
+99,Nokuthula Ndlovu,North West,2024-02-03,Consumer
+100,Tshepo Mokoena,Western Cape,2023-10-30,Small Business
+101,Sipho Pillay,North West,2024-03-24,Consumer
+102,Boitumelo Dlamini,North West,2024-05-25,Consumer
+103,Tshepo Pillay,Mpumalanga,2025-08-09,Corporate
+104,Karabo Pillay,Free State,2025-06-25,Small Business
+105,Boitumelo Naidoo,North West,2025-07-02,Consumer
+106,Palesa Mahlangu,North West,2024-05-21,Small Business
+107,Anele Dlamini,Limpopo,2024-07-16,Consumer
+108,Naledi Pillay,Western Cape,2024-11-18,Consumer
+109,Mpho Naidoo,Eastern Cape,2024-04-18,Consumer
+110,Naledi Pillay,North West,2025-04-14,Consumer
+111,Palesa Ndlovu,Free State,2024-02-28,Corporate
+112,Palesa Mkhize,Free State,2023-02-10,Consumer
+113,Kagiso Ndlovu,Free State,2024-12-21,Consumer
+114,Anele Mthembu,Limpopo,2024-03-27,Consumer
+115,Mpho Molefe,Free State,2023-03-01,Small Business
+116,Boitumelo Naidoo,Gauteng,2025-08-15,Corporate
+117,Lerato Ndlovu,KwaZulu-Natal,2023-02-25,Corporate
+118,Thabo Mahlangu,Free State,2024-01-08,Consumer
+119,Naledi Molefe,Free State,2025-07-20,Consumer
+120,Kagiso Dlamini,North West,2025-05-13,Consumer
+121,Naledi Mthembu,Western Cape,2023-04-17,Small Business
+122,Sibusiso Mokoena,Eastern Cape,2023-03-24,Consumer
+123,Karabo Naidoo,Eastern Cape,2023-02-11,Consumer
+124,Karabo Mthembu,North West,2023-08-23,Small Business
+125,Sipho Mkhize,Western Cape,2025-01-25,Small Business
+126,Kagiso Dlamini,Gauteng,2023-12-02,Corporate
+127,Mpho Mthembu,Western Cape,2025-02-07,Small Business
+128,Lerato Mahlangu,Western Cape,2024-05-12,Small Business
+129,Naledi Pillay,Free State,2023-03-26,Small Business
+130,Zanele Molefe,Gauteng,2023-05-22,Small Business
+131,Lerato Ndlovu,Mpumalanga,2025-09-30,Small Business
+132,Nokuthula Naidoo,Free State,2025-07-30,Consumer
+133,Tshepo Mahlangu,North West,2025-12-04,Consumer
+134,Naledi Mthembu,Western Cape,2024-07-03,Consumer
+135,Nomsa Jacobs,Free State,2025-07-12,Consumer
+136,Palesa Molefe,KwaZulu-Natal,2025-10-09,Consumer
+137,Sibusiso Mahlangu,Mpumalanga,2024-12-27,Consumer
+138,Zanele Mokoena,Eastern Cape,2024-07-19,Consumer
+139,Anele Pillay,Eastern Cape,2025-04-12,Small Business
+140,Anele Mokoena,Western Cape,2025-10-02,Consumer
+141,Nokuthula Mthembu,Limpopo,2025-04-08,Small Business
+142,Anele Pillay,Mpumalanga,2025-01-25,Consumer
+143,Naledi Jacobs,Limpopo,2024-11-08,Consumer
+144,Lerato Mthembu,Mpumalanga,2024-04-17,Consumer
+145,Sibusiso Naidoo,Eastern Cape,2026-01-02,Consumer
+146,Kagiso Mkhize,Limpopo,2025-09-18,Corporate
+147,Kagiso Mthembu,Mpumalanga,2024-02-02,Consumer
+148,Nokuthula Pillay,KwaZulu-Natal,2023-01-29,Consumer
+149,Zanele Mahlangu,KwaZulu-Natal,2023-04-22,Small Business
+150,Lerato Mokoena,Limpopo,2025-10-02,Consumer
+151,Naledi Naidoo,Gauteng,2025-06-21,Consumer
+152,Lerato Dlamini,Free State,2025-09-05,Consumer
+153,Sipho Naidoo,Limpopo,2023-04-20,Consumer
+154,Lerato Pillay,Free State,2024-05-23,Small Business
+155,Sibusiso Pillay,Free State,2024-04-07,Consumer
+156,Kagiso Mkhize,Free State,2025-06-25,Consumer
+157,Karabo Dlamini,Eastern Cape,2023-05-04,Small Business
+158,Tshepo Dlamini,KwaZulu-Natal,2024-06-25,Consumer
+159,Sipho Mokoena,Free State,2023-06-03,Consumer
+160,Kagiso Mokoena,Eastern Cape,2025-08-20,Consumer
+161,Nokuthula Jacobs,Western Cape,2024-08-02,Small Business
+162,Sibusiso Mkhize,Eastern Cape,2024-06-25,Consumer
+163,Tshepo Naidoo,Limpopo,2024-04-05,Small Business
+164,Thabo Naidoo,Limpopo,2023-05-27,Small Business
+165,Anele Dlamini,North West,2024-08-14,Small Business
+166,Kagiso Pillay,North West,2025-04-04,Consumer
+167,Boitumelo Ndlovu,Mpumalanga,2023-03-23,Small Business
+168,Lerato Mthembu,Gauteng,2023-02-22,Corporate
+169,Karabo Mokoena,KwaZulu-Natal,2024-07-05,Consumer
+170,Boitumelo Mahlangu,KwaZulu-Natal,2025-06-24,Corporate
+171,Tshepo Jacobs,Western Cape,2025-06-11,Consumer
+172,Naledi Molefe,Western Cape,2025-04-16,Corporate
+173,Mpho Jacobs,Limpopo,2024-11-06,Small Business
+174,Palesa Pillay,Gauteng,2025-03-31,Consumer
+175,Kagiso Molefe,Western Cape,2024-10-06,Corporate
+176,Palesa Pillay,Gauteng,2025-04-07,Small Business
+177,Mpho Mokoena,Eastern Cape,2025-08-04,Consumer
+178,Tshepo Jacobs,Gauteng,2025-10-17,Consumer
+179,Boitumelo Mahlangu,North West,2023-09-26,Corporate
+180,Lerato Mokoena,Eastern Cape,2025-09-19,Small Business
+181,Zanele Mokoena,Free State,2024-09-28,Consumer
+182,Anele Dlamini,KwaZulu-Natal,2023-08-21,Consumer
+183,Zanele Mahlangu,Free State,2024-08-20,Small Business
+184,Nomsa Jacobs,KwaZulu-Natal,2025-08-25,Consumer
+185,Nokuthula Naidoo,Western Cape,2025-11-06,Consumer
+186,Naledi Pillay,Limpopo,2025-04-29,Small Business
+187,Nokuthula Mahlangu,North West,2024-08-02,Corporate
+188,Zanele Jacobs,Mpumalanga,2025-07-03,Consumer
+189,Anele Molefe,Eastern Cape,2025-02-11,Corporate
+190,Karabo Ndlovu,Eastern Cape,2024-05-04,Corporate
+191,Thabo Molefe,North West,2025-04-21,Small Business
+192,Mpho Naidoo,North West,2025-02-19,Corporate
+193,Zanele Mkhize,Mpumalanga,2023-09-16,Corporate
+194,Lerato Pillay,North West,2025-06-20,Consumer
+195,Mpho Naidoo,Western Cape,2023-10-23,Consumer
+196,Naledi Mkhize,Free State,2024-06-26,Small Business
+197,Palesa Pillay,Free State,2024-11-03,Corporate
+198,Palesa Pillay,Gauteng,2025-09-26,Small Business
+199,Tshepo Mahlangu,Eastern Cape,2024-04-25,Small Business
+200,Lerato Dlamini,North West,2025-06-07,Consumer
+201,Boitumelo Mokoena,Gauteng,2024-09-05,Consumer
+202,Kagiso Molefe,Mpumalanga,2023-04-25,Consumer
+203,Zanele Ndlovu,KwaZulu-Natal,2024-05-15,Consumer
+204,Karabo Ndlovu,Eastern Cape,2023-06-11,Consumer
+205,Nomsa Jacobs,Limpopo,2023-10-21,Consumer
+206,Boitumelo Jacobs,Limpopo,2023-01-20,Small Business
+207,Lerato Jacobs,Mpumalanga,2023-11-20,Corporate
+208,Tshepo Ndlovu,Limpopo,2024-09-04,Consumer
+209,Nomsa Ndlovu,North West,2024-09-10,Consumer
+210,Karabo Molefe,Limpopo,2025-02-20,Corporate
+211,Thabo Ndlovu,Limpopo,2024-08-27,Consumer
+212,Boitumelo Mkhize,North West,2023-04-11,Small Business
+213,Sibusiso Mthembu,Mpumalanga,2024-08-09,Consumer
+214,Karabo Mahlangu,KwaZulu-Natal,2024-01-25,Small Business
+215,Kagiso Jacobs,Gauteng,2023-03-22,Small Business
+216,Lerato Mahlangu,Mpumalanga,2023-09-27,Small Business
+217,Nomsa Naidoo,Mpumalanga,2023-12-26,Consumer
+218,Palesa Naidoo,Limpopo,2024-07-12,Corporate
+219,Sibusiso Mahlangu,Mpumalanga,2025-09-13,Small Business
+220,Lerato Naidoo,Eastern Cape,2025-08-17,Corporate
+221,Palesa Pillay,Mpumalanga,2025-03-24,Consumer
+222,Thabo Mahlangu,Western Cape,2025-03-19,Consumer
+223,Karabo Ndlovu,Mpumalanga,2024-06-20,Consumer
+224,Anele Mokoena,Mpumalanga,2024-04-23,Corporate
+225,Tshepo Dlamini,North West,2024-03-29,Corporate
+226,Tshepo Ndlovu,Western Cape,2024-09-10,Consumer
+227,Kagiso Jacobs,Western Cape,2023-03-18,Consumer
+228,Sipho Ndlovu,North West,2026-01-05,Consumer
+229,Karabo Naidoo,Free State,2025-05-08,Small Business
+230,Karabo Ndlovu,Limpopo,2025-09-29,Consumer
+231,Nomsa Jacobs,North West,2025-01-28,Corporate
+232,Lerato Molefe,Mpumalanga,2025-01-12,Consumer
+233,Nomsa Dlamini,North West,2024-07-19,Consumer
+234,Tshepo Mkhize,Gauteng,2024-03-10,Consumer
+235,Nomsa Naidoo,Eastern Cape,2024-11-14,Consumer
+236,Karabo Mthembu,Eastern Cape,2024-02-29,Consumer
+237,Sibusiso Mkhize,Gauteng,2023-10-30,Consumer
+238,Sipho Pillay,Limpopo,2023-10-24,Small Business
+239,Tshepo Mokoena,KwaZulu-Natal,2023-08-14,Consumer
+240,Karabo Molefe,Gauteng,2024-05-02,Consumer
+241,Sipho Ndlovu,Western Cape,2023-04-18,Small Business
+242,Anele Molefe,Western Cape,2025-09-02,Consumer
+243,Karabo Mokoena,Limpopo,2024-03-29,Consumer
+244,Thabo Jacobs,Free State,2023-03-05,Consumer
+245,Anele Jacobs,Western Cape,2023-08-10,Corporate
+246,Karabo Naidoo,Western Cape,2024-10-21,Consumer
+247,Mpho Mkhize,Limpopo,2024-10-27,Consumer
+248,Lerato Dlamini,Eastern Cape,2025-05-31,Consumer
+249,Mpho Molefe,North West,2024-04-12,Consumer
+250,Naledi Ndlovu,Mpumalanga,2023-07-14,Small Business
+251,Sipho Jacobs,Western Cape,2025-02-05,Consumer
+252,Lerato Ndlovu,Western Cape,2023-06-24,Small Business
+253,Sibusiso Naidoo,Gauteng,2025-02-02,Small Business
+254,Tshepo Dlamini,Free State,2024-11-06,Consumer
+255,Palesa Mokoena,Limpopo,2025-05-16,Small Business
+256,Lerato Mkhize,Eastern Cape,2024-12-21,Consumer
+257,Nomsa Dlamini,Mpumalanga,2025-09-14,Small Business
+258,Lerato Mahlangu,Eastern Cape,2025-01-22,Small Business
+259,Karabo Mahlangu,Gauteng,2023-02-23,Consumer
+260,Boitumelo Molefe,Mpumalanga,2024-09-24,Consumer
+261,Karabo Ndlovu,Western Cape,2023-10-21,Consumer
+262,Lerato Pillay,Eastern Cape,2023-03-04,Consumer
+263,Naledi Naidoo,Mpumalanga,2025-07-18,Consumer
+264,Sibusiso Mkhize,Western Cape,2024-10-26,Corporate
+265,Sipho Mkhize,Gauteng,2023-11-15,Small Business
+266,Anele Ndlovu,North West,2024-07-11,Small Business
+267,Kagiso Mthembu,Western Cape,2025-04-28,Consumer
+268,Kagiso Mkhize,North West,2023-08-16,Consumer
+269,Thabo Mthembu,Free State,2024-09-23,Corporate
+270,Thabo Mthembu,Limpopo,2023-04-23,Corporate
+271,Sibusiso Mahlangu,Limpopo,2023-10-09,Consumer
+272,Anele Ndlovu,KwaZulu-Natal,2023-01-16,Consumer
+273,Nokuthula Mthembu,Mpumalanga,2025-12-26,Consumer
+274,Mpho Mokoena,North West,2023-03-28,Corporate
+275,Karabo Ndlovu,Free State,2024-10-03,Small Business
+276,Kagiso Dlamini,Free State,2025-05-05,Consumer
+277,Sipho Mkhize,North West,2024-10-27,Small Business
+278,Lerato Ndlovu,Western Cape,2025-01-11,Consumer
+279,Zanele Dlamini,Free State,2025-03-31,Corporate
+280,Nomsa Molefe,KwaZulu-Natal,2024-11-26,Consumer
+281,Zanele Pillay,Eastern Cape,2023-08-22,Corporate
+282,Naledi Naidoo,Eastern Cape,2024-12-16,Consumer
+283,Nomsa Naidoo,KwaZulu-Natal,2024-06-08,Small Business
+284,Sipho Jacobs,North West,2023-06-04,Small Business
+285,Tshepo Mkhize,Mpumalanga,2025-07-08,Corporate
+286,Sipho Jacobs,Western Cape,2024-10-09,Consumer
+287,Sibusiso Mahlangu,Gauteng,2024-09-12,Consumer
+288,Kagiso Jacobs,North West,2023-06-01,Consumer
+289,Palesa Mahlangu,Western Cape,2025-01-25,Small Business
+290,Karabo Mkhize,Free State,2023-07-04,Consumer
+291,Anele Mkhize,Eastern Cape,2023-03-26,Consumer
+292,Zanele Naidoo,Gauteng,2025-09-01,Consumer
+293,Nokuthula Dlamini,KwaZulu-Natal,2024-12-04,Consumer
+294,Anele Pillay,KwaZulu-Natal,2025-06-15,Consumer
+295,Mpho Ndlovu,Mpumalanga,2024-08-02,Small Business
+296,Sibusiso Molefe,Western Cape,2023-04-18,Consumer
+297,Kagiso Mahlangu,KwaZulu-Natal,2025-03-02,Consumer
+298,Boitumelo Molefe,Limpopo,2023-10-17,Corporate
+299,Sipho Mkhize,Western Cape,2025-03-13,Consumer
+300,Tshepo Molefe,KwaZulu-Natal,2025-02-10,Small Business
+301,Lerato Ndlovu,Mpumalanga,2025-12-14,Consumer
+302,Sipho Mthembu,Mpumalanga,2024-09-24,Corporate
+303,Nomsa Mthembu,KwaZulu-Natal,2025-09-22,Consumer
+304,Palesa Dlamini,Gauteng,2024-08-28,Small Business
+305,Karabo Ndlovu,KwaZulu-Natal,2023-09-26,Consumer
+306,Nokuthula Jacobs,Gauteng,2023-12-06,Consumer
+307,Anele Mkhize,Limpopo,2024-05-01,Small Business
+308,Nomsa Pillay,Eastern Cape,2025-07-08,Consumer
+309,Boitumelo Mthembu,Mpumalanga,2025-08-18,Small Business
+310,Anele Mahlangu,Free State,2025-06-21,Consumer
+311,Sipho Mthembu,KwaZulu-Natal,2025-05-07,Corporate
+312,Tshepo Jacobs,Mpumalanga,2023-04-17,Small Business
+313,Nokuthula Pillay,Western Cape,2023-07-30,Consumer
+314,Kagiso Jacobs,KwaZulu-Natal,2023-11-25,Small Business
+315,Boitumelo Mthembu,North West,2023-07-07,Corporate
+316,Mpho Mokoena,Free State,2023-02-24,Consumer
+317,Mpho Dlamini,Mpumalanga,2024-04-27,Consumer
+318,Boitumelo Dlamini,Mpumalanga,2024-10-14,Small Business
+319,Thabo Mahlangu,North West,2023-10-09,Small Business
+320,Sibusiso Jacobs,North West,2023-10-12,Small Business
+321,Thabo Mahlangu,Eastern Cape,2023-06-12,Small Business
+322,Mpho Dlamini,Limpopo,2025-12-16,Consumer
+323,Thabo Mthembu,Free State,2023-09-07,Small Business
+324,Lerato Dlamini,North West,2025-07-25,Small Business
+325,Tshepo Pillay,Eastern Cape,2023-02-03,Small Business
+326,Mpho Mokoena,Mpumalanga,2024-08-19,Consumer
+327,Sipho Dlamini,Mpumalanga,2025-05-03,Consumer
+328,Zanele Pillay,Gauteng,2025-12-13,Consumer
+329,Thabo Ndlovu,Mpumalanga,2025-08-20,Consumer
+330,Naledi Dlamini,Mpumalanga,2023-02-03,Consumer
+331,Sibusiso Mkhize,Mpumalanga,2023-08-01,Consumer
+332,Zanele Molefe,KwaZulu-Natal,2024-12-22,Small Business
+333,Nokuthula Jacobs,KwaZulu-Natal,2025-08-09,Small Business
+334,Nokuthula Jacobs,Gauteng,2023-05-10,Consumer
+335,Sibusiso Mthembu,Gauteng,2023-03-31,Consumer
+336,Zanele Ndlovu,North West,2024-09-27,Consumer
+337,Kagiso Molefe,Gauteng,2024-01-27,Corporate
+338,Kagiso Dlamini,Mpumalanga,2024-11-10,Consumer
+339,Nokuthula Jacobs,Free State,2025-03-30,Consumer
+340,Anele Jacobs,Mpumalanga,2024-01-18,Corporate
+341,Kagiso Dlamini,Free State,2025-11-29,Consumer
+342,Zanele Mahlangu,Mpumalanga,2024-01-05,Consumer
+343,Tshepo Mahlangu,Limpopo,2024-11-02,Consumer
+344,Sipho Jacobs,Mpumalanga,2025-05-22,Consumer
+345,Karabo Ndlovu,Limpopo,2024-12-23,Small Business
+346,Lerato Ndlovu,Mpumalanga,2023-04-28,Consumer
+347,Thabo Naidoo,North West,2023-11-24,Consumer
+348,Nomsa Molefe,Mpumalanga,2023-05-18,Consumer
+349,Karabo Naidoo,North West,2023-03-08,Corporate
+350,Anele Dlamini,KwaZulu-Natal,2025-01-31,Consumer
+351,Naledi Mahlangu,Eastern Cape,2025-03-26,Corporate
+352,Nokuthula Naidoo,North West,2023-02-23,Consumer
+353,Kagiso Mahlangu,North West,2023-08-30,Consumer
+354,Nokuthula Jacobs,Eastern Cape,2024-08-07,Consumer
+355,Anele Naidoo,North West,2023-06-01,Corporate
+356,Tshepo Molefe,Western Cape,2024-10-16,Consumer
+357,Boitumelo Mahlangu,KwaZulu-Natal,2024-08-17,Small Business
+358,Sibusiso Molefe,Eastern Cape,2023-12-23,Consumer
+359,Sibusiso Naidoo,Eastern Cape,2024-02-16,Small Business
+360,Naledi Pillay,Mpumalanga,2023-02-23,Consumer
+361,Karabo Dlamini,Western Cape,2023-09-23,Consumer
+362,Zanele Ndlovu,Free State,2025-09-07,Small Business
+363,Sipho Molefe,Western Cape,2023-06-01,Consumer
+364,Naledi Naidoo,KwaZulu-Natal,2025-11-25,Small Business
+365,Mpho Pillay,Gauteng,2023-09-22,Small Business
+366,Sipho Mahlangu,KwaZulu-Natal,2025-11-27,Consumer
+367,Naledi Pillay,Limpopo,2024-04-06,Small Business
+368,Nomsa Pillay,Limpopo,2024-05-28,Consumer
+369,Karabo Pillay,Western Cape,2024-09-12,Consumer
+370,Karabo Mkhize,KwaZulu-Natal,2023-12-12,Consumer
+371,Palesa Mkhize,Gauteng,2024-11-22,Small Business
+372,Lerato Mokoena,Limpopo,2023-02-28,Small Business
+373,Karabo Mokoena,North West,2025-05-03,Corporate
+374,Tshepo Mahlangu,North West,2024-08-16,Consumer
+375,Kagiso Jacobs,Western Cape,2025-04-11,Small Business
+376,Anele Ndlovu,North West,2023-11-20,Consumer
+377,Karabo Naidoo,Mpumalanga,2024-11-27,Corporate
+378,Nokuthula Molefe,Free State,2024-10-15,Consumer
+379,Zanele Pillay,Western Cape,2025-01-28,Consumer
+380,Lerato Mahlangu,North West,2025-08-13,Consumer
+381,Thabo Mahlangu,Free State,2023-07-18,Corporate
+382,Nomsa Naidoo,Mpumalanga,2025-05-06,Corporate
+383,Nomsa Naidoo,North West,2024-10-02,Corporate
+384,Anele Mahlangu,North West,2025-08-14,Consumer
+385,Zanele Jacobs,Eastern Cape,2025-03-16,Consumer
+386,Thabo Mokoena,Limpopo,2024-12-23,Consumer
+387,Kagiso Pillay,Gauteng,2025-08-21,Small Business
+388,Sipho Mahlangu,Mpumalanga,2025-06-01,Small Business
+389,Thabo Ndlovu,Gauteng,2025-01-19,Small Business
+390,Naledi Pillay,Limpopo,2024-02-03,Consumer
+391,Anele Pillay,Limpopo,2025-10-29,Small Business
+392,Sipho Dlamini,Free State,2023-09-01,Consumer
+393,Zanele Molefe,KwaZulu-Natal,2024-11-25,Consumer
+394,Mpho Pillay,Gauteng,2025-11-08,Consumer
+395,Nokuthula Molefe,North West,2023-10-08,Consumer
+396,Karabo Pillay,KwaZulu-Natal,2023-11-02,Consumer
+397,Sipho Ndlovu,Limpopo,2024-10-14,Small Business
+398,Palesa Pillay,North West,2025-11-04,Small Business
+399,Anele Mokoena,Mpumalanga,2024-09-05,Consumer
+400,Mpho Mkhize,Limpopo,2023-08-13,Small Business
+401,Karabo Jacobs,Limpopo,2023-02-24,Corporate
+402,Nokuthula Mokoena,North West,2024-04-11,Consumer
+403,Sipho Mthembu,Gauteng,2025-02-17,Small Business
+404,Nomsa Mokoena,North West,2023-08-14,Consumer
+405,Mpho Mthembu,Free State,2023-11-07,Consumer
+406,Palesa Mokoena,KwaZulu-Natal,2025-08-23,Consumer
+407,Tshepo Jacobs,Free State,2024-10-27,Consumer
+408,Anele Pillay,Mpumalanga,2023-12-21,Consumer
+409,Karabo Jacobs,Eastern Cape,2024-06-25,Corporate
+410,Zanele Mahlangu,Eastern Cape,2024-07-25,Corporate
+411,Sibusiso Mahlangu,Eastern Cape,2024-09-01,Small Business
+412,Naledi Jacobs,Mpumalanga,2025-09-28,Small Business
+413,Kagiso Dlamini,Free State,2024-07-14,Corporate
+414,Palesa Molefe,KwaZulu-Natal,2025-03-19,Consumer
+415,Nokuthula Dlamini,Mpumalanga,2024-08-12,Corporate
+416,Nokuthula Jacobs,Eastern Cape,2024-06-09,Consumer
+417,Boitumelo Pillay,Limpopo,2024-07-09,Consumer
+418,Nomsa Mokoena,Eastern Cape,2024-05-05,Small Business
+419,Lerato Ndlovu,Mpumalanga,2023-04-18,Small Business
+420,Tshepo Naidoo,Gauteng,2023-07-25,Corporate
+421,Mpho Jacobs,North West,2023-11-20,Small Business
+422,Naledi Mahlangu,Gauteng,2024-08-11,Corporate
+423,Tshepo Mkhize,Eastern Cape,2023-07-03,Consumer
+424,Boitumelo Naidoo,Free State,2023-03-18,Corporate
+425,Boitumelo Mokoena,Free State,2023-12-27,Small Business
+426,Boitumelo Mahlangu,Gauteng,2024-01-17,Consumer
+427,Boitumelo Molefe,Limpopo,2023-08-08,Consumer
+428,Anele Naidoo,North West,2025-12-09,Consumer
+429,Naledi Naidoo,North West,2023-08-19,Small Business
+430,Thabo Molefe,Limpopo,2024-01-17,Small Business
+431,Sipho Mkhize,Free State,2024-01-31,Small Business
+432,Naledi Dlamini,Free State,2025-11-21,Small Business
+433,Sipho Jacobs,Mpumalanga,2024-01-14,Corporate
+434,Kagiso Ndlovu,Eastern Cape,2023-01-14,Consumer
+435,Naledi Mahlangu,Gauteng,2024-06-30,Consumer
+436,Nokuthula Mthembu,Gauteng,2025-01-06,Small Business
+437,Kagiso Naidoo,Free State,2025-08-11,Small Business
+438,Nokuthula Dlamini,Limpopo,2024-09-28,Consumer
+439,Nomsa Naidoo,North West,2024-03-28,Consumer
+440,Mpho Pillay,North West,2025-02-04,Small Business
+441,Sibusiso Mthembu,Western Cape,2024-03-23,Consumer
+442,Nokuthula Molefe,Western Cape,2025-12-17,Corporate
+443,Thabo Pillay,Eastern Cape,2023-08-18,Small Business
+444,Sipho Molefe,North West,2023-11-03,Consumer
+445,Nokuthula Mkhize,North West,2024-02-25,Consumer
+446,Anele Mokoena,North West,2025-11-11,Consumer
+447,Anele Mkhize,Gauteng,2025-04-30,Small Business
+448,Nokuthula Mokoena,Free State,2024-09-23,Consumer
+449,Nokuthula Mthembu,Western Cape,2023-01-07,Consumer
+450,Nokuthula Dlamini,Gauteng,2024-12-06,Corporate
+451,Boitumelo Jacobs,Gauteng,2023-05-22,Consumer
+452,Sibusiso Naidoo,Free State,2024-01-04,Consumer
+453,Anele Ndlovu,Free State,2025-02-22,Consumer
+454,Tshepo Molefe,Western Cape,2023-09-30,Consumer
+455,Mpho Pillay,KwaZulu-Natal,2026-01-05,Small Business
+456,Palesa Mokoena,Gauteng,2024-04-01,Corporate
+457,Tshepo Pillay,Free State,2025-08-06,Consumer
+458,Nomsa Jacobs,Mpumalanga,2024-04-15,Consumer
+459,Boitumelo Dlamini,Gauteng,2024-01-22,Small Business
+460,Karabo Mokoena,Eastern Cape,2025-05-08,Consumer
+461,Karabo Mokoena,North West,2023-07-26,Small Business
+462,Nomsa Mokoena,Free State,2023-04-10,Consumer
+463,Sibusiso Mokoena,KwaZulu-Natal,2024-03-20,Consumer
+464,Nomsa Mkhize,Mpumalanga,2024-08-15,Small Business
+465,Nomsa Mahlangu,KwaZulu-Natal,2024-10-18,Corporate
+466,Nomsa Ndlovu,Limpopo,2025-12-03,Consumer
+467,Tshepo Ndlovu,North West,2023-12-25,Consumer
+468,Tshepo Ndlovu,Mpumalanga,2024-12-06,Small Business
+469,Sipho Mahlangu,Free State,2025-04-16,Consumer
+470,Nomsa Mthembu,Limpopo,2025-08-27,Corporate
+471,Sibusiso Jacobs,Gauteng,2023-10-23,Small Business
+472,Zanele Pillay,KwaZulu-Natal,2025-05-03,Consumer
+473,Nomsa Molefe,Western Cape,2024-06-06,Corporate
+474,Lerato Pillay,Eastern Cape,2025-01-29,Consumer
+475,Tshepo Mkhize,Gauteng,2025-02-11,Corporate
+476,Sibusiso Mkhize,Eastern Cape,2024-01-21,Consumer
+477,Kagiso Mokoena,Eastern Cape,2024-11-12,Corporate
+478,Nokuthula Jacobs,Eastern Cape,2023-08-29,Small Business
+479,Mpho Mthembu,Mpumalanga,2024-02-23,Small Business
+480,Anele Pillay,Mpumalanga,2025-02-18,Consumer
+481,Zanele Jacobs,North West,2025-01-06,Consumer
+482,Sibusiso Molefe,Eastern Cape,2025-08-19,Consumer
+483,Thabo Mkhize,Eastern Cape,2025-04-27,Small Business
+484,Kagiso Pillay,Free State,2023-02-03,Consumer
+485,Naledi Mthembu,Free State,2024-02-06,Small Business
+486,Anele Pillay,Mpumalanga,2024-05-18,Consumer
+487,Nokuthula Jacobs,North West,2025-09-27,Consumer
+488,Sipho Naidoo,North West,2024-12-22,Consumer
+489,Zanele Mokoena,Western Cape,2023-05-01,Corporate
+490,Sibusiso Mokoena,Free State,2023-04-10,Consumer
+491,Lerato Naidoo,Gauteng,2024-04-18,Consumer
+492,Naledi Mokoena,North West,2025-07-22,Small Business
+493,Thabo Pillay,Free State,2023-02-02,Consumer
+494,Nokuthula Mahlangu,Limpopo,2025-12-20,Consumer
+495,Sibusiso Naidoo,Western Cape,2025-05-31,Corporate
+496,Sipho Mthembu,Eastern Cape,2025-12-09,Small Business
+497,Palesa Molefe,Limpopo,2024-05-31,Small Business
+498,Naledi Ndlovu,North West,2023-06-11,Small Business
+499,Kagiso Dlamini,Gauteng,2024-04-07,Consumer
+500,Mpho Pillay,North West,2025-02-15,Consumer
+501,Nokuthula Naidoo,Western Cape,2023-01-20,Consumer
+502,Tshepo Molefe,Western Cape,2025-06-07,Corporate
+503,Nomsa Mthembu,North West,2023-03-29,Consumer
+504,Tshepo Mahlangu,Gauteng,2023-06-02,Consumer
+505,Thabo Mthembu,KwaZulu-Natal,2024-10-06,Small Business
+506,Boitumelo Dlamini,Limpopo,2025-03-26,Consumer
+507,Karabo Ndlovu,Mpumalanga,2024-05-07,Consumer
+508,Sibusiso Dlamini,Mpumalanga,2023-10-14,Consumer
+509,Nomsa Dlamini,Mpumalanga,2025-06-14,Small Business
+510,Sibusiso Molefe,Gauteng,2025-03-23,Small Business
+511,Anele Mthembu,Mpumalanga,2025-07-11,Small Business
+512,Mpho Naidoo,Free State,2025-02-07,Consumer
+513,Sibusiso Mthembu,Western Cape,2024-08-27,Consumer
+514,Mpho Naidoo,Free State,2023-11-12,Consumer
+515,Lerato Mokoena,Limpopo,2023-08-07,Consumer
+516,Lerato Naidoo,Western Cape,2024-07-06,Consumer
+517,Zanele Pillay,Free State,2025-07-08,Consumer
+518,Naledi Pillay,Western Cape,2023-07-03,Small Business
+519,Palesa Ndlovu,Gauteng,2024-10-26,Consumer
+520,Sibusiso Dlamini,Eastern Cape,2025-03-05,Small Business
+521,Tshepo Ndlovu,KwaZulu-Natal,2023-12-14,Consumer
+522,Kagiso Jacobs,KwaZulu-Natal,2024-09-08,Consumer
+523,Kagiso Ndlovu,Limpopo,2025-06-09,Consumer
+524,Naledi Mahlangu,Eastern Cape,2023-06-07,Small Business
+525,Karabo Mkhize,Eastern Cape,2025-10-12,Consumer
+526,Kagiso Mokoena,Free State,2023-10-05,Consumer
+527,Sibusiso Molefe,North West,2025-02-17,Consumer
+528,Kagiso Molefe,Eastern Cape,2023-10-06,Consumer
+529,Mpho Molefe,Limpopo,2023-12-30,Small Business
+530,Karabo Mthembu,Mpumalanga,2025-10-02,Consumer
+531,Naledi Dlamini,Eastern Cape,2025-03-15,Small Business
+532,Tshepo Pillay,Gauteng,2024-01-04,Corporate
+533,Nokuthula Mthembu,North West,2025-08-03,Small Business
+534,Palesa Ndlovu,North West,2023-05-22,Consumer
+535,Nomsa Mahlangu,KwaZulu-Natal,2024-09-12,Small Business
+536,Lerato Jacobs,North West,2025-02-11,Small Business
+537,Zanele Ndlovu,Gauteng,2025-12-30,Small Business
+538,Nokuthula Pillay,Western Cape,2025-01-06,Consumer
+539,Tshepo Molefe,KwaZulu-Natal,2024-05-23,Small Business
+540,Karabo Ndlovu,Mpumalanga,2023-04-01,Corporate
+541,Lerato Mokoena,Western Cape,2025-05-31,Consumer
+542,Nokuthula Pillay,Eastern Cape,2025-11-11,Consumer
+543,Anele Mkhize,KwaZulu-Natal,2025-03-12,Consumer
+544,Anele Dlamini,Limpopo,2023-02-20,Consumer
+545,Lerato Naidoo,Mpumalanga,2023-06-25,Consumer
+546,Sibusiso Mthembu,North West,2025-07-21,Consumer
+547,Anele Jacobs,Mpumalanga,2023-07-19,Consumer
+548,Sibusiso Dlamini,Gauteng,2023-04-02,Small Business
+549,Tshepo Naidoo,Eastern Cape,2023-08-12,Consumer
+550,Naledi Pillay,Free State,2023-11-24,Corporate
+551,Sibusiso Ndlovu,KwaZulu-Natal,2024-04-19,Consumer
+552,Mpho Mokoena,Eastern Cape,2025-06-04,Consumer
+553,Mpho Mokoena,Eastern Cape,2025-05-29,Consumer
+554,Karabo Dlamini,KwaZulu-Natal,2023-05-09,Consumer
+555,Anele Dlamini,Limpopo,2024-02-08,Small Business
+556,Zanele Molefe,Free State,2025-09-29,Small Business
+557,Naledi Molefe,North West,2023-08-22,Small Business
+558,Boitumelo Mkhize,Western Cape,2024-09-01,Small Business
+559,Lerato Mthembu,Limpopo,2024-10-03,Consumer
+560,Nokuthula Naidoo,Free State,2025-02-03,Consumer
+561,Karabo Ndlovu,Free State,2023-10-10,Consumer
+562,Nokuthula Naidoo,KwaZulu-Natal,2026-01-05,Consumer
+563,Sipho Molefe,North West,2023-10-15,Small Business
+564,Thabo Jacobs,KwaZulu-Natal,2025-01-05,Consumer
+565,Zanele Pillay,North West,2025-02-25,Consumer
+566,Mpho Jacobs,North West,2025-10-04,Consumer
+567,Sibusiso Mthembu,Limpopo,2023-03-05,Consumer
+568,Zanele Mahlangu,KwaZulu-Natal,2024-04-05,Small Business
+569,Zanele Pillay,Western Cape,2025-10-11,Small Business
+570,Sibusiso Pillay,Mpumalanga,2024-07-02,Consumer
+571,Sibusiso Jacobs,Eastern Cape,2023-03-27,Corporate
+572,Nokuthula Mthembu,Limpopo,2023-07-29,Corporate
+573,Anele Mahlangu,Mpumalanga,2023-03-08,Corporate
+574,Anele Dlamini,Eastern Cape,2023-06-28,Consumer
+575,Palesa Mkhize,Free State,2024-12-19,Consumer
+576,Sibusiso Mthembu,Eastern Cape,2023-10-13,Small Business
+577,Zanele Mahlangu,KwaZulu-Natal,2024-12-19,Consumer
+578,Kagiso Mkhize,Limpopo,2024-08-22,Corporate
+579,Boitumelo Dlamini,KwaZulu-Natal,2025-11-19,Corporate
+580,Boitumelo Mokoena,Limpopo,2025-04-22,Corporate
+581,Nokuthula Naidoo,Eastern Cape,2023-09-17,Consumer
+582,Palesa Mthembu,Free State,2024-10-21,Consumer
+583,Tshepo Ndlovu,Free State,2024-07-04,Consumer
+584,Mpho Pillay,Limpopo,2023-07-10,Small Business
+585,Anele Jacobs,Mpumalanga,2025-01-25,Small Business
+586,Nokuthula Jacobs,Mpumalanga,2023-07-10,Corporate
+587,Mpho Mthembu,Free State,2025-12-30,Small Business
+588,Kagiso Molefe,Limpopo,2025-10-10,Consumer
+589,Karabo Jacobs,Mpumalanga,2023-09-25,Corporate
+590,Thabo Dlamini,North West,2023-04-10,Consumer
+591,Anele Jacobs,Gauteng,2023-11-20,Corporate
+592,Nomsa Naidoo,Limpopo,2025-05-26,Consumer
+593,Lerato Molefe,Limpopo,2024-07-15,Consumer
+594,Thabo Ndlovu,Limpopo,2023-12-05,Small Business
+595,Mpho Dlamini,Western Cape,2024-04-24,Consumer
+596,Lerato Naidoo,Eastern Cape,2025-09-03,Consumer
+597,Thabo Mokoena,Mpumalanga,2025-06-30,Small Business
+598,Nokuthula Naidoo,North West,2025-05-14,Consumer
+599,Lerato Dlamini,Western Cape,2025-02-23,Consumer
+600,Sipho Ndlovu,KwaZulu-Natal,2024-09-04,Small Business
+601,Lerato Pillay,Gauteng,2023-10-20,Small Business
+602,Anele Molefe,Eastern Cape,2023-12-03,Small Business
+603,Boitumelo Ndlovu,North West,2023-11-07,Corporate
+604,Boitumelo Dlamini,KwaZulu-Natal,2023-06-27,Small Business
+605,Naledi Ndlovu,Mpumalanga,2025-02-25,Small Business
+606,Kagiso Dlamini,Eastern Cape,2024-05-22,Small Business
+607,Sibusiso Mokoena,Limpopo,2024-08-06,Consumer
+608,Nomsa Ndlovu,Limpopo,2025-11-09,Small Business
+609,Anele Ndlovu,Western Cape,2024-05-05,Consumer
+610,Zanele Mokoena,Mpumalanga,2023-05-26,Corporate
+611,Mpho Mkhize,Free State,2023-09-28,Consumer
+612,Sibusiso Jacobs,Western Cape,2023-12-20,Consumer
+613,Thabo Mahlangu,Eastern Cape,2023-05-19,Consumer
+614,Sibusiso Ndlovu,Limpopo,2023-05-04,Small Business
+615,Sibusiso Ndlovu,Free State,2025-10-23,Small Business
+616,Tshepo Pillay,KwaZulu-Natal,2023-06-18,Consumer
+617,Lerato Pillay,Eastern Cape,2024-09-26,Corporate
+618,Zanele Molefe,Free State,2023-11-15,Small Business
+619,Kagiso Ndlovu,Eastern Cape,2023-05-16,Consumer
+620,Boitumelo Ndlovu,Western Cape,2023-06-26,Consumer
+621,Kagiso Naidoo,Western Cape,2023-04-23,Consumer
+622,Nokuthula Mokoena,KwaZulu-Natal,2023-10-09,Consumer
+623,Zanele Pillay,Limpopo,2024-12-11,Consumer
+624,Nokuthula Mahlangu,Western Cape,2023-09-17,Small Business
+625,Naledi Ndlovu,Limpopo,2023-03-02,Consumer
+626,Nokuthula Mkhize,Western Cape,2024-06-22,Consumer
+627,Naledi Mokoena,North West,2025-11-12,Corporate
+628,Naledi Naidoo,Limpopo,2023-12-08,Small Business
+629,Nomsa Pillay,Gauteng,2023-08-25,Consumer
+630,Nomsa Mokoena,North West,2023-01-26,Consumer
+631,Sipho Mokoena,Free State,2023-11-04,Consumer
+632,Mpho Molefe,Limpopo,2024-05-23,Small Business
+633,Lerato Pillay,Gauteng,2025-02-02,Consumer
+634,Thabo Ndlovu,Western Cape,2025-11-22,Corporate
+635,Sibusiso Mahlangu,Mpumalanga,2024-08-01,Consumer
+636,Thabo Molefe,Eastern Cape,2025-07-24,Consumer
+637,Nokuthula Mkhize,Eastern Cape,2024-09-14,Consumer
+638,Sibusiso Mthembu,Eastern Cape,2025-10-07,Consumer
+639,Thabo Mthembu,Mpumalanga,2025-04-19,Small Business
+640,Naledi Mokoena,Free State,2023-01-20,Small Business
+641,Lerato Mthembu,Eastern Cape,2024-09-21,Consumer
+642,Sipho Mahlangu,Western Cape,2023-05-03,Consumer
+643,Boitumelo Pillay,Free State,2024-04-19,Small Business
+644,Anele Dlamini,Western Cape,2025-02-01,Consumer
+645,Lerato Mkhize,Gauteng,2025-03-18,Consumer
+646,Nomsa Mahlangu,Limpopo,2023-09-25,Corporate
+647,Nokuthula Molefe,Mpumalanga,2025-03-15,Consumer
+648,Lerato Mthembu,KwaZulu-Natal,2024-04-23,Small Business
+649,Sipho Dlamini,KwaZulu-Natal,2023-08-12,Consumer
+650,Mpho Dlamini,Mpumalanga,2024-10-05,Corporate
+651,Anele Mahlangu,North West,2024-03-01,Consumer
+652,Lerato Naidoo,Limpopo,2023-09-03,Small Business
+653,Nomsa Molefe,KwaZulu-Natal,2023-03-24,Consumer
+654,Naledi Ndlovu,Gauteng,2024-05-23,Small Business
+655,Palesa Naidoo,Gauteng,2024-06-16,Corporate
+656,Zanele Pillay,Eastern Cape,2025-07-15,Consumer
+657,Sibusiso Naidoo,Western Cape,2023-07-28,Consumer
+658,Sipho Mthembu,Free State,2024-03-31,Consumer
+659,Karabo Mkhize,Limpopo,2023-06-22,Corporate
+660,Thabo Dlamini,Eastern Cape,2023-06-03,Corporate
+661,Sibusiso Naidoo,Western Cape,2025-06-27,Corporate
+662,Lerato Mokoena,North West,2024-11-10,Consumer
+663,Palesa Ndlovu,North West,2025-06-06,Consumer
+664,Sipho Molefe,Eastern Cape,2025-05-23,Corporate
+665,Kagiso Jacobs,KwaZulu-Natal,2024-07-17,Consumer
+666,Tshepo Mahlangu,North West,2024-05-18,Consumer
+667,Thabo Dlamini,Limpopo,2025-09-08,Consumer
+668,Nomsa Pillay,Eastern Cape,2025-05-08,Small Business
+669,Mpho Molefe,North West,2023-02-09,Consumer
+670,Naledi Mkhize,Mpumalanga,2025-09-19,Consumer
+671,Thabo Molefe,Eastern Cape,2024-01-04,Consumer
+672,Thabo Jacobs,Mpumalanga,2024-07-29,Small Business
+673,Sipho Dlamini,Eastern Cape,2024-04-21,Small Business
+674,Zanele Mokoena,Eastern Cape,2024-06-29,Small Business
+675,Naledi Naidoo,KwaZulu-Natal,2025-03-06,Consumer
+676,Sibusiso Molefe,Gauteng,2024-10-13,Small Business
+677,Karabo Mkhize,KwaZulu-Natal,2024-12-21,Small Business
+678,Palesa Jacobs,Limpopo,2024-01-21,Consumer
+679,Lerato Mokoena,Eastern Cape,2023-03-19,Small Business
+680,Zanele Jacobs,Gauteng,2023-02-10,Consumer
+681,Sibusiso Naidoo,Mpumalanga,2024-02-17,Small Business
+682,Thabo Mokoena,KwaZulu-Natal,2024-10-24,Small Business
+683,Sibusiso Dlamini,Mpumalanga,2023-10-18,Corporate
+684,Nokuthula Ndlovu,Western Cape,2025-02-04,Consumer
+685,Sipho Naidoo,Free State,2024-10-22,Small Business
+686,Tshepo Molefe,KwaZulu-Natal,2025-09-24,Small Business
+687,Nomsa Mkhize,KwaZulu-Natal,2024-12-31,Consumer
+688,Sipho Naidoo,Gauteng,2024-08-26,Corporate
+689,Palesa Mkhize,Gauteng,2025-03-12,Consumer
+690,Boitumelo Mkhize,Eastern Cape,2024-10-13,Small Business
+691,Boitumelo Jacobs,KwaZulu-Natal,2023-08-02,Consumer
+692,Nomsa Molefe,Mpumalanga,2023-06-09,Consumer
+693,Palesa Molefe,North West,2023-07-01,Consumer
+694,Nomsa Dlamini,Mpumalanga,2024-03-05,Consumer
+695,Nokuthula Mokoena,Gauteng,2023-08-10,Consumer
+696,Sipho Ndlovu,North West,2025-05-09,Corporate
+697,Zanele Ndlovu,Western Cape,2024-12-20,Small Business
+698,Sipho Jacobs,Western Cape,2024-04-06,Small Business
+699,Kagiso Mokoena,Mpumalanga,2023-03-10,Consumer
+700,Lerato Molefe,KwaZulu-Natal,2023-08-03,Corporate
+701,Nokuthula Dlamini,Western Cape,2023-11-26,Consumer
+702,Nokuthula Mokoena,Free State,2025-09-15,Corporate
+703,Karabo Ndlovu,KwaZulu-Natal,2023-12-04,Consumer
+704,Nomsa Mthembu,Free State,2024-11-09,Small Business
+705,Tshepo Mahlangu,Limpopo,2024-06-27,Consumer
+706,Mpho Mkhize,North West,2023-04-12,Consumer
+707,Thabo Ndlovu,Western Cape,2025-01-08,Consumer
+708,Nomsa Dlamini,Gauteng,2025-09-10,Consumer
+709,Lerato Jacobs,Western Cape,2024-08-20,Consumer
+710,Anele Jacobs,Limpopo,2025-03-25,Consumer
+711,Sipho Molefe,Free State,2025-03-04,Consumer
+712,Thabo Mahlangu,North West,2025-07-01,Consumer
+713,Palesa Mahlangu,Gauteng,2024-04-08,Consumer
+714,Lerato Molefe,Free State,2023-07-18,Corporate
+715,Zanele Mokoena,Free State,2024-04-10,Small Business
+716,Zanele Jacobs,Eastern Cape,2025-05-07,Consumer
+717,Mpho Mokoena,KwaZulu-Natal,2023-06-11,Consumer
+718,Sipho Naidoo,Eastern Cape,2025-07-08,Small Business
+719,Thabo Ndlovu,Western Cape,2023-09-16,Corporate
+720,Nomsa Naidoo,Limpopo,2025-06-10,Consumer
+721,Lerato Ndlovu,Free State,2023-05-18,Small Business
+722,Zanele Jacobs,Gauteng,2024-07-19,Small Business
+723,Sibusiso Ndlovu,Western Cape,2025-12-06,Consumer
+724,Karabo Mkhize,Western Cape,2023-10-31,Corporate
+725,Sibusiso Mahlangu,Mpumalanga,2023-07-26,Corporate
+726,Mpho Jacobs,North West,2024-06-24,Consumer
+727,Mpho Naidoo,Free State,2024-07-18,Consumer
+728,Nokuthula Mthembu,Gauteng,2024-11-09,Small Business
+729,Boitumelo Molefe,Gauteng,2024-07-04,Consumer
+730,Kagiso Mahlangu,North West,2024-09-12,Corporate
+731,Palesa Mthembu,KwaZulu-Natal,2023-07-21,Consumer
+732,Sibusiso Molefe,Limpopo,2025-06-26,Small Business
+733,Nomsa Jacobs,Eastern Cape,2023-07-02,Corporate
+734,Nokuthula Jacobs,Mpumalanga,2025-04-13,Small Business
+735,Sibusiso Naidoo,Western Cape,2025-11-21,Consumer
+736,Mpho Naidoo,Gauteng,2025-11-03,Consumer
+737,Palesa Mokoena,Eastern Cape,2024-02-16,Consumer
+738,Boitumelo Molefe,Eastern Cape,2023-04-14,Consumer
+739,Zanele Ndlovu,Western Cape,2025-08-08,Small Business
+740,Naledi Jacobs,North West,2024-05-10,Consumer
+741,Karabo Pillay,Mpumalanga,2025-08-29,Consumer
+742,Nokuthula Dlamini,Limpopo,2024-06-13,Consumer
+743,Sipho Mkhize,Eastern Cape,2023-04-12,Corporate
+744,Tshepo Mthembu,Limpopo,2024-04-06,Small Business
+745,Thabo Mokoena,North West,2025-11-17,Corporate
+746,Karabo Mokoena,Eastern Cape,2023-12-21,Consumer
+747,Nokuthula Mahlangu,Free State,2024-09-17,Corporate
+748,Anele Mahlangu,Eastern Cape,2024-12-15,Consumer
+749,Palesa Mkhize,Free State,2025-12-02,Small Business
+750,Zanele Molefe,Limpopo,2023-01-16,Consumer
+751,Anele Dlamini,Mpumalanga,2023-08-10,Corporate
+752,Palesa Mahlangu,Limpopo,2024-10-27,Small Business
+753,Nomsa Naidoo,Eastern Cape,2024-09-03,Corporate
+754,Tshepo Molefe,KwaZulu-Natal,2025-04-07,Small Business
+755,Kagiso Mahlangu,Free State,2025-10-15,Consumer
+756,Karabo Mkhize,Eastern Cape,2023-03-14,Consumer
+757,Tshepo Pillay,North West,2024-03-31,Corporate
+758,Zanele Mahlangu,KwaZulu-Natal,2025-01-04,Small Business
+759,Kagiso Dlamini,North West,2024-01-06,Consumer
+760,Nokuthula Pillay,KwaZulu-Natal,2024-06-13,Corporate
+761,Tshepo Dlamini,Eastern Cape,2024-11-18,Consumer
+762,Mpho Molefe,Mpumalanga,2024-09-20,Consumer
+763,Anele Dlamini,North West,2024-08-25,Consumer
+764,Anele Mthembu,Western Cape,2023-05-26,Corporate
+765,Zanele Mahlangu,Free State,2025-02-20,Consumer
+766,Sipho Mthembu,Mpumalanga,2023-11-05,Consumer
+767,Sipho Molefe,KwaZulu-Natal,2025-07-26,Small Business
+768,Naledi Naidoo,Mpumalanga,2025-09-25,Small Business
+769,Anele Mahlangu,Eastern Cape,2023-01-10,Small Business
+770,Karabo Naidoo,North West,2023-12-12,Small Business
+771,Sipho Mkhize,Free State,2023-06-30,Small Business
+772,Mpho Jacobs,Free State,2025-04-06,Consumer
+773,Nomsa Molefe,Gauteng,2025-12-29,Corporate
+774,Nomsa Mokoena,Gauteng,2025-12-23,Small Business
+775,Nomsa Molefe,Limpopo,2024-05-24,Consumer
+776,Zanele Mkhize,Limpopo,2025-02-24,Consumer
+777,Kagiso Mahlangu,North West,2023-04-04,Small Business
+778,Naledi Ndlovu,KwaZulu-Natal,2025-12-09,Consumer
+779,Naledi Mthembu,KwaZulu-Natal,2025-09-30,Corporate
+780,Thabo Mthembu,Eastern Cape,2025-04-06,Small Business
+781,Nomsa Mokoena,KwaZulu-Natal,2023-09-26,Consumer
+782,Mpho Mahlangu,Gauteng,2023-03-18,Small Business
+783,Tshepo Dlamini,Gauteng,2023-04-09,Consumer
+784,Mpho Jacobs,Free State,2023-08-26,Consumer
+785,Anele Naidoo,Eastern Cape,2024-06-01,Small Business
+786,Kagiso Ndlovu,Western Cape,2023-01-20,Small Business
+787,Karabo Mkhize,KwaZulu-Natal,2024-07-06,Consumer
+788,Zanele Mkhize,Western Cape,2023-08-03,Consumer
+789,Anele Mthembu,Eastern Cape,2023-08-06,Small Business
+790,Nomsa Molefe,Free State,2025-12-07,Consumer
+791,Zanele Jacobs,Eastern Cape,2023-03-22,Small Business
+792,Naledi Mthembu,Gauteng,2025-09-11,Consumer
+793,Boitumelo Dlamini,North West,2023-07-02,Consumer
+794,Sibusiso Pillay,Western Cape,2023-07-04,Small Business
+795,Boitumelo Mahlangu,Eastern Cape,2023-07-27,Consumer
+796,Kagiso Jacobs,Gauteng,2024-08-29,Consumer
+797,Palesa Mokoena,Limpopo,2023-12-24,Consumer
+798,Mpho Dlamini,Western Cape,2024-10-02,Corporate
+799,Thabo Naidoo,KwaZulu-Natal,2023-04-04,Consumer
+800,Karabo Mahlangu,Western Cape,2025-06-15,Consumer
+801,Sipho Dlamini,Free State,2024-12-02,Consumer
+802,Kagiso Ndlovu,North West,2025-07-23,Small Business
+803,Lerato Naidoo,Gauteng,2023-12-08,Corporate
+804,Lerato Ndlovu,North West,2023-11-23,Small Business
+805,Sipho Mkhize,Free State,2025-06-16,Small Business
+806,Palesa Naidoo,North West,2023-03-01,Corporate
+807,Boitumelo Ndlovu,North West,2023-08-20,Consumer
+808,Tshepo Molefe,Gauteng,2024-06-19,Small Business
+809,Sibusiso Mkhize,Eastern Cape,2025-12-10,Corporate
+810,Zanele Pillay,Western Cape,2024-11-23,Consumer
+811,Anele Molefe,Free State,2024-05-24,Consumer
+812,Thabo Naidoo,North West,2023-04-22,Corporate
+813,Lerato Jacobs,Mpumalanga,2023-12-05,Consumer
+814,Thabo Pillay,Eastern Cape,2024-07-23,Small Business
+815,Mpho Mthembu,Western Cape,2025-02-14,Consumer
+816,Lerato Jacobs,North West,2025-07-06,Consumer
+817,Nokuthula Mokoena,Western Cape,2025-10-15,Consumer
+818,Zanele Pillay,Gauteng,2023-03-15,Small Business
+819,Boitumelo Pillay,Eastern Cape,2024-09-15,Small Business
+820,Naledi Molefe,Gauteng,2025-07-23,Small Business
+821,Naledi Pillay,North West,2025-07-19,Small Business
+822,Nokuthula Jacobs,Western Cape,2025-01-14,Consumer
+823,Thabo Molefe,Mpumalanga,2024-03-30,Small Business
+824,Zanele Pillay,Mpumalanga,2024-08-20,Small Business
+825,Boitumelo Naidoo,North West,2023-04-04,Consumer
+826,Lerato Mahlangu,Eastern Cape,2025-04-18,Consumer
+827,Nomsa Jacobs,Eastern Cape,2025-03-15,Small Business
+828,Sibusiso Ndlovu,Gauteng,2023-08-09,Corporate
+829,Sibusiso Jacobs,North West,2023-09-10,Small Business
+830,Sipho Jacobs,Gauteng,2025-10-29,Consumer
+831,Zanele Ndlovu,North West,2023-04-10,Corporate
+832,Nokuthula Mkhize,KwaZulu-Natal,2023-12-29,Small Business
+833,Lerato Ndlovu,Mpumalanga,2023-09-20,Consumer
+834,Mpho Mkhize,Eastern Cape,2025-02-26,Consumer
+835,Kagiso Jacobs,KwaZulu-Natal,2024-12-03,Consumer
+836,Kagiso Pillay,Mpumalanga,2025-11-15,Small Business
+837,Nomsa Mthembu,Limpopo,2024-03-21,Small Business
+838,Nokuthula Naidoo,Mpumalanga,2023-09-29,Small Business
+839,Zanele Jacobs,Free State,2024-12-22,Small Business
+840,Kagiso Ndlovu,Gauteng,2025-12-29,Consumer
+841,Mpho Naidoo,Gauteng,2023-02-21,Small Business
+842,Kagiso Naidoo,Limpopo,2024-02-14,Small Business
+843,Palesa Mokoena,Limpopo,2023-10-27,Consumer
+844,Naledi Jacobs,Western Cape,2023-03-08,Small Business
+845,Nokuthula Pillay,Free State,2024-04-04,Consumer
+846,Nokuthula Mokoena,Free State,2024-08-12,Consumer
+847,Zanele Mokoena,Gauteng,2024-10-02,Small Business
+848,Karabo Jacobs,Eastern Cape,2024-02-20,Corporate
+849,Sibusiso Mkhize,Eastern Cape,2025-01-23,Small Business
+850,Kagiso Jacobs,KwaZulu-Natal,2024-02-01,Corporate
+851,Sipho Naidoo,Western Cape,2023-06-02,Consumer
+852,Kagiso Pillay,Limpopo,2025-05-27,Consumer
+853,Thabo Molefe,North West,2024-06-06,Small Business
+854,Thabo Naidoo,Mpumalanga,2023-11-14,Small Business
+855,Anele Mkhize,Mpumalanga,2024-09-08,Consumer
+856,Zanele Mthembu,KwaZulu-Natal,2024-10-12,Consumer
+857,Sipho Ndlovu,Free State,2025-10-31,Consumer
+858,Boitumelo Mthembu,Mpumalanga,2024-03-29,Consumer
+859,Nomsa Mkhize,North West,2024-08-24,Corporate
+860,Lerato Molefe,North West,2023-01-19,Consumer
+861,Thabo Molefe,Free State,2024-05-14,Corporate
+862,Mpho Mahlangu,Limpopo,2023-08-21,Consumer
+863,Palesa Molefe,North West,2025-11-24,Consumer
+864,Boitumelo Mthembu,Mpumalanga,2024-08-30,Consumer
+865,Sipho Pillay,Gauteng,2023-07-16,Small Business
+866,Tshepo Mthembu,Free State,2024-03-07,Small Business
+867,Zanele Ndlovu,Western Cape,2024-02-26,Small Business
+868,Thabo Jacobs,Mpumalanga,2023-11-11,Consumer
+869,Thabo Naidoo,Limpopo,2023-05-31,Small Business
+870,Boitumelo Mahlangu,Free State,2024-04-11,Consumer
+871,Mpho Molefe,Gauteng,2025-04-08,Consumer
+872,Zanele Mokoena,Western Cape,2023-08-31,Small Business
+873,Nokuthula Dlamini,Mpumalanga,2023-04-04,Corporate
+874,Kagiso Mahlangu,Western Cape,2023-08-06,Consumer
+875,Mpho Ndlovu,Gauteng,2025-06-15,Consumer
+876,Nomsa Naidoo,Free State,2025-12-28,Small Business
+877,Tshepo Naidoo,Limpopo,2024-08-27,Small Business
+878,Thabo Pillay,KwaZulu-Natal,2025-02-03,Consumer
+879,Karabo Mkhize,Free State,2023-01-11,Consumer
+880,Kagiso Mthembu,Mpumalanga,2023-06-24,Consumer
+881,Sipho Naidoo,KwaZulu-Natal,2025-11-15,Consumer
+882,Nomsa Dlamini,KwaZulu-Natal,2024-06-01,Small Business
+883,Palesa Pillay,North West,2023-04-22,Small Business
+884,Kagiso Dlamini,Limpopo,2023-05-30,Consumer
+885,Naledi Molefe,KwaZulu-Natal,2025-09-24,Small Business
+886,Lerato Mahlangu,Western Cape,2024-04-25,Corporate
+887,Anele Jacobs,Mpumalanga,2024-10-12,Small Business
+888,Nokuthula Mkhize,KwaZulu-Natal,2024-09-18,Small Business
+889,Sibusiso Molefe,Free State,2025-01-16,Consumer
+890,Nomsa Mthembu,Free State,2024-10-03,Consumer
+891,Sipho Molefe,North West,2025-01-06,Consumer
+892,Sibusiso Mahlangu,North West,2025-01-04,Small Business
+893,Tshepo Mkhize,Western Cape,2023-12-26,Small Business
+894,Boitumelo Pillay,Eastern Cape,2023-10-14,Consumer
+895,Nokuthula Dlamini,Gauteng,2023-06-06,Small Business
+896,Palesa Mkhize,Free State,2023-03-05,Small Business
+897,Boitumelo Mokoena,Limpopo,2024-03-11,Consumer
+898,Tshepo Naidoo,Mpumalanga,2025-08-24,Consumer
+899,Sipho Jacobs,Western Cape,2024-08-18,Consumer
+900,Thabo Mthembu,KwaZulu-Natal,2025-10-25,Small Business
+901,Anele Naidoo,KwaZulu-Natal,2023-10-15,Small Business
+902,Nokuthula Jacobs,Mpumalanga,2023-10-27,Consumer
+903,Nomsa Dlamini,Limpopo,2025-09-25,Consumer
+904,Tshepo Mthembu,Mpumalanga,2023-03-29,Consumer
+905,Boitumelo Mokoena,Gauteng,2025-07-20,Corporate
+906,Lerato Pillay,Limpopo,2024-10-25,Small Business
+907,Karabo Pillay,KwaZulu-Natal,2024-06-23,Consumer
+908,Naledi Mkhize,Western Cape,2025-02-14,Consumer
+909,Boitumelo Mthembu,Free State,2025-02-09,Consumer
+910,Anele Jacobs,Gauteng,2024-12-07,Consumer
+911,Anele Naidoo,Eastern Cape,2023-10-12,Consumer
+912,Nomsa Naidoo,KwaZulu-Natal,2024-07-29,Consumer
+913,Tshepo Mthembu,Free State,2023-08-31,Small Business
+914,Anele Jacobs,North West,2023-08-21,Consumer
+915,Tshepo Ndlovu,Gauteng,2023-11-27,Consumer
+916,Karabo Mkhize,KwaZulu-Natal,2023-09-19,Consumer
+917,Thabo Mkhize,KwaZulu-Natal,2025-11-15,Consumer
+918,Boitumelo Naidoo,Free State,2024-06-12,Small Business
+919,Boitumelo Mahlangu,Western Cape,2023-02-08,Consumer
+920,Palesa Jacobs,KwaZulu-Natal,2025-08-23,Consumer
+921,Karabo Naidoo,KwaZulu-Natal,2025-04-21,Small Business
+922,Kagiso Naidoo,Mpumalanga,2025-11-12,Corporate
+923,Nomsa Ndlovu,Free State,2023-05-21,Consumer
+924,Nomsa Pillay,Free State,2023-02-03,Small Business
+925,Sipho Jacobs,Gauteng,2023-07-17,Corporate
+926,Zanele Dlamini,Western Cape,2025-12-24,Consumer
+927,Boitumelo Mkhize,Gauteng,2023-09-24,Corporate
+928,Zanele Ndlovu,Mpumalanga,2025-06-02,Corporate
+929,Mpho Mthembu,North West,2025-12-21,Small Business
+930,Naledi Mkhize,Western Cape,2025-02-19,Consumer
+931,Anele Mthembu,Western Cape,2024-06-05,Consumer
+932,Kagiso Mthembu,Gauteng,2025-04-16,Small Business
+933,Karabo Pillay,Western Cape,2023-01-15,Consumer
+934,Tshepo Mthembu,Mpumalanga,2025-02-07,Consumer
+935,Sipho Ndlovu,Limpopo,2023-08-07,Consumer
+936,Mpho Mkhize,Mpumalanga,2026-01-02,Small Business
+937,Sibusiso Mthembu,Free State,2025-03-24,Small Business
+938,Sipho Molefe,North West,2025-09-15,Consumer
+939,Karabo Molefe,Free State,2024-09-20,Small Business
+940,Nokuthula Mthembu,North West,2023-09-01,Small Business
+941,Lerato Mthembu,Free State,2023-11-28,Small Business
+942,Sipho Ndlovu,Gauteng,2023-04-17,Small Business
+943,Anele Mkhize,Free State,2023-10-25,Consumer
+944,Nomsa Molefe,Western Cape,2024-06-22,Small Business
+945,Boitumelo Ndlovu,Limpopo,2025-02-26,Small Business
+946,Sibusiso Naidoo,North West,2023-04-28,Consumer
+947,Palesa Pillay,Limpopo,2024-02-18,Consumer
+948,Zanele Mthembu,KwaZulu-Natal,2025-11-11,Small Business
+949,Nomsa Mokoena,KwaZulu-Natal,2025-01-06,Consumer
+950,Sibusiso Ndlovu,Mpumalanga,2024-07-19,Small Business
+951,Karabo Mthembu,Gauteng,2025-04-10,Small Business
+952,Boitumelo Dlamini,Limpopo,2023-05-21,Small Business
+953,Naledi Mahlangu,Eastern Cape,2024-12-13,Small Business
+954,Anele Ndlovu,Gauteng,2024-02-03,Consumer
+955,Zanele Dlamini,Western Cape,2025-04-13,Consumer
+956,Lerato Pillay,Limpopo,2024-11-27,Corporate
+957,Nokuthula Jacobs,Free State,2024-05-27,Small Business
+958,Sibusiso Molefe,North West,2024-05-13,Small Business
+959,Anele Dlamini,Limpopo,2023-02-26,Consumer
+960,Tshepo Mthembu,Mpumalanga,2024-03-27,Consumer
+961,Zanele Pillay,Gauteng,2024-12-24,Small Business
+962,Nomsa Mahlangu,Western Cape,2024-06-23,Consumer
+963,Lerato Pillay,KwaZulu-Natal,2024-12-01,Consumer
+964,Nomsa Mkhize,Limpopo,2024-12-25,Consumer
+965,Anele Mthembu,Eastern Cape,2024-01-25,Small Business
+966,Nomsa Mthembu,Eastern Cape,2024-06-27,Small Business
+967,Sipho Dlamini,Western Cape,2024-12-30,Corporate
+968,Karabo Mokoena,Gauteng,2025-10-05,Small Business
+969,Karabo Molefe,North West,2025-01-30,Corporate
+970,Anele Naidoo,Limpopo,2024-07-16,Consumer
+971,Thabo Pillay,Free State,2023-09-20,Consumer
+972,Zanele Molefe,Free State,2023-03-08,Corporate
+973,Anele Dlamini,North West,2023-12-24,Consumer
+974,Thabo Mthembu,Free State,2023-01-18,Small Business
+975,Naledi Mkhize,Limpopo,2024-10-28,Consumer
+976,Nomsa Mahlangu,North West,2024-06-22,Corporate
+977,Naledi Naidoo,North West,2024-12-03,Consumer
+978,Nokuthula Molefe,Mpumalanga,2025-05-08,Corporate
+979,Anele Naidoo,KwaZulu-Natal,2024-07-26,Corporate
+980,Palesa Dlamini,Limpopo,2024-04-13,Small Business
+981,Palesa Ndlovu,Eastern Cape,2025-06-04,Consumer
+982,Anele Mokoena,KwaZulu-Natal,2023-11-03,Consumer
+983,Boitumelo Pillay,Mpumalanga,2023-10-03,Small Business
+984,Kagiso Pillay,Gauteng,2024-09-06,Consumer
+985,Thabo Mthembu,Limpopo,2023-12-01,Consumer
+986,Anele Molefe,Limpopo,2023-07-17,Consumer
+987,Naledi Mokoena,Free State,2024-06-11,Consumer
+988,Karabo Mkhize,KwaZulu-Natal,2024-02-12,Corporate
+989,Naledi Molefe,North West,2024-08-05,Small Business
+990,Boitumelo Dlamini,Free State,2025-07-04,Small Business
+991,Tshepo Naidoo,KwaZulu-Natal,2025-08-07,Small Business
+992,Mpho Mkhize,Free State,2024-11-21,Small Business
+993,Lerato Naidoo,Mpumalanga,2023-05-27,Consumer
+994,Tshepo Mahlangu,Limpopo,2024-10-10,Small Business
+995,Kagiso Jacobs,Mpumalanga,2025-03-20,Small Business
+996,Anele Ndlovu,KwaZulu-Natal,2025-12-02,Consumer
+997,Sipho Mthembu,Limpopo,2023-02-17,Corporate
+998,Nomsa Naidoo,Free State,2023-06-13,Consumer
+999,Boitumelo Jacobs,Gauteng,2023-05-11,Consumer
+1000,Zanele Dlamini,Western Cape,2025-03-24,Consumer
